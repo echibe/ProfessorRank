@@ -1,0 +1,20 @@
+th.header{
+  text-align: left;
+  cursor: pointer;
+  color: rgb(89, 141, 255);
+}
+
+tr{
+  vertical-align: top;
+}
+
+body {
+  margin: 20px;
+}
+input{
+  margin-bottom: 20px;
+}
+
+input#search_val {
+    margin-bottom: -8px;
+}
