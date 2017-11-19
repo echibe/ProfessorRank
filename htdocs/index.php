@@ -2,10 +2,10 @@
 <html>
 <head>
   <title>IIT Professor Search</title>
-  <link href="/~echibe/bootstrap-3.3.7-dist/css/bootstrap.min.css" rel="stylesheet" type = "text/css"/>
-  <link href="/~echibe/style.css" rel="stylesheet" type = "text/css"/>
-  <script type="text/javascript" src="/~echibe/tablesorter-master/jquery-latest.js"></script>
-  <script type="text/javascript" src="/~echibe/tablesorter-master/jquery.tablesorter.js"></script>
+  <link href="bootstrap-3.3.7-dist/css/bootstrap.min.css" rel="stylesheet" type = "text/css"/>
+  <link href="style.css" rel="stylesheet" type = "text/css"/>
+  <script type="text/javascript" src="tablesorter-master/jquery-latest.js"></script>
+  <script type="text/javascript" src="tablesorter-master/jquery.tablesorter.js"></script>
 </head>
 <body>
 
