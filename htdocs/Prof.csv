@@ -1,210 +1,238 @@
 id,last,first,rmp_rating,confidence,IIT_rating,courses,overall
-1,Abbasian,Javad,2.9,29,4.5,"['CHE351', 'CHE494', 'CHE451', 'CHE503', 'CHE496', 'CHE296']",3.893103448275862
+1271,Abarji, Snejana,3.3,3,,,3.3
+1,Abbasian,Javad,2.9,29,4.5,"['CHE351', 'CHE494', 'CHE451', 'CHE503', 'CHE496', 'CHE296']",3.893103448
 2,Abdolhossein Pour,Farid,,1,4.5,['ARCH497'],4.5
 3,Acosta,Andrew,,2,3.31,"['MSF545', 'MSF585']",3.31
 4,Acosta,Ivan,,,,['AS301'],
-5,Adams,Aaron,5.0,3,4.55,['ARCH202'],4.8500000000000005
+5,Adams,Aaron,5,3,4.55,['ARCH202'],4.85
 6,Adams,Bernhard,,,,['BME431'],
 7,Adams,Kate,,3,4.56,"['PESL031', 'PESL022', 'PESL021']",4.56
-8,Ade-Oshifogun,Olawale,1.0,3,2.2,"['ITMD421', 'IT']",1.8
-9,Aderangi,Nader,2.7,53,4.34,"['CHE301', 'CHE302', 'CHE418', 'CHE202', 'CHE317', 'CHE351']",3.9067924528301887
-10,Adler,Andre,3.0,90,3.77,"['MATH474', 'MATH251', 'MATH252', 'MATH475', 'MATH151', 'MATH483', 'MATH540', 'MATH333', 'MATH476']",3.2053333333333334
-11,Agam,Gady,2.4,37,4.37,"['CS411', 'CS584', 'CS512', 'CS422']",3.038918918918919
-12,Ahmadi,Omid,4.4,12,4.27,"['PHYS224', 'PHYS221', 'PHYS123', 'PHYS413']",4.324166666666667
+8,Ade-Oshifogun,Olawale,1,3,2.2,"['ITMD421', 'IT']",1.8
+9,Aderangi,Nader,2.7,53,4.34,"['CHE301', 'CHE302', 'CHE418', 'CHE202', 'CHE317', 'CHE351']",3.906792453
+10,Adler,Andre,3,90,3.77,"['MATH474', 'MATH251', 'MATH252', 'MATH475', 'MATH151', 'MATH483', 'MATH540', 'MATH333', 'MATH476']",3.205333333
+11,Agam,Gady,2.4,37,4.37,"['CS411', 'CS584', 'CS512', 'CS422']",3.038918919
+12,Ahmadi,Omid,4.4,12,4.27,"['PHYS224', 'PHYS221', 'PHYS123', 'PHYS413']",4.324166667
 13,Ahmed,Shujaat,,,,['PSYC301'],
 14,Akbas,Bulent,,,,['CAE431'],
-15,Aldawud,Omar,2.4,69,4.35,"['CS445', 'CS487', 'CSP585', 'CS525', 'CS425', 'ITM312', 'ITM311', 'ITMD466', 'ITMD422', 'ITMD527', 'ITMD413', 'IT']",3.3043478260869565
+15,Aldawud,Omar,2.4,69,4.35,"['CS445', 'CS487', 'CSP585', 'CS525', 'CS425', 'ITM312', 'ITM311', 'ITMD466', 'ITMD422', 'ITMD527', 'ITMD413', 'IT']",3.304347826
 16,Alexis,Jeremy,,25,4.09,"['ID535', 'ID536', 'ID570', 'ID573', 'ID574', 'ID519', 'ID537', 'IPRO497', 'ID533', 'ID534', 'ID580', 'ID598', 'IPRO397', 'ID584', 'IPMM501', 'IPRO100', 'IDX542', 'IDX544']",4.09
 17,Alimoradi,Arzhang,,1,4.19,['CAE431'],4.19
 18,Allison,Fallon,,3,4.21,['LIT380'],4.21
 19,Alpan,Mete,,1,3.48,"['MMAE232', 'MMAE323', 'CAE530', 'MMAE525']",3.48
 20,Altshuler,Joseph,,,,['ARCH438'],
-21,Ammigan,Kavin,4.0,5,2.91,['MMAE320'],3.782
+21,Ammigan,Kavin,4,5,2.91,['MMAE320'],3.782
 22,Anagnost,Adrian,,1,4.75,['AAH322'],4.75
 23,Anand,Sachin,,13,3.97,"['ARCH403', 'ARCH404', 'ARCH513', 'ARCH514']",3.97
 24,Anand,Smriti,,15,4.49,"['BUS301', 'MBA506', 'MSC611']",4.49
 25,Anastasio,Mark,3.8,4,3.85,"['BME330', 'BME542', 'BME309']",3.825
 26,Andersen,Leslie,,5,4.81,"['COOP012', 'COOP013', 'COOP022', 'COOP032', 'COOP043', 'INTR015']",4.81
 27,Anderson,John,,1,4.44,['CHE351'],4.44
-28,Anderson,Paul,1.5,30,4.19,"['CAE593', 'EM507', 'ENVE501', 'ENVE506', 'ENVE485', 'ENVE585', 'CHE426', 'CAE523', 'CAE589', 'ENVE404', 'ENVE542', 'CAE302']",4.010666666666667
+28,Anderson,Paul,1.5,30,4.19,"['CAE593', 'EM507', 'ENVE501', 'ENVE506', 'ENVE485', 'ENVE585', 'CHE426', 'CAE523', 'CAE589', 'ENVE404', 'ENVE542', 'CAE302']",4.010666667
 29,Anderson,Rebecca,,1,3.87,['PSYC301'],3.87
 30,Anderson,Robert,,24,4.59,"['CHE543', 'CHE506']",4.59
-31,Anjali,Tricha,2.2,27,3.75,"['ECE407', 'ECE545', 'ECE542', 'ECE544']",2.9462962962962966
-32,Anthony,Sean,5.0,4,4.41,"['COM125', 'HUM380', 'LIT380']",4.5575
+31,Anjali,Tricha,2.2,27,3.75,"['ECE407', 'ECE545', 'ECE542', 'ECE544']",2.946296296
+32,Anthony,Sean,5,4,4.41,"['COM125', 'HUM380', 'LIT380']",4.5575
 33,Antler,Caroline,,0,,['PSYC303'],
 34,Arastoopour,Hamid,,12,4.53,"['BME301', 'CHE301', 'CHE406', 'CHE542']",4.53
 35,Araujo,Fabiana,,1,4.27,['PSYC222'],4.27
-36,Arditi,David,3.6,37,4.65,"['CAE574', 'CAE575', 'CAE473', 'CAE577']",4.508108108108108
-37,Arfanakis,Konstantinos,4.2,18,4.34,"['BME309', 'BME438']",4.262222222222222
-38,Argamon,Shlomo,2.7,25,3.59,"['CS480', 'CS481', 'CS425', 'CS584', 'CS585', 'CSP572']",3.0204000000000004
+36,Arditi,David,3.6,37,4.65,"['CAE574', 'CAE575', 'CAE473', 'CAE577']",4.508108108
+37,Arfanakis,Konstantinos,4.2,18,4.34,"['BME309', 'BME438']",4.262222222
+38,Argamon,Shlomo,2.7,25,3.59,"['CS480', 'CS481', 'CS425', 'CS584', 'CS585', 'CSP572']",3.0204
 39,Arifi,Imir,,2,3.94,['MSF555'],3.94
 40,Arnold,Jason,,1,4.29,['CS425'],4.29
 41,Arora,Adarsh,,6,4.69,"['ITMM481', 'IT', 'ITMM482', 'ITMM582']",4.69
 42,Arshad,Tayyab,,3,4.2,"['PSYC181', 'GLS227', 'GLS180']",4.2
 43,Ashton,Weslynne,,13,4.24,"['EMS504', 'EMS529', 'BUS510', 'BUS497', 'SMGT504', 'SMGT595']",4.24
-44,Atkin,Guillermo,2.3,67,4.24,"['ECE403', 'ECE511', 'ECE515', 'ECE519', 'ECE708', 'ECE514', 'ECE513', 'ECE308', 'ECE721']",3.602985074626866
+44,Atkin,Guillermo,2.3,67,4.24,"['ECE403', 'ECE511', 'ECE515', 'ECE519', 'ECE708', 'ECE514', 'ECE513', 'ECE308', 'ECE721']",3.602985075
 45,Attali,Anne,,1,4.86,['ARCH497'],4.86
 46,Attele,Kapila,,23,4.35,"['MATH252', 'MATH333', 'MATH251']",4.35
+1272,Attelle, Rohan,4,35,,,4
+1273,Axelrod, Leslie,4.2,14,,,4.2
 47,Ayitou,Anoklase,,1,2.27,['CHEM240'],2.27
-48,Ayman,Roya,1.4,22,3.92,"['INTM511', 'PSYC556', 'PSYC558', 'PSYC580', 'PSYC531']",3.4618181818181815
-49,Ayyagari Venkata S,Ravi Sastri,,1,4.0,['MMAE350'],4.0
-50,Bach,Patricia,4.0,9,3.73,"['PSYC221', 'PSYC510', 'PSYC501', 'PSYC533', 'PSYC227']",3.7600000000000002
+48,Ayman,Roya,1.4,22,3.92,"['INTM511', 'PSYC556', 'PSYC558', 'PSYC580', 'PSYC531']",3.461818182
+1274,Ayodele, Timothy,5,1,,,5
+49,Ayyagari Venkata S,Ravi Sastri,,1,4,['MMAE350'],4
+50,Bach,Patricia,4,9,3.73,"['PSYC221', 'PSYC510', 'PSYC501', 'PSYC533', 'PSYC227']",3.76
 51,Bachmann,Scott,,,,['ITMO557'],
 52,Bachrach,Julie,,1,4.4,['ARCH445'],4.4
-53,Bader,Atef,4.7,55,4.58,"['CS447', 'CS587', 'CSP586', 'CSP587', 'CS763', 'CS521', 'CSP595']",4.619272727272727
+53,Bader,Atef,4.7,55,4.58,"['CS447', 'CS587', 'CSP586', 'CSP587', 'CS763', 'CS521', 'CSP595']",4.619272727
 54,Baek,Seungho,,1,4.06,['BUS458'],4.06
 55,Baerentzen,Mogens,,8,4.41,"['PSYC410', 'PSYC549', 'PSYC557', 'PSYC563', 'PSYC578', 'PSYC411', 'PSYC588']",4.41
-56,Bahramirad,Shaghayegh,3.0,8,3.99,"['CAE383', 'CAE466', 'ECE580', 'ECE581', 'ECE579']",3.86625
+56,Bahramirad,Shaghayegh,3,8,3.99,"['CAE383', 'CAE466', 'ECE580', 'ECE581', 'ECE579']",3.86625
 57,Bailey,Brian,,11,4.68,"['ITMD461', 'ITMD462', 'ITMD562', 'IT', 'ITMD465', 'ITMD565']",4.68
 58,Bailey,Jennifer,,2,4.41,['PSYC303'],4.41
 59,Baird,James,,4,4.59,"['ARCH417', 'ARCH543']",4.59
 60,Bakalli,Burim,,1,4.06,['IT'],4.06
 61,Balasubramanian,Siva,,,,['MSC612'],
 62,Balogh,Brett,,7,4.22,"['ARCH125', 'ARCH433', 'ARCH226', 'ARCH435', 'ARCH420', 'ARCH497', 'ARCH508', 'ARCH208', 'ARCH507']",4.22
-63,Bariff,Martin,2.3,21,3.71,"['BUS423', 'MBA515', 'MBA537', 'BUS221', 'MAC522', 'MBA554', 'MAC524', 'MAC525', 'BUS102', 'BUS550', 'MAX522', 'BUS497']",3.575714285714285
+1275,Banerjee, Somdev,2,2,,,2
+1276,Barbarosoglu, Bahadir,5,1,,,5
+63,Bariff,Martin,2.3,21,3.71,"['BUS423', 'MBA515', 'MBA537', 'BUS221', 'MAC522', 'MBA554', 'MAC524', 'MAC525', 'BUS102', 'BUS550', 'MAX522', 'BUS497']",3.575714286
 64,Barnes,Jessica,,1,4.14,['IPRO497'],4.14
 65,Barney,Carol,,4,4.26,"['ARCH417', 'ARCH418', 'ARCH420', 'ARCH419']",4.26
 66,Barney,Ross,,1,4.75,"['ARCH201', 'ARCH418', 'ARCH417']",4.75
 67,Barone,Thomas,,7,4.69,"['PESL021', 'PESL032', 'PESL041', 'PESL061', 'PESL022', 'PESL062', 'ELP861', 'ELP862']",4.69
-68,Barrea,Raul,2.6,11,3.18,"['PHYS123', 'PHYS221']",2.810909090909091
-69,Basha,Anwer,,1,4.0,['CHEM530'],4.0
-70,Batchos,Elisabeth,4.5,6,4.54,"['PSYC222', 'PSYC303', 'PSYC380']",4.5200000000000005
+68,Barrea,Raul,2.6,11,3.18,"['PHYS123', 'PHYS221']",2.810909091
+69,Basha,Anwer,,1,4,['CHEM530'],4
+70,Batchos,Elisabeth,4.5,6,4.54,"['PSYC222', 'PSYC303', 'PSYC380']",4.52
+1277,Batchos, Lisa,4.5,2,,,4.5
 71,Batka,Shawn,,,,['INTM446'],
-72,Batson,Laura,4.2,21,4.52,"['COM111', 'COM580', 'COM101', 'COM421', 'COM523', 'IPRO497', 'COM428']",4.443809523809524
-73,Bauer,Charles,4.4,23,4.58,"['CS485', 'CS560', 'CS561']",4.517391304347826
+72,Batson,Laura,,16,4.52,"['COM111', 'COM580', 'COM101', 'COM421', 'COM523', 'IPRO497', 'COM428']",4.52
+1278,Batson, L,4.2,5,,,4.2
+73,Bauer,Charles,4.4,23,4.58,"['CS485', 'CS560', 'CS561']",4.517391304
 74,Bauer,Kristina,,4,4.55,"['PSYC409', 'PSYC517', 'PSYC301', 'PSYC555']",4.55
-75,Bauer,Matthew,4.0,85,4.42,"['CS201', 'CS105', 'CS430', 'CS330', 'CS100', 'CS104', 'CS110', 'CS115', 'CS116']",4.192705882352941
+75,Bauer,Matthew,4,85,4.42,"['CS201', 'CS105', 'CS430', 'CS330', 'CS100', 'CS104', 'CS110', 'CS115', 'CS116']",4.192705882
 76,Bauer,Matthew,,13,4.58,"['COM301', 'COM601', 'IPRO497', 'COM380', 'COM580', 'COM308', 'HUM200']",4.58
 77,Beck,Steven,,11,4.11,"['IPRO497', 'CAE469']",4.11
-78,Beckman,Alan Mattox,4.6,63,4.61,"['CS331', 'CS440', 'IPRO497', 'CS536', 'CS541', 'CS443']",4.604285714285714
+78,Beckman,Alan Mattox,,27,4.61,"['CS331', 'CS440', 'IPRO497', 'CS536', 'CS541', 'CS443']",4.61
+1279,Beckman, Mattox,4.6,36,,,4.6
 79,Bedoya Ikeda,Carlos Alberto,,,,['ARCH419'],
 80,Bekiarov,Stoyan,,3,4.05,"['ECE551', 'ECE550']",4.05
 81,Bekyarova,Tanya,4.7,40,4.66,"['BIOL305', 'BIOL533', 'BIOL114', 'BIOL117', 'BIOL522', 'BIOL446', 'BIOL501', 'BIOL523', 'BIOL115']",4.667
 82,Beltemacchi,Peter,,5,3.43,"['ARCH520', 'CRP201', 'CRP465', 'CRP519', 'ARCH418', 'CRP520']",3.43
-83,Ben-Zeev,Dror,4.5,25,4.73,"['PSYC227', 'PSYC303', 'PSYC497']",4.546
+1280,Ben-Ze'Ev, Dror,4.5,20,,,4.5
+83,Ben-Zeev,Dror,,5,4.73,"['PSYC227', 'PSYC303', 'PSYC497']",4.73
 84,Bennett,Faith,,8,3.9,"['LIT328', 'LIT343', 'LIT366', 'LIT380']",3.9
 85,Bennett,Jason,,2,4.38,"['AS101', 'AS202', 'AS401', 'AS302']",4.38
 86,Berkaliev,Zaur,,,,"['MATH420', 'MSED552', 'MATH300']",
 87,Bernard,Christopher,,,,['IPRO497'],
 88,Berry,James,,,,"['EM501', 'EM502']",
-89,Bettler,John,4.3,12,4.53,"['ECE420', 'ECE554']",4.434166666666667
+89,Bettler,John,4.3,12,4.53,"['ECE420', 'ECE554']",4.434166667
 90,Betts,Katherine,,16,4.54,"['HUM380', 'HUM341', 'HUM343']",4.54
 91,Bevel,Sherrilynn,,1,4.43,"['PS303', 'PS345']",4.43
-92,Bhushan,Abhinav,1.0,2,2.5,['BME301'],1.75
-93,Bielecki,Tomasz,2.3,14,4.48,"['MATH481', 'MATH251', 'MATH540', 'MATH587', 'MATH542', 'MATH582']",3.857142857142857
-94,Bilgic,Mustafa,4.3,48,4.62,"['CS595', 'CS522', 'CS480', 'CS583', 'CS695', 'CS584']",4.386666666666667
+92,Bhushan,Abhinav,1,2,2.5,['BME301'],1.75
+93,Bielecki,Tomasz,2.3,14,4.48,"['MATH481', 'MATH251', 'MATH540', 'MATH587', 'MATH542', 'MATH582']",3.857142857
+94,Bilgic,Mustafa,4.3,48,4.62,"['CS595', 'CS522', 'CS480', 'CS583', 'CS695', 'CS584']",4.386666667
 95,Biljetina,Jolynne,,,,['PSYC303'],
 96,Bilson,John,,9,4.53,"['MSF504', 'MSF584', 'MSF585']",4.53
 97,Bishnoi,Sandra,4.5,5,4.22,"['CHEM247', 'CHEM125']",4.332
-98,Bistriceanu,Virgil,2.5,37,4.11,"['CS458', 'CS470', 'CS445', 'CS487', 'CS402']",3.196216216216216
+98,Bistriceanu,Virgil,2.5,37,4.11,"['CS458', 'CS470', 'CS445', 'CS487', 'CS402']",3.196216216
 99,Blair,John,,5,4.11,"['INTM441', 'INTM446']",4.11
 100,Blair,John,,5,4.11,"['INTM441', 'INTM446']",4.11
 101,Blanco,Cesar,,,,['PA536'],
 102,Blender,Richard,,4,3.73,"['ARCH418', 'ARCH306', 'ARCH305']",3.73
 103,Blenner,Sarah,,1,3.91,['IPRO497'],3.91
-104,Bliss,Daniel,3.1,14,3.9,"['PS202', 'PS232', 'PS314', 'PS317', 'PS315', 'PS408', 'SSCI354', 'PS214']",3.557142857142857
+104,Bliss,Daniel,3.1,14,3.9,"['PS202', 'PS232', 'PS314', 'PS317', 'PS315', 'PS408', 'SSCI354', 'PS214']",3.557142857
+1281,Blitz, David,5,3,,,5
 105,Blumenfeld,Carrie,,,,['IPRO497'],
 106,Bobco,William,,3,4.7,['INTM442'],4.7
+1282,Bogdan, Korel,3.9,8,,,3.9
 107,Boghosian,Michael,,1,4.38,['MMAE350'],4.38
 108,Boland,William,,,,"['AS101', 'AS102']",
 109,Boldridge,David,,1,4.77,['CHEM544'],4.77
-110,Boliske,Dylan,4.2,7,4.35,['CS201'],4.242857142857143
+110,Boliske,Dylan,4.2,7,4.35,['CS201'],4.242857143
 111,Boltz,David,,1,4.25,['BIOL503'],4.25
 112,Bombacino,Julie,,1,2.33,['MC546'],2.33
-113,Bonaccorsi,Richard,,1,5.0,['PA568'],5.0
-114,Bonvicini,Andrew,4.5,3,4.54,"['LIT343', 'LIT380']",4.526666666666666
+113,Bonaccorsi,Richard,,1,5,['PA568'],5
+1283,Bongolan-Walsh, Vena,1.3,12,,,1.3
+114,Bonvicini,Andrew,4.5,3,4.54,"['LIT343', 'LIT380']",4.526666667
 115,Boonstra,Brian,,2,4.05,['MSF526'],4.05
-116,Borkar,Suresh,2.7,98,4.14,"['ECE218', 'ECE242', 'ECE485', 'ECE585', 'ECE739', 'ECE740', 'ECE211', 'ECE213', 'ECE307', 'ECE541', 'ECE497']",3.4493877551020407
+116,Borkar,Suresh,2.7,98,4.14,"['ECE218', 'ECE242', 'ECE485', 'ECE585', 'ECE739', 'ECE740', 'ECE211', 'ECE213', 'ECE307', 'ECE541', 'ECE497']",3.449387755
+1284,Boukydis, Zack,2.5,1,,,2.5
 117,Bowles-Carey,Marilee,,1,4.14,['IPRO497'],4.14
 118,Bowman,Keith,,5,4.41,"['MMAE100', 'MMAE200', 'MMAE468']",4.41
 119,Bowman,Mark,,4,4.85,"['MILS147', 'MILS148', 'MILS402']",4.85
 120,Boyer,Peggy,,2,3.75,"['PSYC221', 'PSYC301']",3.75
-121,Braband,James,2.5,20,3.84,"['IPRO497', 'IPRO397']",3.572
+121,Braband,James,,16,3.84,"['IPRO497', 'IPRO397']",3.84
+1285,Braband, Jim,2.5,4,,,2.5
 122,Bracken,Robert,,3,4.43,"['ARCH419', 'ARCH420']",4.43
-123,Brankov,Jovan,3.3,14,4.04,"['ECE568', 'ECE565', 'ECE436', 'ECE569']",3.8814285714285712
+123,Brankov,Jovan,3.3,14,4.04,"['ECE568', 'ECE565', 'ECE436', 'ECE569']",3.881428571
 124,Branson,Qian,,2,4.34,"['COM380', 'COM428']",4.34
 125,Brasky,Karyn,,1,4.17,['PSYC303'],4.17
-126,Braucher,Charles,3.4,13,4.31,"['ARCH305', 'ARCH306', 'ARCH109']",3.6799999999999997
+126,Braucher,Charles,3.4,13,4.31,"['ARCH305', 'ARCH306', 'ARCH109']",3.68
 127,Bredine,Sanford,,14,4.11,"['BUS476', 'MC514', 'MC536', 'MC524', 'BUS462', 'BUS472', 'MAC511', 'MAC512']",4.11
-128,Brekan,Jonathan,,1,5.0,"['CHEM235', 'CHEM240', 'CHEM237']",5.0
+128,Brekan,Jonathan,,1,5,"['CHEM235', 'CHEM240', 'CHEM237']",5
+1286,Brennan, Thomas,5,1,,,5
 129,Brest Van Kempen,Helen,,2,4.74,"['PA510', 'CCE511']",4.74
 130,Brethenoux,Erick,,2,4.22,"['MAC523', 'MAX523']",4.22
-131,Brey,Eric,4.2,22,4.45,"['BME482', 'BME310']",4.347727272727273
-132,Briggs,William,4.0,34,4.25,"['EG105', 'EG419', 'CAE100', 'CAE101', 'CAE497', 'IPRO497', 'EG305']",4.235294117647059
-133,Briley,Bruce,4.5,13,3.89,"['ECE570', 'ECE407']",4.030769230769231
-134,Brininstool,David,,1,5.0,['ARCH543'],5.0
+131,Brey,Eric,4.2,22,4.45,"['BME482', 'BME310']",4.347727273
+132,Briggs,William,4,34,4.25,"['EG105', 'EG419', 'CAE100', 'CAE101', 'CAE497', 'IPRO497', 'EG305']",4.235294118
+133,Briley,Bruce,4.5,13,3.89,"['ECE570', 'ECE407']",4.030769231
+134,Brininstool,David,,1,5,['ARCH543'],5
 135,Briones,Santos,,3,4.79,"['AS301', 'AS102', 'AS302']",4.79
-136,Broadhead,Glenn,3.7,11,4.55,"['COM423', 'HUM380', 'LIT380']",4.009090909090909
-137,Brock,Thomas,4.0,18,4.62,"['ARCH417', 'ARCH497', 'ARCH544', 'ARCH566', 'ARCH509', 'ARCH543']",4.516666666666667
-138,Bronson,Catherine,4.8,20,4.47,"['HUM104', 'HUM380']",4.519499999999999
+136,Broadhead,Glenn,3.7,11,4.55,"['COM423', 'HUM380', 'LIT380']",4.009090909
+1287,Broadhead, Marlis,3,2,,,3
+137,Brock,Thomas,4,18,4.62,"['ARCH417', 'ARCH497', 'ARCH544', 'ARCH566', 'ARCH509', 'ARCH543']",4.516666667
+138,Bronson,Catherine,4.8,20,4.47,"['HUM104', 'HUM380']",4.5195
 139,Brooke,Jonathan,,2,4.69,['LA503'],4.69
 140,Brown,Gerald,,,,['IPMM503'],
 141,Brown,Ian,3.1,10,4.34,"['ECE552', 'ECE539', 'ECE319', 'ECE412']",3.968
 142,Brown,Jeremy,,,,['ITMD411'],
-143,Brown,Marshall,5.0,15,4.46,"['ARCH545', 'ARCH497', 'ARCH520', 'ARCH418', 'ARCH419', 'ARCH420', 'ARCH201', 'ARCH202']",4.4959999999999996
-144,Brown,Timothy,2.2,19,4.13,"['ARCH417', 'ARCH509', 'ARCH305', 'ARCH306', 'ARCH201', 'ARCH202', 'ARCH468', 'ARCH497', 'ARCH418']",3.8252631578947365
+143,Brown,Marshall,5,15,4.46,"['ARCH545', 'ARCH497', 'ARCH520', 'ARCH418', 'ARCH419', 'ARCH420', 'ARCH201', 'ARCH202']",4.496
+144,Brown,Timothy,2.2,19,4.13,"['ARCH417', 'ARCH509', 'ARCH305', 'ARCH306', 'ARCH201', 'ARCH202', 'ARCH468', 'ARCH497', 'ARCH418']",3.825263158
+1288,Brown, M. Gordon,2,1,,,2
 145,Brubaker,Steven,,7,4.75,"['ARCH543', 'ARCH418', 'ARCH417', 'ARCH419', 'ARCH420']",4.75
 146,Bruder,Will,,1,4.14,['ARCH418'],4.14
-147,Budiman,Jeff,3.0,32,3.66,"['CAE221', 'IPRO497', 'CAE323', 'CAE307', 'CAE566', 'CAE286', 'CAE287', 'CAE562', 'CAE563']",3.4537500000000003
+147,Budiman,Jeff,3,32,3.66,"['CAE221', 'IPRO497', 'CAE323', 'CAE307', 'CAE566', 'CAE286', 'CAE287', 'CAE562', 'CAE563']",3.45375
 148,Buendia,Jenna,,4,4.68,"['PESL042', 'PESL061', 'PESL062', 'PESL022', 'ELP861', 'ELP862']",4.68
-149,Bunker,Grant,3.8,14,4.39,"['PHYS485', 'PHYS414', 'PHYS308', 'PHYS309']",4.305714285714285
+149,Bunker,Grant,3.8,14,4.39,"['PHYS485', 'PHYS414', 'PHYS308', 'PHYS309']",4.305714286
 150,Buono,Robert,,1,4.67,['ARCH561'],4.67
 151,Burstein,James,,6,4.05,['IPRO497'],4.05
-152,Burton-Freeman,Britt,5.0,3,4.73,"['FPE401', 'FDSC825', 'FDSN405']",4.91
+152,Burton-Freeman,Britt,5,3,4.73,"['FPE401', 'FDSC825', 'FDSN405']",4.91
 153,Buslik,Marc,,,,['PA516'],
 154,Butala,Steven,,1,4.67,"['PHYS770', 'PHYS550']",4.67
 155,Cabrera,David,,4,4.83,"['MATH251', 'MATH252']",4.83
 156,Cage,Brant,2.3,12,3.59,"['CHEM344', 'CHEM343', 'CHEM125', 'CHEM584', 'CHEM416']",3.2675
 157,Cai,Li,,9,4.34,"['MSF502', 'MSF554', 'MSC623']",4.34
-158,Cai,Lin,2.3,18,4.36,"['ECE407', 'ECE408']",3.101111111111111
-159,Calcaterra,Lidia,3.4,46,4.08,"['CHEM122', 'CHEM124', 'CHEM125', 'CHEM126']",3.5626086956521736
+158,Cai,Lin,2.3,18,4.36,"['ECE407', 'ECE408']",3.101111111
+159,Calcaterra,Lidia,3.4,46,4.08,"['CHEM122', 'CHEM124', 'CHEM125', 'CHEM126']",3.562608696
 160,Calhoun,Mark,,4,4.37,"['INTM441', 'INTM547']",4.37
 161,Calia,Roland,,12,4.85,"['PA501', 'PA532', 'PA541', 'PA511', 'PA560', 'PA599']",4.85
-162,Calinescu,Gruia,2.2,30,3.82,"['CS100', 'CS430', 'CS538', 'CS530', 'CS330', 'CS535']",2.9560000000000004
+162,Calinescu,Gruia,2.2,30,3.82,"['CS100', 'CS430', 'CS538', 'CS530', 'CS330', 'CS535']",2.956
 163,Caltagirone,John,,11,4.62,"['INTM441', 'INTM446', 'IPRO497']",4.62
 164,Camasta,Susan,,6,4.16,['IPRO497'],4.16
 165,Cammino,Roberto,4.6,62,4.6,"['MMAE200', 'MMAE201', 'MMAE202', 'MMAE304', 'MMAE100', 'MMAE306', 'MMAE302', 'MMAE332', 'MMAE451', 'IPRO497', 'CHE497', 'CHE597', 'MMAE445', 'MMAE545']",4.6
 166,Canna,Romina,3.5,6,4.52,"['ARCH305', 'ARCH306', 'ARCH497', 'ARCH544']",4.01
 167,Cappozzo,Jack,,17,4.83,"['FPE524', 'FPE507']",4.83
-168,Carlock-Gonnissen,Meghan,4.0,4,4.46,"['PS356', 'PS318']",4.345
+1289,Carden, Joseph,1,1,,,1
+168,Carlock-Gonnissen,Meghan,4,4,4.46,"['PS356', 'PS318']",4.345
 169,Carlson,Carl,,12,4.42,"['ITM531', 'ITM581', 'ITM532', 'ITMM581', 'ITMT531', 'ITMM481', 'ITMD532', 'ITMM582', 'IT']",4.42
+1290,Carlson, C. Robert,3.7,9,,,3.7
 170,Carreira,Domingo,,11,3.67,"['CAE518', 'CAE551', 'CAE436']",3.67
 171,Carroll,Brian,,2,4.67,"['MILS148', 'MILS147']",4.67
 172,Carroll,Mary Lou,,,,['HIST333'],
-173,Cassel,Kevin,3.5,33,4.7,"['MMAE501', 'MMAE508', 'MMAE517', 'MMAE200', 'MMAE350', 'MMAE313']",4.2272727272727275
+173,Cassel,Kevin,4.8,28,4.7,"['MMAE501', 'MMAE508', 'MMAE517', 'MMAE200', 'MMAE350', 'MMAE313']",4.728571429
+1291,Cassel, Kelvin,3.5,13,,,3.5
 174,Castelle,Michael,,,,['SOC356'],
 175,Caven,Daniel,,2,4.92,"['ARCH107', 'ARCH108']",4.92
 176,Cedro,Rico,,,,['CRP520'],
-177,Cesarone,John,4.0,64,4.6,"['MMAE557', 'MMAE589', 'MMAE715', 'MMAE547', 'MMAE590', 'CHE560', 'MMAE485', 'INTM412', 'MMAE202', 'MMAE200', 'MMAE546', 'MMAE560', 'MMAE232']",4.5249999999999995
+177,Cesarone,John,4,64,4.6,"['MMAE557', 'MMAE589', 'MMAE715', 'MMAE547', 'MMAE590', 'CHE560', 'MMAE485', 'INTM412', 'MMAE202', 'MMAE200', 'MMAE546', 'MMAE560', 'MMAE232']",4.525
 178,Chadha,Monica,,10,3.75,"['ARCH417', 'ARCH544', 'IPRO497', 'ARCH201', 'ARCH202', 'ARCH305', 'ARCH306', 'ARCH497']",3.75
 179,Chakravarthy,Srinivas,,1,4.75,"['BIOL404', 'BIOL533']",4.75
 180,Chakravarti,Arjun,,17,4.38,"['BUS371', 'MBA511', 'MAC504', 'MBA523', 'MAX504']",4.38
 181,Chakravorty,Alak,,1,2.43,['PHYS123'],2.43
+1292,Chapman, Dean,4.7,5,,,4.7
 182,Chase,Paul,,4,4.18,['EG105'],4.18
 183,Chasson,Gregory,,1,4.18,['PSYC505'],4.18
-184,Chaudoin,Gregory,4.4,39,4.66,"['BUS455', 'MSF501', 'BUS452', 'MSF564', 'MSF565', 'MSF502', 'BUS221', 'BUS458', 'MSF504']",4.586666666666667
+184,Chaudoin,Gregory,,28,4.66,"['BUS455', 'MSF501', 'BUS452', 'MSF564', 'MSF565', 'MSF502', 'BUS221', 'BUS458', 'MSF504']",4.66
+1293,Chaudoin, Greg,4.4,11,,,4.4
 185,Chen,Shih-Yew,,3,4.45,"['PHYS566', 'PHYS573', 'PHYS574', 'PHYS575']",4.45
 186,Chen,Tao,,,,"['MATH252', 'MATH333']",
-187,Chen,Wei,4.0,4,4.29,"['MMAE100', 'MMAE570', 'MS201', 'MMAE465']",4.2175
-188,Chen,Xin,5.0,15,4.54,"['CS495', 'CS513']",4.6626666666666665
-189,Cheng,Yu,1.6,21,3.83,"['ECE541', 'ECE719', 'ECE545', 'ECE218', 'ECE547', 'ECE543']",3.2990476190476192
+187,Chen,Wei,4,4,4.29,"['MMAE100', 'MMAE570', 'MS201', 'MMAE465']",4.2175
+188,Chen,Xin,5,15,4.54,"['CS495', 'CS513']",4.662666667
+189,Cheng,Yu,1.6,21,3.83,"['ECE541', 'ECE719', 'ECE545', 'ECE218', 'ECE547', 'ECE543']",3.299047619
 190,Cherwin,Kelly,,9,4.49,"['BIOL511', 'SCI511']",4.49
 191,Chichester,Daniel,,,,['IPRO497'],
-192,Chlebus,Edward,2.3,36,4.39,"['CS542', 'CS544', 'CS555', 'CS455', 'CS458', 'CS104']",3.751388888888888
-193,Chmielewski,Donald,5.0,31,4.3,"['CHE100', 'CHE435', 'IPRO497', 'CHE101', 'CHE530', 'CHE439', 'CHE433', 'CHE535', 'CHE239']",4.412903225806452
+192,Chlebus,Edward,2.3,36,4.39,"['CS542', 'CS544', 'CS555', 'CS455', 'CS458', 'CS104']",3.751388889
+193,Chmielewski,Donald,5,31,4.3,"['CHE100', 'CHE435', 'IPRO497', 'CHE101', 'CHE530', 'CHE439', 'CHE433', 'CHE535', 'CHE239']",4.412903226
 194,Choi,Kyuwon,,24,4.36,"['ECE429', 'ECE530', 'ECE588', 'ECE218']",4.36
-195,Choi,Yon,4.0,32,4.41,"['CSP541', 'CS401', 'CS402', 'CS455', 'CS542', 'CS331', 'CS544', 'CS548', 'CS350']",4.281875
+195,Choi,Yon,,22,4.41,"['CSP541', 'CS401', 'CS402', 'CS455', 'CS542', 'CS331', 'CS544', 'CS548', 'CS350']",4.41
 196,Choi,Yon,,22,4.41,"['CSP541', 'CS401', 'CS402', 'CS455', 'CS542', 'CS331', 'CS544', 'CS548', 'CS350']",4.41
-197,Chong,Hyun-Soon,2.0,14,4.09,"['CHEM235', 'CHEM239', 'CHEM434', 'CHEM584', 'CHEM240', 'CHEM455', 'CHEM597', 'CHEM560', 'CHEM237']",3.940714285714286
+1294,Choi, Ken,2.7,20,,,2.7
+1295,Choi, Yonshik,4,10,,,4
+197,Chong,Hyun-Soon,2,14,4.09,"['CHEM235', 'CHEM239', 'CHEM434', 'CHEM584', 'CHEM240', 'CHEM455', 'CHEM597', 'CHEM560', 'CHEM237']",3.940714286
+1296,Chong, Joy,3,16,,,3
 198,Chu,Erica,,,,['HUM380'],
-199,Cialenco,Igor,4.2,24,4.59,"['MATH475', 'MATH485', 'MATH593', 'MATH582', 'MATH500', 'MATH501', 'MATH543', 'MATH474', 'MATH545', 'MATH548']",4.541250000000001
-200,Cigularov,Konstantin,4.5,6,4.53,"['PSYC203', 'PSYC301', 'PSYC555', 'PSYC380']",4.5200000000000005
+1297,Chung, Rebecca,4.2,9,,,4.2
+199,Cialenco,Igor,4.2,24,4.59,"['MATH475', 'MATH485', 'MATH593', 'MATH582', 'MATH500', 'MATH501', 'MATH543', 'MATH474', 'MATH545', 'MATH548']",4.54125
+200,Cigularov,Konstantin,4.5,6,4.53,"['PSYC203', 'PSYC301', 'PSYC555', 'PSYC380']",4.52
 201,Cinar,Ali,,6,4.31,"['BME497', 'CHE435', 'IPRO497', 'BME417']",4.31
-202,Clack,Herek,4.5,9,3.99,"['MMAE322', 'MMAE100', 'MMAE523']",4.1033333333333335
+202,Clack,Herek,4.5,9,3.99,"['MMAE322', 'MMAE100', 'MMAE523']",4.103333333
 203,Clair,Joseph,,16,3.06,"['ARCH403', 'ARCH404', 'IPRO497']",3.06
+1298,Clair, Joe,1,2,,,1
 204,Clancy,Sheila,,1,4.75,['PA510'],4.75
 205,Clark,Ann,,1,4.73,"['ARCH545', 'ARCH418']",4.73
-206,Clarke,Joseph,4.0,3,4.39,"['ARCH503', 'ARCH497', 'ARCH502', 'AURB201']",4.26
+206,Clarke,Joseph,4,3,4.39,"['ARCH503', 'ARCH497', 'ARCH502', 'AURB201']",4.26
 207,Clarke,Maria,,,,['ARCH509'],
 208,Clarke,Mary,,2,4.26,"['PSYC557', 'PSYC523']",4.26
 209,Clegg,Richard,,,,['COM523'],
@@ -224,57 +252,66 @@ id,last,first,rmp_rating,confidence,IIT_rating,courses,overall
 223,Cooper,Ricky,,14,4.82,"['MSF504', 'MSC633', 'MSF545', 'MSC631', 'MSF546']",4.82
 224,Coppersmith,Jody,,2,4.26,['PSYC222'],4.26
 225,Corcoran,Kevin,,1,4.4,['PSYC380'],4.4
-226,Cork,Douglas,2.2,14,3.84,"['BIOL550', 'BIOL451']",2.551428571428571
+226,Cork,Douglas,2.2,14,3.84,"['BIOL550', 'BIOL451']",2.551428571
 227,Cornell,Caitlin,,2,4.64,"['PESL021', 'ELP821', 'ELP832', 'ELP862']",4.64
 228,Cornubert,Christophe,,0,,['ARCH419'],
 229,Corradi Dell' Acqua,Edoarda,,11,4.38,"['CAE468', 'CAE469', 'CAE100', 'CAE101', 'IPRO497', 'CAE446', 'CAE447']",4.38
 230,Corrigan,Patrick,,13,4.63,"['PSYC564', 'PSYC590', 'PSYC540']",4.63
-231,Cothran,Thomas,5.0,3,4.59,"['PSYC221', 'PSYC222']",4.726666666666667
+231,Cothran,Thomas,5,3,4.59,"['PSYC221', 'PSYC222']",4.726666667
 232,Cox,Curtis,1.5,3,4.29,['CAE383'],3.36
-233,Crawford,David,,1,4.0,['ARCH561'],4.0
+233,Crawford,David,,1,4,['ARCH561'],4
 234,Crawley,Erin,,1,4.71,"['COM428', 'HUM354']",4.71
 235,Creticos,Peter,,1,4.88,['PA502'],4.88
 236,Crimmin,Erik,,,,['IPRO497'],
-237,Culotta,Aron,4.3,13,4.74,"['CS595', 'CS429', 'CS579', 'CS695', 'CS585']",4.536923076923077
+237,Culotta,Aron,4.3,13,4.74,"['CS595', 'CS429', 'CS579', 'CS695', 'CS585']",4.536923077
 238,Cummings,Michael,4.5,16,4.39,"['BIOL107', 'BIOL105', 'BIOL214']",4.445
+1299,Cummings, Ben,2,1,,,2
 239,Current,Jennifer,,2,4.69,"['ARCH545', 'LA526', 'ARCH505', 'LA497']",4.69
 240,Cursio,Joseph,,2,4.35,"['MSF503', 'BUS321', 'BUS497']",4.35
+1300,Cursio, Joe,,0,,,
 241,Cutler,Jennifer,,6,4.56,"['MAC523', 'MAC521']",4.56
 242,Cwik,Michael,,6,4.04,"['CHEM516', 'CHEM508']",4.04
 243,Czaplicki,Michael,3.4,16,4.44,"['HIST380', 'HUM102', 'HIST338', 'HUM202']",4.18
-244,Dabbert,James,3.5,23,4.81,"['AAH322', 'ENGL052', 'AAH323']",4.753043478260869
+1301,Daamait, Goyyakka,,0,,,
+244,Dabbert,James,3.5,23,4.81,"['AAH322', 'ENGL052', 'AAH323']",4.753043478
 245,Dabney,Matthew,,1,2.67,['BUS403'],2.67
-246,Dadkhah Tehrani,Mohammad,,1,4.0,['MMAE445'],4.0
+246,Dadkhah Tehrani,Mohammad,,1,4,['MMAE445'],4
 247,Danly,Jill,,9,4.34,"['ARCH113', 'ARCH114', 'ARCH305', 'ARCH306']",4.34
 248,Daryaei,Hossein,,2,4.54,"['FPE524', 'FDSN524']",4.54
 249,Das,Udayan,,,,['CS115'],
-250,Datta-Barua,Seebany,5.0,11,4.18,"['MMAE411', 'MMAE541', 'MMAE552', 'MMAE305']",4.254545454545454
+250,Datta-Barua,Seebany,5,11,4.18,"['MMAE411', 'MMAE541', 'MMAE552', 'MMAE305']",4.254545455
 251,Dave,Pooja,,1,3.89,['PSYC303'],3.89
-252,Davids,Carol,3.9,22,4.59,"['ITM440', 'ITM546', 'ITM545', 'ITM547', 'INTM449', 'ITMO546', 'ITMO440', 'IT']",4.370454545454545
-253,Davis,Blake,4.3,46,4.39,"['IPRO497', 'CHE496', 'INTM459', 'IPRO397', 'INTM497', 'INT459']",4.3723913043478255
+252,Davids,Carol,3.9,22,4.59,"['ITM440', 'ITM546', 'ITM545', 'ITM547', 'INTM449', 'ITMO546', 'ITMO440', 'IT']",4.370454545
+253,Davis,Blake,4.3,46,4.39,"['IPRO497', 'CHE496', 'INTM459', 'IPRO397', 'INTM497', 'INT459']",4.372391304
 254,Davis,Jenelle,,2,4.72,"['HUM200', 'HIST380']",4.72
-255,Davis,Michael,3.3,21,4.26,"['PHIL333', 'PHIL362', 'PHIL371', 'PHIL360', 'PHIL332', 'PHIL370']",3.9857142857142853
+255,Davis,Michael,3.3,21,4.26,"['PHIL333', 'PHIL362', 'PHIL371', 'PHIL360', 'PHIL332', 'PHIL370']",3.985714286
 256,Davis,Shawn,,6,4.67,"['ITMO456', 'ITMS448', 'IT']",4.67
+1302,Davis, Michael,,0,,,
 257,De Azevedo Estrela F,Paula Regina,,1,4.04,['IPRO100'],4.04
-258,De Ojeda,William,1.0,2,,['MMAE313'],1.0
+258,De Ojeda,William,1,2,,['MMAE313'],1
 259,de Rege Thesauro,Francesco,,1,4.08,['CHEM415'],4.08
 260,Deanda,Michael,,2,3.48,['HUM208'],3.48
 261,Deaton,Clifford,,1,4.5,['SSCI354'],4.5
 262,Deaton,Eric,,1,4.18,['IPRO497'],4.18
 263,DeBord,David,,5,3.49,['CAE461'],3.49
 264,Deery,Simon,,,,['MSF543'],
-265,Deis,Christopher,4.0,8,4.23,"['PS285', 'SSCI285', 'SSCI210', 'SSCI321']",4.20125
+1303,Deforest, Paul,2,1,,,2
+265,Deis,Christopher,4,8,4.23,"['PS285', 'SSCI285', 'SSCI210', 'SSCI321']",4.20125
+1304,Deis, Christopher,2.7,3,,,2.7
 266,Demirdoven,Julide,,9,4.2,"['CAE573', 'EG430', 'CAE515']",4.2
+1305,Demirdoven , Julide,,0,,,
 267,Demopoulos,Carly,,1,3.22,['PSYC435'],3.22
 268,Demou,Zoe,,4,4.59,"['BME301', 'BME423']",4.59
 269,Denison,Dirk,,5,3.52,"['ARCH543', 'ARCH593', 'ARCH545', 'ARCH597', 'ARCH497', 'ARCH419']",3.52
 270,Denney,Kevin,,1,4.88,['IPRO497'],4.88
-271,Derwent,Jennifer,1.1,21,3.51,"['BME419', 'BME420', 'BME445']",3.0509523809523804
+271,Derwent,Jennifer,1.1,21,3.51,"['BME419', 'BME420', 'BME445']",3.050952381
+569,Derwent,Jennifer,,17,3.51,"['BME419', 'BME420', 'BME445']",3.51
 272,Desai,Piyush,,2,4.5,"['ECE412', 'ECE552']",4.5
 273,Desalvo,John,,19,4.37,"['ARCH417', 'ARCH544', 'ARCH468', 'ARCH509', 'ARCH497', 'ARCH543', 'ARCH418', 'ARCH471', 'ARCH466', 'ARCH306', 'IPRO497']",4.37
-274,Dhar,Promila,4.2,39,4.23,"['BME320', 'BME315', 'BME335', 'IPRO497', 'BME516', 'BME301', 'BME500']",4.223076923076923
+1306,Desantiago, Eduardo,3,2,,,3
+274,Dhar,Promila,4.2,39,4.23,"['BME320', 'BME315', 'BME335', 'IPRO497', 'BME516', 'BME301', 'BME500']",4.223076923
 275,Diel,A. Todd,,3,4.47,"['FPE402', 'FDSN402']",4.47
-276,Ding,Yuhan,3.0,5,4.22,"['MATH152', 'MATH151']",3.976
+276,Ding,Yuhan,3,5,4.22,"['MATH152', 'MATH151']",3.976
 277,Dirbaz,Mojtaba,,1,4.45,"['CAE410', 'CAE525']",4.45
 278,Discont,Steve,,2,3.95,['PSYC222'],3.95
 279,Disselhorst,William,,,,['PA553'],
@@ -286,75 +323,94 @@ id,last,first,rmp_rating,confidence,IIT_rating,courses,overall
 285,Domel,August,,8,4.18,"['CAE472', 'CAE570']",4.18
 286,Donahue,John,,1,4.6,['INTM425'],4.6
 287,Dorenwendt,Heiko,,1,4.38,['PSYC588'],4.38
-288,Dorr,John,5.0,9,4.71,['HUM106'],4.774444444444445
-289,Downey,John,,1,5.0,['IPRO497'],5.0
+288,Dorr,John,5,9,4.71,['HUM106'],4.774444444
+289,Downey,John,,1,5,['IPRO497'],5
 290,Downing,James,,2,3.53,"['BUS462', 'BUS475']",3.53
 291,Du,Lili,1.9,16,3.95,"['CAE581', 'CAE312', 'CAE547', 'CAE523']",3.565625
 292,Du,Peng,,2,4.44,"['ARCH497', 'ARCH570', 'ARCH420', 'ARCH571']",4.44
-293,Duan,Jinqiao,3.8,13,4.27,"['MATH400', 'MATH543', 'MATH489', 'MATH544', 'MATH332', 'MATH475', 'MATH488', 'MATH605', 'MATH512', 'MATH500', 'MATH474']",4.161538461538461
+293,Duan,Jinqiao,3.8,13,4.27,"['MATH400', 'MATH543', 'MATH489', 'MATH544', 'MATH332', 'MATH475', 'MATH488', 'MATH605', 'MATH512', 'MATH500', 'MATH474']",4.161538462
 294,Duecker,Susanna,,2,4.16,"['IPRO497', 'BUS305']",4.16
 295,Dunn,Keefer,,,,['ARCH497'],
 296,Dunn,Robert,,2,3.97,"['INTM442', 'INTM542']",3.97
-297,Durango-Cohen,Elizabeth,3.4,20,4.4,"['BUS305', 'MSF503', 'MBA562', 'MAC502', 'MAX502', 'MBA504']",4.15
-298,Durbrow,John,2.5,3,4.52,"['ARCH509', 'ARCH543', 'ARCH593']",3.8466666666666662
-299,Dushay,Mitch,3.3,6,3.38,"['BIOL214', 'BIOL327', 'BIOL527']",3.353333333333333
+297,Durango-Cohen,Elizabeth,,15,4.4,"['BUS305', 'MSF503', 'MBA562', 'MAC502', 'MAX502', 'MBA504']",4.4
+1307,Durango-Cohen, E,3.4,5,,,3.4
+298,Durbrow,John,2.5,3,4.52,"['ARCH509', 'ARCH543', 'ARCH593']",3.846666667
+299,Dushay,Mitch,3.3,6,3.38,"['BIOL214', 'BIOL327', 'BIOL527']",3.353333333
 300,Duvall,Donald,,7,3.91,['CHE470'],3.91
 301,Earnhart,David,,1,3.76,['ARCH424'],3.76
-302,Easton,Amanda,5.0,12,4.85,"['PSYC222', 'PSYC380', 'PSYC221', 'PSYC523']",4.925
-303,Edelstein,Warren,3.6,51,3.77,"['MATH148', 'MATH333', 'MATH151', 'MATH251', 'MATH402']",3.6533333333333333
-304,Edirisinghe,Indika,5.0,12,4.81,"['FPE201', 'FPE401', 'FST501', 'FDSC821', 'FDSN501']",4.8575
+302,Easton,Amanda,5,12,4.85,"['PSYC222', 'PSYC380', 'PSYC221', 'PSYC523']",4.925
+303,Edelstein,Warren,3.6,51,3.77,"['MATH148', 'MATH333', 'MATH151', 'MATH251', 'MATH402']",3.653333333
+304,Edirisinghe,Indika,5,12,4.81,"['FPE201', 'FPE401', 'FST501', 'FDSC821', 'FDSN501']",4.8575
 305,Edminister,James,,3,4.11,"['NS301', 'NS302']",4.11
 306,Ehrlich,David,,16,4.62,"['EMS501', 'PA502', 'PA568', 'PA509', 'PA580', 'PA501', 'PA599', 'PA581']",4.62
-307,El Rouayheb,Salim,2.1,10,4.08,"['ECE511', 'ECE516', 'ECE520']",3.2880000000000003
+307,El Rouayheb,Salim,2.1,10,4.08,"['ECE511', 'ECE516', 'ECE520']",3.288
 308,El-Maazawi,Mohamed,4.3,50,4.33,"['CHEM122', 'CHEM124', 'CHEM125', 'CHEM344', 'CHEM343']",4.306
 309,Ellingsen,Eric,,,,['ARCH446'],
-310,Ellington,J Kemp,4.5,28,4.66,"['PSYC301', 'PSYC409', 'PSYC517', 'PSYC455', 'PSYC555']",4.62
-311,Ellis,Robert,3.7,28,4.18,"['IPRO497', 'MATH454', 'MATH557', 'MATH332', 'MATH230', 'MATH430', 'MATH152', 'MATH453', 'MATH100', 'MATH497']",4.025714285714286
+310,Ellington,J Kemp,,21,4.66,"['PSYC301', 'PSYC409', 'PSYC517', 'PSYC455', 'PSYC555']",4.66
+1308,Ellington, J. Kemp,4.5,7,,,4.5
+311,Ellis,Robert,3.7,28,4.18,"['IPRO497', 'MATH454', 'MATH557', 'MATH332', 'MATH230', 'MATH430', 'MATH152', 'MATH453', 'MATH100', 'MATH497']",4.025714286
+1309,Elmer, Margaret,,0,,,
 312,Elnimeiri,Mahjoub,,12,4.14,"['ARCH489', 'ARCH551', 'ARCH488', 'ARCH601', 'ARCH230', 'ARCH497', 'ARCH485']",4.14
-313,Elrad,Tzilla,4.0,5,3.96,"['CS545', 'CS536']",3.968
-314,Emadi,Ali,2.9,19,4.74,"['ECE411', 'ECE752', 'ECE412', 'ECE764']",3.4810526315789474
-315,Emmick,William,3.1,13,4.2,"['ARCH226', 'ARCH125']",3.523076923076923
+313,Elrad,Tzilla,4,5,3.96,"['CS545', 'CS536']",3.968
+314,Emadi,Ali,2.9,19,4.74,"['ECE411', 'ECE752', 'ECE412', 'ECE764']",3.481052632
+315,Emmick,William,,5,4.2,"['ARCH226', 'ARCH125']",4.2
+1310,Emmick, Will,3.1,8,,,3.1
 316,Emmons,Carol,,,,"['GLS180', 'SSCI385']",
 317,Emrich,John,,1,2.1,['ITM312'],2.1
 318,Endres,Paul,,6,4.4,"['ARCH486', 'ARCH593', 'ARCH419', 'ARCH497', 'ARCH420', 'ARCH482', 'ARCH483']",4.4
 319,England,Madeleine,,12,4.62,"['ITMM470', 'ITMM482', 'ITMM570', 'TECH497', 'ITMM573', 'IT']",4.62
 320,Eni,Mircea,,2,3.82,"['ARCH107', 'ARCH108']",3.82
-321,Erdim,Firat,3.3,14,4.5,"['ARCH109', 'ARCH201', 'ARCH110', 'ARCH202', 'LA525', 'ARCH113', 'ARCH114']",4.328571428571428
+321,Erdim,Firat,,12,4.5,"['ARCH109', 'ARCH201', 'ARCH110', 'ARCH202', 'LA525', 'ARCH113', 'ARCH114']",4.5
+1311,Erdim, Frat,3.3,2,,,3.3
 322,Erickson,John,4.1,32,4.48,"['MATH148', 'MATH251', 'MATH149', 'MATH151', 'MATH497', 'MATH252', 'MATH478', 'MATH230']",4.3375
 323,Erramilli,M Krishna,,6,4.3,"['MBA517', 'IPMM504', 'MBA511', 'BUS510', 'BUS590', 'BUS371']",4.3
 324,Faber,Pieter,,1,3.8,['BIOL562'],3.8
 325,Fagel,Michael,,5,4.92,"['PA597', 'PA538', 'PA537']",4.92
+1312,Faggette, Paul,2.6,9,,,2.6
 326,Fang,Yiwei,,12,4.42,"['MSF534', 'MSF502', 'BUS303', 'BUS102', 'BUS497', 'MSF504', 'MSF555', 'MSF535']",4.42
 327,Fanizzo,William,,3,2.79,"['BUS361', 'BUS480']",2.79
-328,Fasshauer,Gregory,4.8,9,4.5,"['MATH461', 'MATH350', 'MATH100', 'MATH590', 'MATH532']",4.566666666666666
+328,Fasshauer,Gregory,,7,4.5,"['MATH461', 'MATH350', 'MATH100', 'MATH590', 'MATH532']",4.5
+1313,Fasshauer, Greg,4.8,2,,,4.8
 329,Fechner,Kerry,,,,['INTM547'],
 330,Feigon,Maia,,3,3.93,"['PSYC222', 'PSYC303', 'PSYC588']",3.93
+1314,Feinberg, Susan,3,1,,,3
 331,Feldy,Edmund,,2,3.32,['INTM432'],3.32
 332,Felsen,Martin,,14,4.22,"['ARCH545', 'ARCH593', 'CRP465', 'AURB465', 'ARCH419', 'ARCH420']",4.22
-333,Feng,Hualong,3.5,22,4.02,"['MATH151', 'MATH252', 'MATH489', 'MATH152', 'MATH488', 'MATH478']",3.736363636363636
+333,Feng,Hualong,3.5,22,4.02,"['MATH151', 'MATH252', 'MATH489', 'MATH152', 'MATH488', 'MATH478']",3.736363636
+1315,Ferguson, Dan,2.7,5,,,2.7
 334,Ferrin,Asia,,7,4.44,"['HUM200', 'PHIL380']",4.44
 335,Field,Jerry,,3,3.7,['INTM404'],3.7
 336,Fields,Melanie,4.5,4,3.69,['COM421'],3.8925
 337,Filan,John,,3,4.14,['PA532'],4.14
+1316,Finney, William,1.4,13,,,1.4
 338,Fisher,Bruce,,,,['PSYC714'],
-339,Fisher,Thomas,4.2,7,4.53,"['HUM200', 'PHIL362', 'PHIL380']",4.2942857142857145
+339,Fisher,Thomas,4.2,7,4.53,"['HUM200', 'PHIL362', 'PHIL380']",4.294285714
+1317,Fitzgerald, Qiang,5,1,,,5
 340,Flanagan,Maureen,,5,4.24,"['HIST380', 'HIST351', 'HUM200', 'HIST350']",4.24
-341,Flavell,Allen,1.5,3,3.0,['MATH152'],2.0
+1318,Flatte, Charlotte,4.1,7,,,4.1
+341,Flavell,Allen,1.5,3,3,['MATH152'],2
+1319,Fleener, David,4.6,4,,,4.6
 342,Fleischer,Michael,,,,['PSYC301'],
-343,Flueck,Alexander,2.8,44,4.43,"['ECE100', 'ECE562', 'ECE319', 'ECE557', 'ECE558', 'ECE750']",3.392727272727272
-344,Flury,Frank,3.0,16,4.61,"['ARCH417', 'ARCH418', 'ARCH497']",4.40875
+1320,Fliss, Marta,4.5,4,,,4.5
+1321,Flohr, Julie,2,4,,,2
+343,Flueck,Alexander,2.8,44,4.43,"['ECE100', 'ECE562', 'ECE319', 'ECE557', 'ECE558', 'ECE750']",3.392727273
+344,Flury,Frank,3,16,4.61,"['ARCH417', 'ARCH418', 'ARCH497']",4.40875
+1322,Fogel, Daniel,4,1,,,4
+1323,Fogel, Brandon,4.5,6,,,4.5
 345,Foley,Robert,,,,['INTM412'],
 346,Fominaya,Adam,,3,4.35,"['PSYC303', 'PSYC221']",4.35
-347,Footlik,Robert,4.0,4,4.66,['INTM442'],4.495
+347,Footlik,Robert,4,4,4.66,['INTM442'],4.495
 348,Ford,James,,,,['PA578'],
 349,Forneris,Craig,3.8,16,4.3,"['ARCH125', 'ARCH434', 'ARCH226', 'ARCH497']",4.2375
 350,Franek,William,,3,3.81,['ENVE463'],3.81
+1324,Frank, Maurice,2.1,6,,,2.1
 351,Fridman,Adam,,1,4.63,['BUS103'],4.63
-352,Friedman,Alon,2.5,11,3.74,"['IPRO497', 'ITM479', 'ITM302', 'ITM456', 'ITMO456', 'ITMD434']",3.514545454545455
-353,Friedman,Elizabeth,3.1,17,3.99,"['ANTH300', 'SOC359', 'ANTH200', 'ANTH359', 'SSCI220']",3.7282352941176473
-354,Friedman,Laurence,,1,3.0,"['PHYS575', 'PHYS573']",3.0
+1325,Frieder, Ophir,4,1,,,4
+352,Friedman,Alon,2.5,11,3.74,"['IPRO497', 'ITM479', 'ITM302', 'ITM456', 'ITMO456', 'ITMD434']",3.514545455
+353,Friedman,Elizabeth,3.1,17,3.99,"['ANTH300', 'SOC359', 'ANTH200', 'ANTH359', 'SSCI220']",3.728235294
+354,Friedman,Laurence,,1,3,"['PHYS575', 'PHYS573']",3
 355,Fruhauff,Bradly,,1,3.88,['LIT380'],3.88
-356,Fu,Chen,,1,5.0,['CS495'],5.0
+356,Fu,Chen,,1,5,['CS495'],5
 357,Fu,Gongkang,,3,3.69,"['CAE408', 'CAE508', 'CAE431', 'CAE525']",3.69
 358,Fujimoto,Sosuke,,,,['ARCH418'],
 359,Fukuchi,Alison,,,,"['PESL041', 'ELP841']",
@@ -366,12 +422,14 @@ id,last,first,rmp_rating,confidence,IIT_rating,courses,overall
 365,Gao,Jing,,1,4.73,['COM125'],4.73
 366,Garcia,Jose,,1,4.29,['MMAE415'],4.29
 367,Garelli,Glenda,,,,['PA555'],
-368,Gatchell,David,4.8,16,4.1,"['BME100', 'BME200', 'IPRO497', 'BME335', 'BME315', 'IPRO397']",4.2749999999999995
+368,Gatchell,David,4.8,16,4.1,"['BME100', 'BME200', 'IPRO497', 'BME335', 'BME315', 'IPRO397']",4.275
 369,Gates,Galen,,,,['LA497'],
 370,Gehlhausen,Jay,,1,3.12,['CHEM515'],3.12
 371,Gehrs,Gordon,,5,4.46,"['COM538', 'ITM312', 'COM431', 'ITM311', 'COM428']",4.46
+1326,Gehrs, G,4.5,5,,,4.5
 372,Geiger,Barbara,,12,4.59,"['ARCH445', 'LA516', 'LA497', 'LA502']",4.59
 373,Geisler,Eliezer,,4,4.19,"['MBA503', 'MC522', 'IPMM505', 'MBA528', 'MBA506', 'MBA524']",4.19
+1327,Gentry, Thomas,2.5,2,,,2.5
 374,Georgiadis,John,,1,2.17,"['BME423', 'BME330']",2.17
 375,Geppert,Amanda,,1,4.41,['IPRO497'],4.41
 376,Gershbein,Joel,,1,4.47,['MAC516'],4.47
@@ -382,17 +440,20 @@ id,last,first,rmp_rating,confidence,IIT_rating,courses,overall
 381,Gidalevitz,David,2.5,25,3.75,"['PHYS348', 'PHYS497', 'PHYS420', 'PHYS123', 'PHYS120']",3.2
 382,Gidaspow,Dimitri,,2,4.13,['CHE536'],4.13
 383,Gilje,Karin,,1,4.62,['PHYS221'],4.62
-384,Gill,Safdar,2.0,14,3.62,"['CAE457', 'CAE486', 'CAE564', 'CAE565']",3.3885714285714283
+384,Gill,Safdar,2,14,3.62,"['CAE457', 'CAE486', 'CAE564', 'CAE565']",3.388571429
 385,Gillespie,James,,1,2.92,['BUS480'],2.92
-386,Girman,Christopher,5.0,9,4.55,"['LIT380', 'HUM106', 'HUM380', 'COM380', 'HUM200']",4.6
-387,Glassman,Ellen,3.0,19,3.61,"['AAH119', 'AAH380', 'AAH120']",3.5136842105263155
-388,Glavic,Boris,4.7,12,4.33,"['CS595', 'CS525', 'CS425', 'CS520']",4.453333333333333
-389,Glodowski,Alan,3.5,45,4.4,"['PHYS211', 'PHYS300', 'PHYS212', 'PHYS221', 'PHYS123']",4.0600000000000005
+1328,Ginsburg, Issac,2.6,14,,,2.6
+386,Girman,Christopher,,8,4.55,"['LIT380', 'HUM106', 'HUM380', 'COM380', 'HUM200']",4.55
+1329,Girman, Chris,5,1,,,5
+387,Glassman,Ellen,3,19,3.61,"['AAH119', 'AAH380', 'AAH120']",3.513684211
+388,Glavic,Boris,4.7,12,4.33,"['CS595', 'CS525', 'CS425', 'CS520']",4.453333333
+389,Glodowski,Alan,3.5,45,4.4,"['PHYS211', 'PHYS300', 'PHYS212', 'PHYS221', 'PHYS123']",4.06
 390,Gluckin,Sari,,3,4.13,['IPRO497'],4.13
 391,Glynn,Michael,,17,4.62,"['ARCH201', 'IPRO497', 'ARCH202', 'ARCH305', 'ARCH306']",4.62
 392,Gockerman,Bruce,,15,4.72,"['PA503', 'PA551', 'MBA502', 'PA580', 'PA581', 'PA509', 'PA568', 'PA599', 'PA555']",4.72
-393,Goharian,Nazli,4.0,15,4.23,"['CS425', 'CS429']",4.030666666666667
-394,Goins,Bonnie,4.8,22,4.6,"['ITM478', 'ITM574', 'ITM579', 'TECH581', 'ITM518', 'ITMM586', 'ITMM574', 'ITMS478', 'ITMS518', 'ITMS579', 'ITMS484', 'IT']",4.618181818181818
+1330,Gofstein, Susan,,0,,,
+393,Goharian,Nazli,4,15,4.23,"['CS425', 'CS429']",4.030666667
+394,Goins,Bonnie,4.8,22,4.6,"['ITM478', 'ITM574', 'ITM579', 'TECH581', 'ITM518', 'ITMM586', 'ITMM574', 'ITMS478', 'ITMS518', 'ITMS579', 'ITMS484', 'IT']",4.618181818
 395,Golab,Joseph,,,,['CHEM454'],
 396,Goldberg,Joel,,7,4.58,"['INTM477', 'INTM410']",4.58
 397,Goldhar,Joel,,9,4.2,"['MBA513', 'MBA519', 'MAC505', 'BUS590', 'MBA522', 'MAX505']",4.2
@@ -400,30 +461,32 @@ id,last,first,rmp_rating,confidence,IIT_rating,courses,overall
 399,Goldsmith,Chandra,,,,['LA543'],
 400,Goncharov,Yevgeny,,2,3.77,['MSF554'],3.77
 401,Gonczy,Stephen,,3,4.8,['MMAE468'],4.8
-402,Gong,Ruoting,3.0,7,4.35,"['MATH481', 'MATH543', 'MATH475', 'MATH374', 'MATH485']",4.157142857142857
+402,Gong,Ruoting,3,7,4.35,"['MATH481', 'MATH543', 'MATH475', 'MATH374', 'MATH485']",4.157142857
 403,Goodman,David,,4,4.48,"['ARCH201', 'ARCH202', 'ARCH497']",4.48
 404,Gopal,Gurram,4.5,8,4.68,"['INTM502', 'INTM427', 'INTM410', 'INT410', 'INTM597']",4.6575
-405,Gordon,Paul,3.1,30,3.6,"['MATH148', 'MATH149', 'MATH151']",3.2666666666666666
+405,Gordon,Paul,3.1,30,3.6,"['MATH148', 'MATH149', 'MATH151']",3.266666667
 406,Gordon,Ruthanna,3.9,14,3.85,"['PSYC222', 'PSYC423', 'PSYC503', 'PSYC310']",3.875
-407,Gore,David,3.5,3,4.53,"['PHYS309', 'PHYS221', 'PHYS223']",4.1866666666666665
-408,Gorham,Aja,4.4,13,4.55,"['COM111', 'HUM106', 'COM421', 'COM101']",4.503846153846154
-409,Gorham,Michael,5.0,25,4.45,"['BUS454', 'MSF593', 'BUS458', 'MSF505', 'MSF594', 'MBA509', 'MSF591', 'BUS100']",4.472
+407,Gore,David,3.5,3,4.53,"['PHYS309', 'PHYS221', 'PHYS223']",4.186666667
+408,Gorham,Aja,4.4,13,4.55,"['COM111', 'HUM106', 'COM421', 'COM101']",4.503846154
+409,Gorham,Michael,5,25,4.45,"['BUS454', 'MSF593', 'BUS458', 'MSF505', 'MSF594', 'MBA509', 'MSF591', 'BUS100']",4.472
 410,Gorham,Michael,,24,4.45,"['BUS454', 'MSF593', 'BUS458', 'MSF505', 'MSF594', 'MBA509', 'MSF591', 'BUS100']",4.45
-411,Gorman,Thomas,,1,4.0,['IPRO497'],4.0
-412,Gosz,Michael,4.3,9,4.19,"['MMAE100', 'MMAE451']",4.263333333333333
+411,Gorman,Thomas,,1,4,['IPRO497'],4
+412,Gosz,Michael,4.3,9,4.19,"['MMAE100', 'MMAE451']",4.263333333
 413,Gothard,Nosheen,,1,2.94,"['CHEM122', 'CHEM240', 'CHEM237']",2.94
-414,Gottlieb,Myron,,1,4.0,['IPRO497'],4.0
+414,Gottlieb,Myron,,1,4,['IPRO497'],4
 415,Grabowski,Donald,,5,4.05,"['CAE416', 'CAE417']",4.05
-416,Green,Keith,4.6,53,4.89,"['HIST380', 'HUM102', 'HIST322', 'HUM200', 'HIST344']",4.747735849056603
+416,Green,Keith,4.6,53,4.89,"['HIST380', 'HUM102', 'HIST322', 'HUM200', 'HIST344']",4.747735849
 417,Greenberg,Eric,,,,['CHE511'],
-418,Greenberg,Lee,2.8,6,3.58,"['ARCH226', 'ARCH125', 'ARCH202']",3.3200000000000003
+418,Greenberg,Lee,,4,3.58,"['ARCH226', 'ARCH125', 'ARCH202']",3.58
+1331,Greenberg, Lee Edward,2.8,2,,,2.8
+1332,Greenhouse, Ted,,0,,,
 419,Greven,Evan,,12,3.87,['ARCH560'],3.87
 420,Griffith,April,,1,3.9,"['COOP012', 'COOP022', 'SSB510', 'SSB520']",3.9
-421,Grimshaw,William,4.1,14,4.29,"['PS315', 'PS341', 'PS403', 'PS317']",4.113571428571428
+421,Grimshaw,William,4.1,14,4.29,"['PS315', 'PS341', 'PS403', 'PS317']",4.113571429
 422,Grinnell,David,,,,"['MC530', 'MAC515', 'MAC514']",
 423,Grix,Bethany,,1,4.33,['PSYC303'],4.33
 424,Groesbeck,Christopher,,2,4.22,"['ARCH419', 'ARCH420', 'ARCH497']",4.22
-425,Grossman,David,3.5,9,4.5,"['CS422', 'CS429']",3.8333333333333335
+425,Grossman,David,3.5,9,4.5,"['CS422', 'CS429']",3.833333333
 426,Grove,Stephen,,5,4.19,['FPE505'],4.19
 427,Grudzinski,James,,6,3.99,"['CAE530', 'MMAE451']",3.99
 428,Grzesik,Thomas,,1,2.9,['PSYC562'],2.9
@@ -432,31 +495,39 @@ id,last,first,rmp_rating,confidence,IIT_rating,courses,overall
 431,Guen-Murray,Theresa,,1,2.57,"['LA545', 'ARCH417']",2.57
 432,Gupta,Praveen,,2,4.51,"['ITM582', 'ITMM482']",4.51
 433,Guralnick,Sidney,,4,4.55,"['CAE435', 'CAE520', 'CAE560']",4.55
-434,Gurbani,Vijay,4.5,24,4.56,['CS401'],4.5424999999999995
+434,Gurbani,Vijay,4.5,24,4.56,['CS401'],4.5425
 435,Guthman,Jack,,2,4.55,['ARCH562'],4.55
 436,Haak,Christopher,,1,4.38,['PSYC221'],4.38
-437,Haedt Matt,Alissa,2.8,21,4.35,"['PSYC588', 'PSYC203', 'PSYC489', 'PSYC512', 'PSYC526', 'PSYC303']",3.759523809523809
+1333,Haddadian, Ghazale,,0,,,
+437,Haedt Matt,Alissa,,13,4.35,"['PSYC588', 'PSYC203', 'PSYC489', 'PSYC512', 'PSYC526', 'PSYC303']",4.35
+1334,Haedt-Matt, Alissa,2.8,8,,,2.8
 438,Haferkamp,Bonnie,4.2,25,4.44,"['BIOL117', 'BIOL501', 'BME200', 'BME405', 'BME100', 'BME490', 'IPRO497', 'BME453', 'BME500', 'BME553']",4.4112
 439,Hahn,Allison,,6,4.74,"['PESL021', 'PESL032', 'PESL061', 'ELP861', 'ELP862']",4.74
-440,Hajek,Jeremy,3.0,43,4.43,"['ITM301', 'ITM444', 'ITM311', 'ITMO444', 'ITM302', 'ITMO454', 'ITMT492', 'ITMO456', 'ITMO450', 'ITMD521', 'ITMO544', 'ITMO556', 'ITMO453', 'ITMT430', 'IT']",3.9644186046511627
+1335,Haines, Paul,4.5,2,,,4.5
+1336,Haines, Phil,,0,,,
+440,Hajek,Jeremy,3,43,4.43,"['ITM301', 'ITM444', 'ITM311', 'ITMO444', 'ITM302', 'ITMO454', 'ITMT492', 'ITMO456', 'ITMO450', 'ITMD521', 'ITMO544', 'ITMO556', 'ITMO453', 'ITMT430', 'IT']",3.964418605
 441,Hakken,Karl,,1,4.16,['AAH119'],4.16
-442,Hale,Kyle,5.0,5,4.4,"['CS595', 'CS350']",4.88
-443,Hall,Carrie,4.7,12,4.62,"['MMAE320', 'MMAE524', 'MMAE443', 'MMAE453']",4.653333333333333
+442,Hale,Kyle,5,5,4.4,"['CS595', 'CS350']",4.88
+443,Hall,Carrie,4.7,12,4.62,"['MMAE320', 'MMAE524', 'MMAE443', 'MMAE453']",4.653333333
 444,Hall,James,,5,4.33,"['ARCH109', 'ARCH110', 'ARCH471']",4.33
+1337,Hall, Connie,1.9,6,,,1.9
 445,Hallett,Jill,,1,4.08,"['PESL031', 'PESL042', 'PESL062', 'PESL032', 'ELP822']",4.08
 446,Halvorsen,Alan,,2,4.63,"['ARCH113', 'ARCH114']",4.63
+1338,Hamill, Nancy,4,1,,,4
 447,Hamill-Governale,Nancy,,14,3.71,"['IPRO497', 'INTM416']",3.71
 448,Hamilton,Charles,,26,3.71,"['BUS210', 'BUS311', 'MBA501', 'BUS212', 'BUS361']",3.71
 449,Hammond,Stephen,,10,4.14,"['IPRO497', 'BUS103', 'BUS204', 'IPRO397']",4.14
 450,Hanioglu,Mehmet,,2,3.88,"['CAE579', 'EMGT470']",3.88
 451,Hanlet,Pierrick,,6,3.48,"['PHYS221', 'PHYS224']",3.48
+1339,Hanlet, P,2.3,22,,,2.3
 452,Hannigan,Carrie,,14,4.77,"['LIT380', 'LIT411', 'LIT306']",4.77
-453,Hanrath,Jon,4.6,108,4.7,"['CS105', 'CS115', 'CS485']",4.638888888888889
+453,Hanrath,Jon,4.6,108,4.7,"['CS105', 'CS115', 'CS485']",4.638888889
 454,Hansen,Meghan,,1,4.79,['PSYC221'],4.79
-455,Hao,Zhipeng,1.6,11,3.68,['CS442'],2.923636363636364
-456,Haque,Aamer,4.4,18,4.17,"['BME422', 'MATH151']",4.361666666666667
+455,Hao,Zhipeng,1.6,11,3.68,['CS442'],2.923636364
+456,Haque,Aamer,4.4,18,4.17,"['BME422', 'MATH151']",4.361666667
 457,Harboe,Thomas,,1,4.67,"['ARCH418', 'ARCH113', 'ARCH114']",4.67
 458,Harley,Keith,,3,4.96,"['EMS502', 'EMS532']",4.96
+1340,Harrington, Kevin,3.5,8,,,3.5
 459,Harris,Geoffrey,,3,4.86,"['MSF524', 'MSF525', 'MSF545']",4.86
 460,Harris,Melvin,,1,4.36,['SSB510'],4.36
 461,Harris,Stephen,,6,4.44,"['HUM104', 'PHIL380', 'PHIL328']",4.44
@@ -465,76 +536,87 @@ id,last,first,rmp_rating,confidence,IIT_rating,courses,overall
 464,Hasenfang,Dennis,,,,"['ITM469', 'ITMD469']",
 465,Hashmi,Nazneen,,2,3.87,"['ITMD536', 'IT', 'ITMM572']",3.87
 466,Hassan,M. Zia,,,,"['MBA520', 'MBA525']",
+1341,Hatziavramidis, Dimitri,1,1,,,1
 467,Haurberg,Soren,,4,3.59,"['ITM455', 'ITMD455', 'ITMD462']",3.59
-468,Hawkins,Witt,2.0,4,3.35,"['ITM312', 'IT312']",3.0125
-469,Hazard,Erin,5.0,11,4.68,"['ARCH321', 'AAH120', 'AAH119', 'AAH380']",4.709090909090909
-470,Hazen,Timothy,4.0,4,4.47,"['PS230', 'PS242']",4.3525
+468,Hawkins,Witt,2,4,3.35,"['ITM312', 'IT312']",3.0125
+469,Hazard,Erin,5,11,4.68,"['ARCH321', 'AAH120', 'AAH119', 'AAH380']",4.709090909
+470,Hazen,Timothy,4,4,4.47,"['PS230', 'PS242']",4.3525
+1342,Hazzard, Erin,4.5,3,,,4.5
 471,He,Peng,,,,['MSF525'],
 472,Heckert,Jonathan,,1,4.57,['ARCH202'],4.57
-473,Hedrick,Laura,,1,4.0,['PSYC221'],4.0
-474,Heffron,Anthony,4.0,5,4.65,"['HUM204', 'HUM380', 'HIST380']",4.390000000000001
+473,Hedrick,Laura,,1,4,['PSYC221'],4
+474,Heffron,Anthony,4,5,4.65,"['HUM204', 'HUM380', 'HIST380']",4.39
 475,Heilprin,Joel,,,,"['MSF506', 'MSF535']",
-476,Hemphill,Libby,4.3,16,4.64,"['COM525', 'COM380', 'IPRO497', 'COM383', 'COM542', 'COM601', 'COM381', 'COM538']",4.597499999999999
+476,Hemphill,Libby,4.3,16,4.64,"['COM525', 'COM380', 'IPRO497', 'COM383', 'COM542', 'COM601', 'COM381', 'COM538']",4.5975
 477,Hendabadi,Sahar,,5,4.3,"['MMAE320', 'MMAE321', 'MMAE323']",4.3
 478,Henderson,Ronald,,,,"['LA497', 'ARCH419']",
 479,Hendricks,Jerome,,1,4.92,['SOC351'],4.92
-480,Hendry,Robert,4.8,38,4.57,"['ITM421', 'ITM422', 'ITM527', 'ITM526', 'ITM529', 'ITM428', 'ITMS428', 'ITMD421', 'ITMD422', 'ITMD526', 'ITMD527', 'ITMD529']",4.624473684210526
+480,Hendry,Robert,4.8,38,4.57,"['ITM421', 'ITM422', 'ITM527', 'ITM526', 'ITM529', 'ITM428', 'ITMS428', 'ITMD421', 'ITMD422', 'ITMD526', 'ITMD527', 'ITMD529']",4.624473684
 481,Henson,Amy,,,,['COM428'],
 482,Herman,Matthew,,9,3.67,"['ARCH421', 'ARCH552', 'ARCH551']",3.67
-483,Hickernell,Fred,4.2,11,4.62,"['MATH565', 'MATH476', 'MATH152', 'MATH350']",4.505454545454546
+483,Hickernell,Fred,,8,4.62,"['MATH565', 'MATH476', 'MATH152', 'MATH350']",4.62
+1343,Hickernell, F,4.2,3,,,4.2
 484,Hickey,Susan,,1,4.25,"['ARCH305', 'ARCH306']",4.25
-485,Hicks,Marie,4.3,34,4.39,"['HIST375', 'COM580', 'HIST380', 'HIST374', 'COM554', 'HIST385', 'HUM354']",4.350294117647059
-486,Hicks,Roger,4.5,10,4.33,"['PSYC303', 'PSYC221', 'PSYC222']",4.398000000000001
-487,Hield,Christopher,5.0,4,,['CS442'],5.0
+485,Hicks,Marie,4.3,34,4.39,"['HIST375', 'COM580', 'HIST380', 'HIST374', 'COM554', 'HIST385', 'HUM354']",4.350294118
+486,Hicks,Roger,4.5,10,4.33,"['PSYC303', 'PSYC221', 'PSYC222']",4.398
+487,Hield,Christopher,5,4,,['CS442'],5
 488,Hildt,Elisabeth,,1,4.86,"['IPRO497', 'PHIL380', 'PHIL360']",4.86
 489,Himes,Christine,,,,"['SSCI385', 'LCHS100']",
-490,Hock,Adam,2.0,10,4.12,"['CHEM485', 'CHEM520', 'CHEM416', 'CHEM415', 'CHEM125', 'CHEM321']",3.908
+490,Hock,Adam,2,10,4.12,"['CHEM485', 'CHEM520', 'CHEM416', 'CHEM415', 'CHEM125', 'CHEM321']",3.908
 491,Hoepf,Thomas,,3,4.67,"['ARCH418', 'ARCH544']",4.67
 492,Hoffman,Robert,,6,4.32,['INTM430'],4.32
 493,Hoffmann,Giles,,1,4.29,['BME200'],4.29
 494,Hoffmann,Matthew,,3,4.41,"['SOC285', 'SSCI385', 'SSCI285', 'PS306']",4.41
 495,Hogan,Melanie,,4,4.69,"['COM380', 'COM424', 'COM381']",4.69
+1344,Hogan, Thor,4.8,4,,,4.8
 496,Hogue,Jessica,,3,4.4,"['LA527', 'LA526']",4.4
 497,Holihan,Keith,,1,4.57,['NS401'],4.57
-498,Holland,Martin,,1,5.0,"['LA497', 'LA546']",5.0
-499,Holmgren,Neil,2.0,3,4.49,"['PS362', 'SOC356', 'PS340']",3.66
+498,Holland,Martin,,1,5,"['LA497', 'LA546']",5
+499,Holmgren,Neil,2,3,4.49,"['PS362', 'SOC356', 'PS340']",3.66
 500,Hong,Seok Hoon,,3,3.96,"['CHE525', 'CHE545']",3.96
-501,Hood,Cynthia,2.1,30,4.37,"['CS495', 'CS542', 'IPRO497', 'CS595', 'CS110', 'CS100', 'CS547', 'CS456']",3.083666666666667
+501,Hood,Cynthia,2.1,30,4.37,"['CS495', 'CS542', 'IPRO497', 'CS595', 'CS110', 'CS100', 'CS547', 'CS456']",3.083666667
 502,Hood,Dennis,,43,4.2,"['CSP587', 'ITM471', 'ITM572', 'CSP595', 'IPRO497', 'ITM573', 'CS487', 'CS115', 'ITMM572', 'ITMM471', 'ITMM573', 'CSP571', 'ITMM571', 'CS495']",4.2
-503,Hopkins,Joyce,2.0,19,4.25,"['PSYC303', 'PSYC506', 'PSYC525', 'PSYC588', 'PSYC533', 'PSYC489', 'PSYC519', 'PSYC518', 'PSYC524']",4.131578947368421
+1345,Hood, Dennis,2.4,12,,,2.4
+503,Hopkins,Joyce,2,19,4.25,"['PSYC303', 'PSYC506', 'PSYC525', 'PSYC588', 'PSYC533', 'PSYC489', 'PSYC519', 'PSYC518', 'PSYC524']",4.131578947
 504,Horn,Brandon,,1,4.25,"['ARCH305', 'ARCH306']",4.25
 505,Horn,Gerald,,3,4.53,"['ARCH418', 'ARCH495', 'ARCH417']",4.53
 506,Hosman,Laura,4.8,18,4.62,"['PS230', 'PS232', 'PS353', 'PS360', 'IPRO497', 'ANTH380', 'PS385']",4.64
 507,Houlihan,Jodi,,,,['IPRO497'],
-508,Houston,Eric,3.3,12,3.38,"['PSYC303', 'PSYC510', 'PSYC520', 'PSYC330', 'PSYC505']",3.3599999999999994
-509,Howard,Andrew,1.8,36,3.98,"['BIOL401', 'BIOL495', 'BIOL403', 'BIOL555', 'PHYS561', 'BIOL504', 'BIOL115']",2.9505555555555554
+508,Houston,Eric,3.3,12,3.38,"['PSYC303', 'PSYC510', 'PSYC520', 'PSYC330', 'PSYC505']",3.36
+509,Howard,Andrew,1.8,36,3.98,"['BIOL401', 'BIOL495', 'BIOL403', 'BIOL555', 'PHYS561', 'BIOL504', 'BIOL115']",2.950555556
 510,Howard,Elizabeth,4.9,10,4.77,"['PSYC301', 'PSYC222', 'PSYC203']",4.822
 511,Howard,Joanne,,11,4.92,"['MBA588', 'PA501', 'PA599', 'PA541', 'PA579', 'PA581', 'PA502', 'PA552', 'PA570']",4.92
 512,Howell,Justin,,2,4.37,['COM101'],4.37
 513,Hoyle,Christopher,,1,3.32,['MMAE445'],3.32
 514,Hrozencik,Daniel,,,,['MATH152'],
 515,Hsu,Ying-Chun,,1,4.75,['ARCH438'],4.75
-516,Huang,Hao,3.0,6,3.48,"['SSCI355', 'SSCI209', 'SSCI225', 'SSCI204']",3.3200000000000003
-517,Huang,Peisong,2.3,11,4.0,"['ITM542', 'ITMO542', 'ITM312', 'ITM311', 'ITMD455', 'IT', 'ITMD555', 'ITMD511']",3.690909090909091
+516,Huang,Hao,3,6,3.48,"['SSCI355', 'SSCI209', 'SSCI225', 'SSCI204']",3.32
+517,Huang,Peisong,2.3,11,4,"['ITM542', 'ITMO542', 'ITM312', 'ITM311', 'ITMD455', 'IT', 'ITMD555', 'ITMD511']",3.690909091
 518,Hubbard,Tim,,2,4.06,"['CAE468', 'CAE469']",4.06
-519,Hudgens,Mary,4.3,22,4.56,"['HIST337', 'HIST350', 'HIST380', 'HUM102', 'HIST333']",4.489090909090908
+519,Hudgens,Mary,4.3,22,4.56,"['HIST337', 'HIST350', 'HIST380', 'HUM102', 'HIST333']",4.489090909
 520,Hughes-Durkin,Sean,,10,4.67,"['ITMO456', 'ITMS458', 'IT']",4.67
-521,Humer,Colleen,3.5,29,4.24,"['ARCH113', 'ARCH321', 'ARCH114', 'ARCH456']",4.0103448275862075
+521,Humer,Colleen,3.5,29,4.24,"['ARCH113', 'ARCH321', 'ARCH114', 'ARCH456']",4.010344828
 522,Hunt,James,,,,"['AS401', 'AS202']",
-523,Hunt,Mary,,1,4.0,['PSYC301'],4.0
+523,Hunt,Mary,,1,4,['PSYC301'],4
+1346,Hunter, Robert,4.3,9,,,4.3
+1347,Hurst, Cedric,,0,,,
 524,Hurtig,Anthony,,2,3.71,"['ARCH544', 'ARCH113', 'ARCH114']",3.71
 525,Hutman,Paul,,4,4.45,['PSYC303'],4.45
+1348,Huyck, Margaret,2.7,9,,,2.7
 526,Huynh-Ba,Kim,,2,4.44,"['CHEM543', 'CHEM519', 'CHEM518']",4.44
 527,Ilievska,Katerina,,12,4.61,"['COM101', 'COM421', 'COM523', 'COM111']",4.61
 528,Ipser,Herbert,,,,['MMAE597'],
-529,Ireland,Patrick,4.4,17,4.75,"['PS319', 'PS372', 'PS374', 'PS200', 'PS462', 'PS323', 'SSCI385', 'PS376', 'SSCI319', 'SSCI318', 'SSCI323', 'SSCI376']",4.647058823529412
-530,Irving,Thomas,3.0,23,3.65,"['BIOL430', 'BIOL115', 'BIOL117', 'BIOL451']",3.2543478260869563
+529,Ireland,Patrick,4.4,17,4.75,"['PS319', 'PS372', 'PS374', 'PS200', 'PS462', 'PS323', 'SSCI385', 'PS376', 'SSCI319', 'SSCI318', 'SSCI323', 'SSCI376']",4.647058824
+530,Irving,Thomas,3,23,3.65,"['BIOL430', 'BIOL115', 'BIOL117', 'BIOL451']",3.254347826
 531,Issa,John,,4,4.26,"['ARCH305', 'ARCH306']",4.26
 532,Ivanov,Ivan,,4,3.36,"['MATH252', 'MATH532']",3.36
-533,Ivanov,Kamen,4.3,6,4.0,['ECE307'],4.25
+533,Ivanov,Kamen,4.3,6,4,['ECE307'],4.25
 534,Ivanov,Kiril,,7,4.6,"['ARCH485', 'ARCH230']",4.6
 535,Iversen,Michael,,,,['SSCI385'],
+1349,Iverson, Margot,3.8,3,,,3.8
 536,Jabbari,Kamyar,,4,3.72,['INTM545'],3.72
+1350,Jachimiec, Nathan,3.4,11,,,3.4
+1351,Jack, Cappozzo,4.8,3,,,4.8
 537,Jackson,Gregory,,6,4.82,"['PA562', 'PA539', 'PA522', 'PA502', 'PA599']",4.82
 538,Jackson,Michelle,,1,3.83,['IPRO497'],3.83
 539,Jacobs,Thomas,,4,4.87,"['ARCH543', 'ARCH418', 'ARCH541', 'ARCH593', 'ARCH497']",4.87
@@ -542,16 +624,18 @@ id,last,first,rmp_rating,confidence,IIT_rating,courses,overall
 541,Jahedi,Jamshid,,4,3.64,"['CAE468', 'CAE469']",3.64
 542,Jain,Jagjit,,8,4.55,['INTM444'],4.55
 543,James,Megan,,1,4.04,['PSYC222'],4.04
-544,James,Vincent,,1,4.0,['ARCH417'],4.0
-545,Jankovski,Aleksandar,4.0,2,4.67,"['PS385', 'PS388', 'PS230']",4.335
+544,James,Vincent,,1,4,['ARCH417'],4
+545,Jankovski,Aleksandar,4,2,4.67,"['PS385', 'PS388', 'PS230']",4.335
 546,Jayarajan,Dinakar,,7,4.26,"['MAC595', 'MAC506', 'MAC526', 'BUS371', 'MAX506', 'MAX526']",4.26
 547,Jiang,Cheng,,,,['BUS305'],
 548,Jin,Dong,,7,4.7,"['CS595', 'CS458', 'CS558', 'CS695']",4.7
+1352,Jin, Kevin,5,3,,,5
 549,Jody,Bassam,,1,3.77,['MMAE321'],3.77
 550,Joerger,Mathieu,,3,4.36,['MMAE443'],4.36
-551,Johnson,Leslie,3.4,24,4.61,"['ARCH201', 'ARCH202', 'CRP201', 'ARCH497', 'ARCH417', 'ARCH418', 'AURB201', 'ARCH305', 'ARCH306', 'ARCH108']",4.357916666666667
-552,Johnson,Peter,1.9,43,3.74,"['CHEM239', 'CHEM455', 'CHEM235', 'CHEM530', 'CHEM122', 'CHEM531']",2.1567441860465113
-553,Johnson,Thomas,5.0,2,4.9,['ITMS588'],4.95
+551,Johnson,Leslie,3.4,24,4.61,"['ARCH201', 'ARCH202', 'CRP201', 'ARCH497', 'ARCH417', 'ARCH418', 'AURB201', 'ARCH305', 'ARCH306', 'ARCH108']",4.357916667
+552,Johnson,Peter,1.9,43,3.74,"['CHEM239', 'CHEM455', 'CHEM235', 'CHEM530', 'CHEM122', 'CHEM531']",2.156744186
+553,Johnson,Thomas,5,2,4.9,['ITMS588'],4.95
+1353,Johnson, Porter,2.8,7,,,2.8
 554,Johnston,Alan,,2,4.54,['ITMD545'],4.54
 555,Joiner,Noland,,3,3.98,"['ITM470', 'ITMT495', 'ITMM571']",3.98
 556,Jones,Kristin,,19,4.29,"['ARCH331', 'ARCH332']",4.29
@@ -560,353 +644,405 @@ id,last,first,rmp_rating,confidence,IIT_rating,courses,overall
 559,Juarez,Oscar,3.7,12,4.27,"['BIOL109', 'BIOL404', 'BIOL542', 'BIOL512', 'BIOL504']",3.9375
 560,Jung,Taeho,,,,['CS330'],
 561,Jurgens,Barbara,,1,4.37,['BUS371'],4.37
-562,Kallend,John,4.3,66,4.52,"['MMAE100', 'MS201', 'MMAE465', 'MMAE490']",4.386666666666667
+562,Kallend,John,4.3,66,4.52,"['MMAE100', 'MS201', 'MMAE465', 'MMAE490']",4.386666667
 563,Kalwani,Sharan,,1,3.04,['ITMD469'],3.04
 564,Kamper,Derek,,9,4.55,"['BME315', 'BME475', 'BME330', 'BME331', 'BME490']",4.55
 565,Kanakasabai,Murali,,1,4.5,['EMS505'],4.5
 566,Kandemir,Recep,,,,['ITM302'],
-567,Kang,Lulu,2.9,24,3.73,"['MATH474', 'MATH569', 'MATH476', 'MATH484', 'MATH425', 'MATH574', 'MATH564']",3.5224999999999995
+1354,Kandemir, Emre,,0,,,
+1355,Kandemir, Emre,5,1,,,5
+567,Kang,Lulu,2.9,24,3.73,"['MATH474', 'MATH569', 'MATH476', 'MATH484', 'MATH425', 'MATH574', 'MATH564']",3.5225
 568,Kang,Sang-Baum,,15,4.59,"['MSF524', 'MSF505', 'MSF503']",4.59
-569,Derwent,Jennifer,,17,3.51,"['BME419', 'BME420', 'BME445']",3.51
+1356,Kang-Mieler, Jennifer,2.2,5,,,2.2
 570,Kanter,Jordan,,1,3.73,"['ARCH305', 'ARCH207']",3.73
-571,Kaplan,Daniel,1.9,28,3.38,"['PHYS221', 'PHYS348', 'IPRO497']",2.3757142857142854
-572,Kapoor,Sanjiv,2.2,34,3.84,"['CS530', 'CS595', 'CS330', 'CS535', 'CS539', 'CS430']",2.923529411764706
+571,Kaplan,Daniel,1.9,28,3.38,"['PHYS221', 'PHYS348', 'IPRO497']",2.375714286
+572,Kapoor,Sanjiv,2.2,34,3.84,"['CS530', 'CS595', 'CS330', 'CS535', 'CS539', 'CS430']",2.923529412
 573,Karidis,Chris,,4,4.97,"['ARCH417', 'ARCH418']",4.97
 574,Karlovitz,Michael,,,,['ARCH593'],
-575,Karuri,Nancy,4.4,19,4.01,"['CHE311', 'BME525', 'CHE302', 'CHE100', 'CHE101', 'CHE584']",4.092105263157895
+575,Karuri,Nancy,4.4,19,4.01,"['CHE311', 'BME525', 'CHE302', 'CHE100', 'CHE101', 'CHE584']",4.092105263
 576,Kaszynski,Katie,,2,3.57,['PSYC221'],3.57
-577,Kaul,Hemanshu,4.2,26,4.6,"['MATH332', 'MATH435', 'MATH453', 'MATH410', 'MATH454', 'MATH251', 'MATH554', 'MATH152', 'MATH430', 'MATH486', 'MATH100', 'MATH553', 'MATH380']",4.553846153846154
+577,Kaul,Hemanshu,4.2,26,4.6,"['MATH332', 'MATH435', 'MATH453', 'MATH410', 'MATH454', 'MATH251', 'MATH554', 'MATH152', 'MATH430', 'MATH486', 'MATH100', 'MATH553', 'MATH380']",4.553846154
 578,Kavalar,Michael,,1,4.53,['ARCH207'],4.53
 579,Kazmierczak,Michael,,,,"['MMAE323', 'MMAE321']",
 580,Kazukauskas,Kelly,,10,4.54,"['PSYC588', 'PSYC523', 'PSYC557', 'PSYC221', 'PSYC577', 'PSYC380']",4.54
 581,Kearns,Thomas,,16,4.23,"['ARCH305', 'ARCH306', 'ARCH430', 'ARCH497', 'ARCH419', 'ARCH108', 'ARCH208', 'ARCH107', 'ARCH508']",4.23
-582,Keles,Ozgur,4.5,4,4.19,"['MMAE200', 'MS201', 'MMAE232']",4.345000000000001
-583,Keller,Sean,2.5,20,4.38,"['ARCH321', 'ARCH502', 'ARCH501', 'ARCH503', 'ARCH456']",4.286
+1357,Keeley, Larry,,0,,,
+582,Keles,Ozgur,4.5,4,4.19,"['MMAE200', 'MS201', 'MMAE232']",4.345
+583,Keller,Sean,,19,4.38,"['ARCH321', 'ARCH502', 'ARCH501', 'ARCH503', 'ARCH456']",4.38
 584,Kenkel,Mark,,,,['ECE576'],
 585,Khaligh,Alireza,,4,4.23,"['ECE551', 'ECE538', 'ECE550', 'ECE548']",4.23
 586,Khalili,Nasrin,,11,4.37,"['EM506', 'EM508', 'EM514', 'EM540', 'EM516', 'IPRO497', 'BUS305', 'EMS503', 'EMS512', 'INTM461', 'INTM561', 'MBA526', 'SMGT503']",4.37
-587,Khan,M. Ishaque,2.9,14,4.13,"['CHEM485', 'CHEM522', 'CHEM521', 'CHEM100']",3.3392857142857144
+587,Khan,M. Ishaque,,5,4.13,"['CHEM485', 'CHEM522', 'CHEM521', 'CHEM100']",4.13
 588,Khan,Saadia,,1,3.67,['CHEM415'],3.67
+1358,Khan, Md Ishaque,2.9,9,,,2.9
 589,Khanafseh,Samer,,7,4.12,"['MMAE443', 'MMAE200', 'MMAE305']",4.12
 590,Khelashvili,Gocha,3.6,25,3.64,"['PHYS571', 'PHYS578', 'PHYS572', 'PHYS123', 'PHYS508', 'PHYS224', 'PHYS579']",3.616
-591,Khetarpal,Naveen,,1,2.0,['PSYC503'],2.0
+591,Khetarpal,Naveen,,1,2,['PSYC503'],2
 592,Khokhar,Ashfaq,,2,3.82,['ECE485'],3.82
-593,Khounsary,Ali,,1,4.0,"['PHYS497', 'IPRO497']",4.0
+593,Khounsary,Ali,,1,4,"['PHYS497', 'IPRO497']",4
 594,Khudeira,Soliman,,4,4.68,['CAE416'],4.68
-595,Kibler,Stephen,3.0,14,3.96,"['ARCH334', 'ARCH335', 'ARCH230', 'ARCH597']",3.7542857142857144
+595,Kibler,Stephen,3,14,3.96,"['ARCH334', 'ARCH335', 'ARCH230', 'ARCH597']",3.754285714
+1359,Killer, Sean,2.5,1,,,2.5
 596,Kim,Joohee,2.3,21,4.26,"['ECE508', 'ECE308', 'ECE481', 'ECE565']",3.98
-597,Kimont,Jeffrey,4.5,22,4.28,"['ITM411', 'ITM415', 'ITM444', 'ITM455', 'ITM413', 'ITM419', 'ITM466', 'ITM469', 'ITMD411', 'ITMD415', 'ITMD466']",4.3100000000000005
+597,Kimont,Jeffrey,4.5,22,4.28,"['ITM411', 'ITM415', 'ITM444', 'ITM455', 'ITM413', 'ITM419', 'ITM466', 'ITM469', 'ITMD411', 'ITMD415', 'ITMD466']",4.31
+1360,Kintigh, Richard,4.8,3,,,4.8
 598,Kirschner,Ronald,,1,4.63,['MSF598'],4.63
 599,Kitjasateanphun,Theeravat,,1,3.64,['CAE420'],3.64
-600,Klaeschen,Martin,2.8,14,4.11,"['ARCH306', 'ARCH305', 'ARCH509', 'ARCH497']",3.829285714285714
+600,Klaeschen,Martin,2.8,14,4.11,"['ARCH306', 'ARCH305', 'ARCH509', 'ARCH497']",3.829285714
 601,Kleiman,Lori,,1,4.75,['INTM425'],4.75
-602,Klymson,Jeffery,4.8,16,4.64,"['ARCH201', 'ARCH202', 'ARCH305', 'ARCH306']",4.659999999999999
+602,Klymson,Jeffery,4.8,16,4.64,"['ARCH201', 'ARCH202', 'ARCH305', 'ARCH306']",4.66
 603,Knowles,Thomas,,3,4.28,['MSF503'],4.28
 604,Ko,Dong,,2,3.91,"['ARCH552', 'ARCH551']",3.91
 605,Ko,Dong,,2,3.91,"['ARCH552', 'ARCH551']",3.91
-606,Kocurek,Carly,3.0,11,3.96,"['HUM380', 'COM580', 'HUM208', 'COM380']",3.610909090909091
+606,Kocurek,Carly,3,11,3.96,"['HUM380', 'COM580', 'HUM208', 'COM380']",3.610909091
 607,Koehler,Catherine,,2,4.41,"['MSED200', 'MSED400', 'MSED550']",4.41
 608,Koehler,David,,3,4.04,"['MBA575', 'BUS305', 'BUS361', 'BUS371']",4.04
 609,Koehr,Brian,,,,['NS402'],
 610,Koivu,Kendra,,2,4.24,['PA502'],4.24
 611,Kollenbroich,James,,10,4.82,"['HIST311', 'HIST380', 'HIST336']",4.82
 612,Koo,Jackie,,1,1.33,"['ARCH417', 'ARCH418']",1.33
-613,Korah,John,3.0,2,3.78,"['CS116', 'CS595', 'CS429']",3.3899999999999997
+613,Korah,John,3,2,3.78,"['CS116', 'CS595', 'CS429']",3.39
 614,Korel,Bogdan,,16,4.49,"['CS589', 'CS590', 'CS586', 'CS763', 'CS537']",4.49
 615,Korel,Hanna,,8,4.03,"['IPRO497', 'IPRO397']",4.03
 616,Kotecha,Mrignayani,,1,2.88,['BME438'],2.88
 617,Kotowski,Kathryn,,2,4.86,"['IT', 'ITMM471', 'ITMM571']",4.86
-618,Koutsogiannakis,George,2.5,91,3.63,"['CS115', 'CS116', 'CS441', 'CS201']",2.9221978021978026
+618,Koutsogiannakis,George,2.5,91,3.63,"['CS115', 'CS116', 'CS441', 'CS201']",2.922197802
 619,Kovalov,Pavlo,,,,['MATH586'],
-620,Kowal,Anthony,,4,4.0,"['BIOL430', 'BIOL117']",4.0
+620,Kowal,Anthony,,4,4,"['BIOL430', 'BIOL117']",4
 621,Kowalczyk,Lukasz,3.9,20,4.63,"['ARCH113', 'ARCH114', 'ARCH497', 'ARCH543', 'ARCH544', 'ARCH108', 'ARCH107', 'ARCH478']",4.4475
 622,Kowalczyk,Ronald,,3,4.89,['BUS341'],4.89
 623,Kowalke,Adam,,,,"['NS202', 'NS101']",
-624,Kramer,Alexis,4.1,7,4.15,['PSYC221'],4.121428571428572
-625,Krawczyk,Robert,5.0,10,4.13,"['ARCH428', 'ARCH429', 'IPRO497']",4.2170000000000005
+624,Kramer,Alexis,4.1,7,4.15,['PSYC221'],4.121428571
+625,Krawczyk,Robert,5,10,4.13,"['ARCH428', 'ARCH429', 'IPRO497']",4.217
 626,Krehbiel-Pieracci,Janet,,25,3.91,"['ARCH109', 'ARCH110']",3.91
 627,Kriegel,Alice,,2,4.47,"['IPRO497', 'IPRO397']",4.47
-628,Krieglstein,Daniel,5.0,13,4.3,"['PSYC222', 'PSYC180', 'PSYC303', 'PSYC221', 'ITMD361', 'IT', 'PSYC380']",4.3538461538461535
-629,Kriegshauser,John,4.5,23,4.94,"['ARCH467', 'ARCH497']",4.633913043478262
-630,Krikorian,Charles,4.7,27,4.74,"['BIOL524', 'BIOL446', 'BIOL495', 'BIOL117', 'BIOL501', 'BIOL105', 'BIOL109', 'BIOL526']",4.72962962962963
-631,Krishnamurthy,Kathiravan,5.0,18,4.67,"['FPE521', 'FPE522', 'FPE541', 'FDSN521', 'FDSN541']",4.6883333333333335
-632,Krishnamurthy,Mahesh,3.4,22,4.56,"['ECE319', 'ECE539', 'ECE552', 'ECE411', 'ECE538', 'ECE412', 'IPRO497', 'ECE497', 'ECE764', 'ECE752']",4.349090909090909
+628,Krieglstein,Daniel,5,13,4.3,"['PSYC222', 'PSYC180', 'PSYC303', 'PSYC221', 'ITMD361', 'IT', 'PSYC380']",4.353846154
+629,Kriegshauser,John,4.5,23,4.94,"['ARCH467', 'ARCH497']",4.633913043
+630,Krikorian,Charles,4.7,27,4.74,"['BIOL524', 'BIOL446', 'BIOL495', 'BIOL117', 'BIOL501', 'BIOL105', 'BIOL109', 'BIOL526']",4.72962963
+631,Krishnamurthy,Kathiravan,5,18,4.67,"['FPE521', 'FPE522', 'FPE541', 'FDSN521', 'FDSN541']",4.688333333
+632,Krishnamurthy,Mahesh,3.4,22,4.56,"['ECE319', 'ECE539', 'ECE552', 'ECE411', 'ECE538', 'ECE412', 'IPRO497', 'ECE497', 'ECE764', 'ECE752']",4.349090909
 633,Krishnan,Raj,,3,4.32,"['ITMD463', 'IT', 'ITMD526']",4.32
 634,Krueck,Ronald,,5,4.41,"['ARCH417', 'ARCH418']",4.41
 635,Krueger,Alexandra,,2,3.74,"['BUS473', 'BUS371']",3.74
 636,Krupa-Ryan,Barbara,,4,4.39,"['PESL031', 'PESL042', 'PESL062', 'ELP821', 'ELP842']",4.39
-637,Kuby Straka,Linda,,1,4.0,['PSYC411'],4.0
+637,Kuby Straka,Linda,,1,4,['PSYC411'],4
 638,Kuhn,Ralph,,1,3.63,['INTM446'],3.63
 639,Kujawa,Casimir,,6,4.24,"['ARCH201', 'ARCH202']",4.24
-640,Kulp,Jesse,1.3,3,2.94,['ITMD434'],1.8466666666666667
+640,Kulp,Jesse,1.3,3,2.94,['ITMD434'],1.846666667
 641,Kultermann,Eva,,15,4.87,"['ARCH417', 'ARCH443', 'ARCH418', 'ARCH497', 'ARCH509', 'ARCH505', 'ARCH201', 'ARCH202', 'ARCH480']",4.87
 642,Kumiega,Andrew,,13,4.11,"['INTM415', 'INTM522', 'INTM418']",4.11
 643,Kuner,Rick,,,,['PA542'],
+1361,Kuprys, Rima,3.7,3,,,3.7
 644,Kusz,John,,,,"['EM507', 'ID548']",
 645,La Jeune,Kerl,,2,4.27,"['ARCH201', 'ARCH202']",4.27
 646,Laas,Kelly,,2,4.85,['IPRO497'],4.85
-647,Ladenson,Robert,3.8,13,4.15,"['HUM102', 'PHIL360', 'PHIL373', 'COM377', 'PHIL362']",4.096153846153847
+647,Ladenson,Robert,3.8,13,4.15,"['HUM102', 'PHIL360', 'PHIL373', 'COM377', 'PHIL362']",4.096153846
+1362,Ladeson, Robert,3.3,3,,,3.3
 648,Lahaye Bilson,Laura,,1,3.38,['ECON152'],3.38
+1363,Lahey, Gary,,0,,,
 649,Lam,Chow,,1,4.74,"['PSYC412', 'PSYC577']",4.74
-650,Lam,Christopher,5.0,9,4.31,"['COM101', 'IPRO497', 'ENGL051', 'ENGL053', 'COM421']",4.616666666666666
+650,Lam,Christopher,5,9,4.31,"['COM101', 'IPRO497', 'ENGL051', 'ENGL053', 'COM421']",4.616666667
 651,Lambert,Jason,,5,4.45,"['ITMD465', 'ITMD462', 'ITMD467']",4.45
-652,Lan,Zhiling,4.5,15,4.24,"['CS550', 'CS546', 'CS451']",4.309333333333333
+652,Lan,Zhiling,4.5,15,4.24,"['CS550', 'CS546', 'CS451']",4.309333333
 653,Land,Peter,,10,4.45,"['ARCH417', 'ARCH487', 'ARCH545', 'ARCH418', 'ARCH497', 'ARCH593', 'ARCH419', 'ARCH420']",4.45
 654,Landis,Ron,,11,4.91,"['PSYC545', 'PSYC546', 'PSYC571', 'PSYC588', 'PSYC554', 'PSYC380', 'PSYC530', 'PSYC203']",4.91
 655,Landon,Peter,,3,4.7,"['ARCH545', 'ARCH417', 'ARCH418']",4.7
-656,Lane,Francis,3.9,16,4.09,"['IPRO497', 'PSYC411', 'PSYC585', 'PSYC583', 'PSYC575', 'PSYC410', 'PSYC526', 'PSYC588']",4.0424999999999995
+656,Lane,Francis,,12,4.09,"['IPRO497', 'PSYC411', 'PSYC585', 'PSYC583', 'PSYC575', 'PSYC410', 'PSYC526', 'PSYC588']",4.09
+1364,Lane, Frank,3.9,4,,,3.9
 657,Langlois,George,,,,['PSYC714'],
 658,Larkin,Daniel,,1,4.63,['LA565'],4.63
 659,Larsen,Patrick,,1,4.4,['NS101'],4.4
 660,Larson,Eric,,3,4.77,['PSYC581'],4.77
 661,Larson,Jonathan,,14,4.76,"['PSYC588', 'PSYC548', 'PSYC564', 'PSYC526', 'PSYC576', 'PSYC547']",4.76
-662,Laurent-Muehleisen,Sally,4.3,50,4.52,"['PHYS123', 'PHYS411', 'PHYS120', 'PHYS200', 'PHYS360', 'PHYS460']",4.4188
-663,Lauritsen,Matthew,5.0,8,4.67,"['PSYC301', 'PSYC221']",4.835
+1365,Laurent Meuhleisen, Sally,4.3,23,,,4.3
+662,Laurent-Muehleisen,Sally,,27,4.52,"['PHYS123', 'PHYS411', 'PHYS120', 'PHYS200', 'PHYS360', 'PHYS460']",4.52
+663,Lauritsen,Matthew,5,8,4.67,"['PSYC301', 'PSYC221']",4.835
 664,Lawrence,Bonny,,2,4.47,"['PSYC221', 'PSYC222']",4.47
 665,Lawrence,Halcyon,,6,4.14,"['COM101', 'COM111', 'COM428', 'COM301', 'IPRO397', 'COM323', 'COM380']",4.14
 666,Lawton,Kathryn,,1,3.29,['PSYC510'],3.29
+1366,Le Bihan, Soazig,5,1,,,5
 667,Lebow,Jocelyn,,1,4.91,['PSYC180'],4.91
-668,Lederman,Judith,3.5,2,4.89,"['MSED538', 'MSED602', 'MSED350', 'MSED320', 'MSED554', 'MSED540']",4.195
+668,Lederman,Judith,,1,4.89,"['MSED538', 'MSED602', 'MSED350', 'MSED320', 'MSED554', 'MSED540']",4.89
 669,Lederman,Norman,,2,4.93,"['MSED597', 'MSED603', 'MSED601', 'MSED250', 'MSED550', 'MSED400', 'MSED530']",4.93
+1367,Lederman, Judy,3.5,1,,,3.5
 670,Lee,Alvin,,15,4.28,"['FPE506', 'FPE505', 'FDSN505', 'FDSN506']",4.28
 671,Lee,Daniel,,2,4.86,"['ITMD526', 'IT']",4.86
-672,Lee,Eun-Jeong,4.0,22,4.2,"['PSYC513', 'PSYC561', 'PSYC412', 'PSYC573', 'PSYC410', 'PSYC411', 'PSYC583']",4.181818181818182
+672,Lee,Eun-Jeong,4,22,4.2,"['PSYC513', 'PSYC561', 'PSYC412', 'PSYC573', 'PSYC410', 'PSYC411', 'PSYC583']",4.181818182
 673,Lee,Hosea,,4,3.44,"['ITMS428', 'ITMS528', 'ITMD466', 'ITMD566', 'IT']",3.44
+1368,Lee, Michael,4.3,49,,,4.3
 674,Legate,Nicole,4.8,14,4.59,"['PSYC380', 'PSYC221', 'PSYC204', 'PSYC350']",4.665
 675,Lehman,Gary,,2,4.67,['LA566'],4.67
-676,Lemming,Raymond,3.8,27,4.06,"['CAE470', 'CAE578', 'CAE572', 'EMGT470', 'CAE570']",4.0311111111111115
+1369,Leight, Katherine,2,1,,,2
+676,Lemming,Raymond,3.8,27,4.06,"['CAE470', 'CAE578', 'CAE572', 'EMGT470', 'CAE570']",4.031111111
 677,Lenet,Steven,,,,['ARCH562'],
 678,Leon,Adeline,,2,4.13,"['PSYC221', 'PSYC222']",4.13
 679,Lesh,Donald,,2,4.68,['NS401'],4.68
-680,Leung,Wu-Hon,1.0,27,3.6,"['CS487', 'CS551', 'CS425', 'CS450']",3.503703703703704
+680,Leung,Wu-Hon,1,27,3.6,"['CS487', 'CS551', 'CS425', 'CS450']",3.503703704
+1370,Leung, Francis,2.6,15,,,2.6
 681,Levine,Marvin,,2,3.99,['INTM545'],3.99
 682,Lewis,Lea,,,,['PSYC489'],
 683,Lewis,Philip,,12,4.29,"['IPRO497', 'INTM404', 'INT804']",4.29
+1371,Lezotte, Dan,4.3,2,,,4.3
 684,Li,Chia-hang,,2,4.65,"['MSC516', 'MSC513']",4.65
 685,Li,Kun,,1,4.05,['BUS102'],4.05
 686,Li,Shengsi,,1,4.33,['MSC513'],4.33
-687,Li,Shuwang,4.0,30,4.54,"['MATH477', 'MATH152', 'MATH478', 'MATH252', 'MATH512', 'MATH350', 'MATH461', 'MATH581', 'MATH420']",4.396
-688,Li,XiangYang,3.8,20,4.17,"['CS549', 'CS430', 'CS595', 'IPRO497', 'CS330', 'CS495', 'CS557']",4.058999999999999
-689,Li,Xiaofan,4.1,18,4.54,"['MATH100', 'MATH512', 'MATH589', 'MATH477', 'MATH478', 'MATH152', 'MATH581', 'MATH475', 'MATH500', 'MATH501']",4.3933333333333335
+687,Li,Shuwang,4,30,4.54,"['MATH477', 'MATH152', 'MATH478', 'MATH252', 'MATH512', 'MATH350', 'MATH461', 'MATH581', 'MATH420']",4.396
+688,Li,XiangYang,3.8,20,4.17,"['CS549', 'CS430', 'CS595', 'IPRO497', 'CS330', 'CS495', 'CS557']",4.059
+689,Li,Xiaofan,4.1,18,4.54,"['MATH100', 'MATH512', 'MATH589', 'MATH477', 'MATH478', 'MATH152', 'MATH581', 'MATH475', 'MATH500', 'MATH501']",4.393333333
 690,Li,Zongzhi,,23,4.61,"['CAE419', 'CAE580', 'CAE555', 'CAE544', 'CAE568']",4.61
-691,Li,Zuyi,4.5,16,4.55,"['ECE564', 'ECE553', 'ECE580', 'ECE555', 'ECE556']",4.543749999999999
+691,Li,Zuyi,4.5,16,4.55,"['ECE564', 'ECE553', 'ECE580', 'ECE555', 'ECE556']",4.54375
 692,Liakakos,Chris,,2,4.49,['ARCH418'],4.49
 693,Liao,Jianwen,,8,4.27,"['BUS466', 'MBA571', 'MBA572', 'BUS361', 'BUS480']",4.27
-694,Licata,Anthony,,1,5.0,['ARCH562'],5.0
-695,Lidinsky,William,2.6,20,4.47,"['ITM443', 'ITM448', 'ITM538', 'ITM549', 'ITMS448', 'ITMS555', 'ITMS538', 'ITMS539', 'ITMS549', 'ITMS548', 'IT']",4.0024999999999995
-696,Limongi Marques,Rafael,,1,4.0,['EMS505'],4.0
+694,Licata,Anthony,,1,5,['ARCH562'],5
+695,Lidinsky,William,,15,4.47,"['ITM443', 'ITM448', 'ITM538', 'ITM549', 'ITMS448', 'ITMS555', 'ITMS538', 'ITMS539', 'ITMS549', 'ITMS548', 'IT']",4.47
+1372,Lidinsky, Bill,2.6,5,,,2.6
+696,Limongi Marques,Rafael,,1,4,['EMS505'],4
 697,Lin,Yuting,,8,4.16,"['BIOL533', 'BIOL446', 'BIOL117']",4.16
-698,Lipinski,Richard,,1,5.0,['PA542'],5.0
+698,Lipinski,Richard,,1,5,['PA542'],5
 699,Lisitza,Steven,,2,4.75,['ITMO557'],4.75
-700,Lisowski,Ronald,3.3,15,4.09,"['MMAE437', 'MMAE202', 'MMAE200', 'MMAE412', 'MMAE413']",3.8266666666666667
-701,Littlejohn,Bryce,3.0,4,4.13,"['PHYS221', 'PHYS485']",3.8475
+700,Lisowski,Ronald,3.3,15,4.09,"['MMAE437', 'MMAE202', 'MMAE200', 'MMAE412', 'MMAE413']",3.826666667
+701,Littlejohn,Bryce,3,4,4.13,"['PHYS221', 'PHYS485']",3.8475
 702,Lively,Cassandra,,2,4.24,['SOC203'],4.24
 703,Lobello,Anthony,,4,3.64,['ARCH413'],3.64
+1373,Locicero, Joe,4.2,11,,,4.2
 704,Longinow,A,,23,3.97,"['CAE315', 'CAE307', 'IPRO497', 'CAE503', 'CAE408', 'CAE304', 'CAE437', 'CAE303', 'CAE431', 'CAE432']",3.97
+1374,Longinow, Anatol,,0,,,
 705,Longley,Susan,,1,1.58,['PSYC204'],1.58
+1375,Longworth, James,2.1,9,,,2.1
 706,Lossia,Amanda,,2,4.55,"['PSYC221', 'PSYC303']",4.55
-707,Lubin,Arthur,3.0,71,3.8,"['MATH119', 'MATH251', 'MATH252', 'MATH402', 'MATH474', 'MATH151', 'MATH400', 'MATH152', 'MATH532', 'MATH425', 'MATH332', 'MATH333', 'MATH374']",3.3718309859154925
+707,Lubin,Arthur,3,71,3.8,"['MATH119', 'MATH251', 'MATH252', 'MATH402', 'MATH474', 'MATH151', 'MATH400', 'MATH152', 'MATH532', 'MATH425', 'MATH332', 'MATH333', 'MATH374']",3.371830986
 708,Lublinsky,Boris,,1,3.69,['ITMD469'],3.69
 709,Luby,Gina,,2,4.48,"['SOC212', 'SOC221']",4.48
 710,Lupinos,John,,3,4.03,['ARCH424'],4.03
 711,Lutsky,Karen,,,,['LA525'],
 712,Lyashenko,Andrei,,3,4.64,['MATH586'],4.64
 713,Lyke,Sheldon,,2,3.99,"['PS318', 'PS356', 'PS365']",3.99
-714,Lykos,Peter,2.0,4,4.0,"['IPRO497', 'CHEM410']",3.0
-715,Lynch,Bradley,,1,4.0,['ARCH417'],4.0
-716,Lynerd,Benjamin,5.0,14,4.76,"['PS200', 'PS303', 'PS345', 'PS232', 'PS210', 'PS347', 'PS355', 'PS221', 'PS273']",4.7942857142857145
+714,Lykos,Peter,2,4,4,"['IPRO497', 'CHEM410']",3
+715,Lynch,Bradley,,1,4,['ARCH417'],4
+716,Lynerd,Benjamin,5,14,4.76,"['PS200', 'PS303', 'PS345', 'PS232', 'PS210', 'PS347', 'PS355', 'PS221', 'PS273']",4.794285714
+1376,Lyons, Elizabeth,4.5,2,,,4.5
 717,Maciukenas,James,,8,4.54,"['COM430', 'COM424', 'COM421', 'COM543', 'SCI522']",4.54
+1377,Mackiewicz, Jo,5,2,,,5
 718,Mahaffey,Angela,,,,['CHEM122'],
 719,Maki,Kevin,,,,['FDSN509'],
 720,Maldonado,Adan,,,,['NS497'],
 721,Mallgrave,Harry,,14,4.53,"['ARCH500', 'ARCH502', 'ARCH501', 'ARCH503']",4.53
 722,Manaves,John,,11,4.16,"['ARCH427', 'ARCH226', 'ARCH434', 'ARCH125', 'IPRO497', 'ARCH107', 'ARCH436', 'ARCH497']",4.16
 723,Mancini,Derrick,,,,['PHYS431'],
-724,Mandal,Braja,3.1,44,4.23,"['CHEM240', 'CHEM535', 'CHE470', 'CHEM434', 'CHEM237', 'CHEM122', 'CHEM239', 'CHEM470', 'CHEM235']",3.5365909090909096
-725,Mansury,Yuri,4.0,1,,"['SSCI385', 'SSCI209']",4.0
-726,Mansy,Hansen,2.8,12,3.69,"['MMAE430', 'MMAE313', 'MMAE320']",3.3191666666666664
+724,Mandal,Braja,3.1,44,4.23,"['CHEM240', 'CHEM535', 'CHE470', 'CHEM434', 'CHEM237', 'CHEM122', 'CHEM239', 'CHEM470', 'CHEM235']",3.536590909
+1378,Manov, Alexander,2,3,,,2
+725,Mansury,Yuri,4,1,,"['SSCI385', 'SSCI209']",4
+726,Mansy,Hansen,2.8,12,3.69,"['MMAE430', 'MMAE313', 'MMAE320']",3.319166667
+1379,Mariusz Nieweglowski, Mariusz,2.5,2,,,2.5
 727,Marnell,Thomas,,,,['MC526'],
-728,Martin,Val,3.5,20,4.16,"['HIST380', 'HIST382', 'HIST383', 'HIST340', 'HIST384', 'HIST372', 'HIST351']",4.093999999999999
+728,Martin,Val,3.5,20,4.16,"['HIST380', 'HIST382', 'HIST383', 'HIST340', 'HIST384', 'HIST372', 'HIST351']",4.094
 729,Martinez,Sofia,,1,4.9,"['ARCH420', 'ARCH497', 'ARCH419']",4.9
 730,Martinez,Stephanie,,,,"['PESL061', 'ELP822']",
-731,Maslanka,David,4.0,76,4.25,"['MATH119', 'MATH152', 'MATH122', 'MATH252', 'MATH151']",4.125
+731,Maslanka,David,4,76,4.25,"['MATH119', 'MATH152', 'MATH122', 'MATH252', 'MATH151']",4.125
 732,Mattson,Mary,,4,3.7,"['ARCH418', 'CRP465', 'LA544', 'AURB465', 'IPRO497', 'LA514', 'LA542']",3.7
 733,Mattson,Melissa,,4,4.52,"['PSYC222', 'PSYC303']",4.52
 734,Matuszak,Philip,,,,"['IT', 'ITMD460']",
 735,Matveeva,Irina,3.2,16,4.32,"['CS422', 'CS522']",3.62
-736,Maughan,Linsey,,1,4.0,['LIT411'],4.0
+736,Maughan,Linsey,,1,4,['LIT411'],4
 737,Maurer,William,,25,4.29,"['INTM315', 'INTM322', 'IPRO497', 'INTM420', 'INTM410', 'INTM497', 'INT315', 'INTM435']",4.29
 738,Mc Eneaney,Elizabeth,,,,['MSED546'],
 739,McAbee,Samuel,,13,4.19,"['PSYC504', 'PSYC301', 'PSYC320', 'PSYC511', 'PSYC546']",4.19
 740,McAnulty,Robert,,1,1.86,['ARCH417'],1.86
-741,Mcclain,Noah,3.5,17,4.07,"['SOC200', 'SOC385', 'IPRO497']",3.935882352941176
-742,McCormick,David,3.7,11,4.72,['BIOL514'],4.163636363636363
+741,Mcclain,Noah,3.5,17,4.07,"['SOC200', 'SOC385', 'IPRO497']",3.935882353
+742,McCormick,David,3.7,11,4.72,['BIOL514'],4.163636364
 743,McCourt,Michael,,8,4.67,"['MATH121', 'MATH425', 'MATH120', 'MATH333', 'MATH420']",4.67
 744,McCray,Patrick,1.7,47,3.11,"['MATH148', 'MATH149', 'MATH251', 'MATH152']",2.24
 745,McCutchan,Jeffrey,,,,['PA503'],
 746,McElhinney,Adam,,1,4.67,['CSP571'],4.67
-747,Niemiec,Agnes,,2,4.4,['PSYC181'],4.4
-748,McHugh,Louis,4.8,11,4.7,"['ITM301', 'IPRO497', 'ITMO440', 'ITMO454', 'ITMS557', 'IT301', 'IT']",4.718181818181819
+748,McHugh,Louis,4.8,11,4.7,"['ITM301', 'IPRO497', 'ITMO440', 'ITMO454', 'ITMS557', 'IT301', 'IT']",4.718181818
 749,McKee,Keith,,1,4.09,['INTM477'],4.09
 750,McKendrick,Leonard,,4,3.98,"['BUS100', 'BUS301', 'MBA524']",3.98
 751,McKinney,Mark,,21,4.07,"['ARCH201', 'ARCH202', 'ARCH561', 'IPRO497', 'ARCH563', 'ATR498', 'ARCH461']",4.07
 752,McLeish,Thomas,,7,4.4,"['ARCH435', 'ARCH545', 'ARCH418', 'IPRO497', 'ARCH543', 'ARCH544']",4.4
-753,Mead,Alan,3.6,26,3.97,"['PSYC504', 'PSYC511', 'PSYC571', 'PSYC203', 'PSYC530', 'PSYC204', 'PSYC588']",3.8561538461538465
-754,Meade,Kevin,3.3,41,4.2,"['MMAE201', 'MMAE350', 'IPRO497', 'MMAE305', 'MMAE200']",3.8048780487804876
+753,Mead,Alan,3.6,26,3.97,"['PSYC504', 'PSYC511', 'PSYC571', 'PSYC203', 'PSYC530', 'PSYC204', 'PSYC588']",3.856153846
+754,Meade,Kevin,3.3,41,4.2,"['MMAE201', 'MMAE350', 'IPRO497', 'MMAE305', 'MMAE200']",3.804878049
 755,Medford-Lee,Marcelle,,,,['SSCI321'],
 756,Mehaffey,Scott,,1,4.5,['ARCH445'],4.5
+1380,Mehdi, Mohamed,4.9,8,,,4.9
 757,Mehta,Rajendra,,5,4.69,"['BIOL426', 'BIOL495', 'BIOL451']",4.69
 758,Melka,Ronald,,3,4.73,"['PA565', 'PA541', 'PA570', 'PA566']",4.73
 759,Menches,Cindy,,10,4.62,"['CAE571', 'CAE579', 'CAE585', 'CAE570', 'CAE576']",4.62
-760,Mendez,James,,1,4.0,['HIST380'],4.0
-761,Menhart,Nicholas,3.3,47,3.78,"['BIOL320', 'BIOL402', 'BIOL404', 'BIOL504', 'BIOL451', 'BIOL533', 'BIOL522', 'BIOL501', 'BIOL523', 'BIOL100']",3.463404255319149
+760,Mendez,James,,1,4,['HIST380'],4
+761,Menhart,Nicholas,,16,3.78,"['BIOL320', 'BIOL402', 'BIOL404', 'BIOL504', 'BIOL451', 'BIOL533', 'BIOL522', 'BIOL501', 'BIOL523', 'BIOL100']",3.78
+1381,Menhart, Nick,3.3,31,,,3.3
+1382,Merdan, Huseyin,4.6,10,,,4.6
 762,Merriman,Benjamin,,2,4.7,['PS362'],4.7
 763,Metter,Andrew,,5,3.67,"['ARCH543', 'ARCH497', 'ARCH418']",3.67
 764,Meyer,Daniel,,4,3.74,"['MSED516', 'MSED547', 'MSED604', 'MSED502', 'MSED250', 'MSED550']",3.74
 765,Meyers,Jeffrey,,6,4.53,"['ITM463', 'ITM469', 'ITM563', 'ITM564', 'ITM569', 'ITMD463', 'ITMD455', 'ITMD464']",4.53
 766,Meyers,Katherine,,1,4.75,['PSYC303'],4.75
 767,Mickelson,Hans,,2,4.53,"['IPRO397', 'IPRO497']",4.53
+1383,Mies van der Rohe, Ludwig,3.3,7,,,3.3
 768,Milani,Michael,,,,['IPMM506'],
 769,Miller,Christine,,3,3.91,"['MBA595', 'BUS480', 'BUS510', 'BUS476']",3.91
-770,Miller,Jennifer,4.8,17,4.24,"['PSYC221', 'PSYC423', 'PSYC435', 'PSYC485', 'PSYC503', 'PSYC721', 'PSYC238', 'PSYC380', 'PSYC426']",4.305882352941176
+770,Miller,Jennifer,4.8,17,4.24,"['PSYC221', 'PSYC423', 'PSYC435', 'PSYC485', 'PSYC503', 'PSYC721', 'PSYC238', 'PSYC380', 'PSYC426']",4.305882353
 771,Miller,Jonathan,,33,4.78,"['ARCH321', 'ARCH473', 'ARCH502', 'ARCH470', 'ARCH503', 'ARCH475', 'LA501', 'LA497', 'ARCH497']",4.78
 772,Miller,Joseph,,4,4.61,"['PHIL301', 'HUM102', 'PHIL311']",4.61
 773,Miller,Larissa,,1,3.33,['BUS458'],3.33
 774,Miller,Nicholas,,1,4.5,['BIOL515'],4.5
 775,Mills,Kindon,,11,4.53,"['ARCH201', 'ARCH202']",4.53
+1384,Mills, Jeffrey,3.7,10,,,3.7
 776,Minh,David,2.3,8,3.56,"['CHEM550', 'CHEM343', 'CHEM553', 'IPRO497', 'CHEM485']",3.245
-777,Miranda,Jesus,3.8,46,4.52,"['MATH251', 'MATH149', 'MATH152', 'MATH252', 'MATH148']",4.144347826086956
+777,Miranda,Jesus,3.8,46,4.52,"['MATH251', 'MATH149', 'MATH152', 'MATH252', 'MATH148']",4.144347826
+1385,Miranda, Jesus,4.5,6,,,4.5
+1386,Misa, Tom,4.5,5,,,4.5
+1387,Misa, Thomas,4,1,,,4
 778,Mishra,Bhoopesh,,3,3.73,"['PHYS224', 'PHYS123']",3.73
 779,Mitchell,M. Ellen,,2,4.53,"['PSYC381', 'PSYC523']",4.53
 780,Mitchell,Michael,,2,4.6,"['ARCH201', 'ARCH202']",4.6
-781,Mitillos,Christodoulos,5.0,3,4.13,"['MATH410', 'MATH251', 'MATH332']",4.71
-782,Miyamoto,Naomi,,1,4.0,['SSB510'],4.0
-783,Modares,Mehdi,2.8,29,4.27,"['CAE420', 'CAE530', 'CAE442', 'CAE304', 'CAE310', 'CAE503', 'CAE411', 'CAE529']",3.8137931034482757
+781,Mitillos,Christodoulos,5,3,4.13,"['MATH410', 'MATH251', 'MATH332']",4.71
+782,Miyamoto,Naomi,,1,4,['SSB510'],4
+783,Modares,Mehdi,2.8,29,4.27,"['CAE420', 'CAE530', 'CAE442', 'CAE304', 'CAE310', 'CAE503', 'CAE411', 'CAE529']",3.813793103
 784,Modica,Michael,,11,4.64,['MSF501'],4.64
-785,Modir Shanechi,Mohamad Hassan,3.7,65,4.09,"['ECE211', 'ECE213', 'ECE418', 'ECE560', 'ECE308', 'ECE319', 'ECE531', 'ECE420']",3.9579999999999997
+785,Modir Shanechi,Mohamad Hassan,,43,4.09,"['ECE211', 'ECE213', 'ECE418', 'ECE560', 'ECE308', 'ECE319', 'ECE531', 'ECE420']",4.09
 786,Modir Shanechi,Mohamad Hassan,,43,4.09,"['ECE211', 'ECE213', 'ECE418', 'ECE560', 'ECE308', 'ECE319', 'ECE531', 'ECE420']",4.09
 787,Moffitt,Steven,,,,['MSF546'],
-788,Mogul,David,4.5,12,4.21,"['BME405', 'BME553', 'IPRO497', 'BME100', 'BME433', 'BME325']",4.306666666666667
+788,Mogul,David,4.5,12,4.21,"['BME405', 'BME553', 'IPRO497', 'BME100', 'BME433', 'BME325']",4.306666667
 789,Mogultay,Itir,,,,['MATH148'],
-790,Mohammadi,Jamshid,3.6,26,4.73,"['CAE312', 'CAE508', 'CAE432', 'CAE561', 'CAE506']",4.556153846153847
-791,Molin,Ashley,,1,5.0,['PSYC588'],5.0
-792,Moller,Arlen,4.0,22,4.34,"['PSYC310', 'PSYC502', 'PSYC221', 'PSYC101', 'PSYC497', 'PSYC380', 'PSYC100', 'PSYC312']",4.262727272727273
+790,Mohammadi,Jamshid,3.6,26,4.73,"['CAE312', 'CAE508', 'CAE432', 'CAE561', 'CAE506']",4.556153846
+791,Molin,Ashley,,1,5,['PSYC588'],5
+792,Moller,Arlen,4,22,4.34,"['PSYC310', 'PSYC502', 'PSYC221', 'PSYC101', 'PSYC497', 'PSYC380', 'PSYC100', 'PSYC312']",4.262727273
 793,Molyboga,Marat,,2,4.63,['MSF546'],4.63
 794,Monnier,Bruno,,2,4.33,"['MMAE100', 'MMAE418', 'MMAE313', 'MMAE373', 'MMAE319']",4.33
 795,Monte,Don,,,,['ITM301'],
 796,Montgomery,Lisa,,1,4.4,['IPRO497'],4.4
-797,Moreno,Teresa,4.7,7,4.26,"['HUM380', 'HUM106']",4.448571428571428
+1388,Moran, Daniel J.,2,1,,,2
+797,Moreno,Teresa,4.7,7,4.26,"['HUM380', 'HUM106']",4.448571429
 798,Morris,Scott,,21,4.76,"['PSYC535', 'PSYC554', 'PSYC529', 'PSYC546', 'PSYC711', 'PSYC552']",4.76
-799,Morrison,Timothy,2.5,49,3.25,"['PHYS224', 'PHYS308', 'PHYS223', 'PHYS212']",2.836734693877551
+799,Morrison,Timothy,2.5,49,3.25,"['PHYS224', 'PHYS308', 'PHYS223', 'PHYS212']",2.836734694
 800,Moschandreas,Demetrios,,12,3.85,"['CAE523', 'ENVE570', 'CHE426', 'ENVE576', 'CAE593', 'ENVE545', 'ENVE527']",3.85
 801,Moses,Erik,,1,4.36,['MAC521'],4.36
 802,Moshiri,Ali,,2,3.87,['CAE431'],3.87
-803,Mostovoy,Sheldon,2.8,27,4.02,"['IPRO497', 'MMAE371', 'MMAE533', 'MMAE563']",3.3874074074074065
-804,Moulos,Kimberly,4.5,9,4.25,"['HUM104', 'HUM380', 'HUM206', 'HUM200']",4.277777777777778
+803,Mostovoy,Sheldon,2.8,27,4.02,"['IPRO497', 'MMAE371', 'MMAE533', 'MMAE563']",3.387407407
+804,Moulos,Kimberly,4.5,9,4.25,"['HUM104', 'HUM380', 'HUM206', 'HUM200']",4.277777778
 805,Moxley,David,,2,4.37,"['MILS147', 'MILS347', 'MILS447', 'MILS102', 'MILS148']",4.37
 806,Mozer,Thomas,,1,4.62,"['BUS361', 'BUS467']",4.62
 807,Muehleisen,Ralph,,12,4.52,"['CAE331', 'CAE463', 'CAE334', 'CAE403', 'CAE466', 'CAE383', 'CAE409', 'CAE553', 'CAE467']",4.52
-808,Mueller,Bruce,4.7,17,4.25,"['BUS100', 'BUS301', 'BUS475', 'BUS203', 'BUS204', 'BUS361', 'TECH465']",4.355882352941176
-809,Mueller,Daniel,1.7,7,2.36,"['CHEM122', 'CHEM125']",1.8885714285714283
+808,Mueller,Bruce,4.7,17,4.25,"['BUS100', 'BUS301', 'BUS475', 'BUS203', 'BUS204', 'BUS361', 'TECH465']",4.355882353
+809,Mueller,Daniel,1.7,7,2.36,"['CHEM122', 'CHEM125']",1.888571429
 810,Mueller,Suzanne,,11,4.24,"['BUS473', 'MBA581', 'BUS371', 'BUS100', 'MAC502']",4.24
+1199,Mueller,Suzanne,,11,4.24,"['BUS473', 'MBA581', 'BUS371', 'BUS100', 'MAC502']",4.24
 811,Mulina,Tatjana,,3,4.81,"['PESL041', 'ELP841']",4.81
-812,Munsterman,Herbert,,1,5.0,['IPMM505'],5.0
-813,Murad,Sohail,5.0,2,5.0,['CHE451'],5.0
+812,Munsterman,Herbert,,1,5,['IPMM505'],5
+813,Murad,Sohail,5,2,5,['CHE451'],5
 814,Murillo,Genoveva,,3,4.56,['BIOL426'],4.56
 815,Murphy,Jonathan,,3,4.35,"['PSYC303', 'PSYC406', 'PSYC221']",4.35
-816,Musial,Paul,4.3,48,4.56,"['MATH251', 'MATH252', 'MATH152']",4.451666666666667
+816,Musial,Paul,4.3,48,4.56,"['MATH251', 'MATH252', 'MATH152']",4.451666667
 817,Musick,Hugh,,,,"['ID598', 'IPRO397']",
-818,Mutis Sin,Ivan,1.0,4,3.87,"['CAE571', 'CAE579']",3.1525
+1389,Mutis, Ivan,1,1,,,1
+818,Mutis Sin,Ivan,,3,3.87,"['CAE571', 'CAE579']",3.87
 819,Myerson,Allan,,1,4.23,['CHE583'],4.23
-820,Naghshineh,Majid,1.8,3,3.29,['MMAE445'],2.296666666666667
+820,Naghshineh,Majid,1.8,3,3.29,['MMAE445'],2.296666667
 821,Nagib,Hassan,,15,4.29,"['MMAE510', 'MMAE311', 'MMAE513', 'MMAE512']",4.29
+1390,Nagib, Hasan,3.2,5,,,3.2
 822,Nagle,Kathleen,,19,4.45,"['ARCH100', 'ARCH113', 'ARCH114']",4.45
-823,Nair,Sudhakar,2.9,34,3.64,"['MMAE202', 'MMAE502', 'MMAE507', 'MMAE305', 'MMAE304', 'MMAE509', 'MMAE200']",3.357058823529411
-824,Nash,Philip,3.1,20,4.26,"['MMAE365', 'MMAE562', 'MMAE463', 'MMAE569', 'MMAE568', 'IPRO497']",4.0280000000000005
-825,Nash Liu,Guiru,,6,4.0,"['MMAE564', 'MMAE533']",4.0
+823,Nair,Sudhakar,2.9,34,3.64,"['MMAE202', 'MMAE502', 'MMAE507', 'MMAE305', 'MMAE304', 'MMAE509', 'MMAE200']",3.357058824
+824,Nash,Philip,3.1,20,4.26,"['MMAE365', 'MMAE562', 'MMAE463', 'MMAE569', 'MMAE568', 'IPRO497']",4.028
+825,Nash Liu,Guiru,,6,4,"['MMAE564', 'MMAE533']",4
 826,Nassos,George,,,,"['EM530', 'EM590']",
 827,Natke,Patricia,,4,4.25,"['ARCH418', 'ARCH417']",4.25
 828,Nelson,John,,,,['ARCH454'],
-829,Nelson,Richard,2.0,6,4.02,"['ARCH507', 'ARCH542', 'ARCH541', 'ARCH202', 'ARCH305', 'ARCH306']",3.683333333333333
+829,Nelson,Richard,,5,4.02,"['ARCH507', 'ARCH542', 'ARCH541', 'ARCH202', 'ARCH305', 'ARCH306']",4.02
 830,Nelson,Robert,,8,4.47,"['MAC504', 'MAC505', 'IPRO497', 'MAX505', 'MAX504']",4.47
+1391,Nelson, Rick,2,1,,,2
+1392,Nesch, Ivan,2.5,1,,,2.5
 831,Neskoski,Naum,,9,4.88,['COM101'],4.88
 832,Neuman,Brendan,,1,4.32,['PSYC301'],4.32
-833,Newman,Michael,4.0,3,4.56,"['ARCH421', 'ARCH403', 'ARCH404']",4.373333333333333
-834,Nguyen,Diep,3.5,30,4.59,"['CHEM505', 'CHEM542', 'CHEM247', 'CHEM500', 'CHEM451']",4.4446666666666665
+833,Newman,Michael,4,3,4.56,"['ARCH421', 'ARCH403', 'ARCH404']",4.373333333
+834,Nguyen,Diep,3.5,30,4.59,"['CHEM505', 'CHEM542', 'CHEM247', 'CHEM500', 'CHEM451']",4.444666667
 835,Nicholson,Myron,,2,4.84,"['INTM433', 'INTM460']",4.84
+1393,Nicholson, Benjamin,3.8,6,,,3.8
+1394,Nickolai, Kevin,5,1,,,5
+747,Niemiec,Agnes,,2,4.4,['PSYC181'],4.4
 836,Niemiec,Agnes,,2,4.4,['PSYC181'],4.4
 837,Nieswandt,Martina,,1,4.67,"['MSED250', 'MSED597']",4.67
-838,Nieweglowski,Mariusz,2.5,6,3.61,"['MATH540', 'MATH543', 'MATH252']",3.2399999999999998
+838,Nieweglowski,Mariusz,,4,3.61,"['MATH540', 'MATH543', 'MATH252']",3.61
+1395,Nippert, Anna,4.9,5,,,4.9
 839,Nippert-Eng,Christena,,4,4.76,"['SOC351', 'SOC498', 'SOC203', 'SOC385', 'SOC425']",4.76
 840,Nitsch,Kristian,4.5,4,4.91,"['PSYC303', 'PSYC222']",4.705
 841,Noll,Kenneth,,18,4.43,"['ENVE310', 'ENVE580', 'ENVE578', 'ENVE577', 'ENVE463', 'ENVE570']",4.43
-842,Nordin,Ronald,4.3,10,4.17,"['ECE401', 'ECE425', 'ECE526', 'ECE525']",4.2219999999999995
+842,Nordin,Ronald,4.3,10,4.17,"['ECE401', 'ECE425', 'ECE526', 'ECE525']",4.222
 843,Norsman,Brent,,1,3.67,"['ARCH543', 'ARCH544']",3.67
+1396,Northington, Stephanie,5,1,,,5
 844,Norton,John,,3,4.17,"['MAC595', 'MAX595']",4.17
-845,Novak,James,4.6,76,4.69,"['CAE100', 'EG225', 'EG406', 'EG419', 'CAE101', 'EG305', 'EG325', 'EG405', 'EG425', 'EG306']",4.666315789473685
+845,Novak,James,4.6,76,4.69,"['CAE100', 'EG225', 'EG406', 'EG419', 'CAE101', 'EG305', 'EG325', 'EG405', 'EG425', 'EG306']",4.666315789
 846,Nowacki,Patricia,,4,4.54,"['LIT380', 'LIT366']",4.54
 847,Nyhoff,John,,1,3.82,"['MSF505', 'BUS458']",3.82
+1397,O''Connor, Kenneth,5,1,,,5
 848,O'Brien,Brendan,,3,4.7,"['AS402', 'AS201', 'AS401']",4.7
-849,O'Connor,Kenneth,5.0,7,4.54,"['SOC350', 'SOC203', 'SOC385', 'PS221']",4.605714285714286
+849,O'Connor,Kenneth,,6,4.54,"['SOC350', 'SOC203', 'SOC385', 'PS221']",4.54
 850,O'Leary,John,4.1,8,4.56,"['CAE304', 'CAE310']",4.215
 851,O'Shea,Conor,,1,4.81,['ARCH446'],4.81
+1398,Oczkowski, Michael,1,1,,,1
 852,Olin,Michael,,1,4.67,"['NS102', 'NS202']",4.67
 853,Ong,Michael,,4,4.8,"['MSF555', 'MSF556', 'MSF554', 'MSC622']",4.8
-854,Orgel,Joseph,4.5,28,4.33,"['BIOL100', 'BIOL495', 'BIOL115', 'BIOL430', 'IPRO497']",4.4332142857142856
+1399,Ong, Kiah,5,3,,,5
+1400,Opara, Emmanuel,3,2,,,3
+854,Orgel,Joseph,4.5,28,4.33,"['BIOL100', 'BIOL495', 'BIOL115', 'BIOL430', 'IPRO497']",4.433214286
 855,Ormesher,David,,,,['MC554'],
 856,Ortega,Lluis,,3,4.73,"['ARCH419', 'ARCH420', 'ARCH497']",4.73
 857,Ortega,Lluis,,3,4.73,"['ARCH419', 'ARCH420', 'ARCH497']",4.73
 858,Ortega,Oscar,,1,3.78,['MATH152'],3.78
 859,Ortiz,Adrian,,2,4.49,['ENGL053'],4.49
-860,Oruklu,Erdal,4.1,36,4.5,"['ECE584', 'ECE529', 'ECE429', 'ECE100', 'ECE585']",4.311111111111111
-861,Oskouie,Ali,1.3,36,3.69,"['CHEM513', 'CAE302', 'CAE301', 'CAE514', 'ENVE513']",3.225277777777778
-862,Osler,Peter,,3,4.0,"['LA541', 'LA544', 'LA542']",4.0
+860,Oruklu,Erdal,4.1,36,4.5,"['ECE584', 'ECE529', 'ECE429', 'ECE100', 'ECE585']",4.311111111
+861,Oskouie,Ali,1.3,36,3.69,"['CHEM513', 'CAE302', 'CAE301', 'CAE514', 'ENVE513']",3.225277778
+862,Osler,Peter,,3,4,"['LA541', 'LA544', 'LA542']",4
 863,Oslund,Thomas,,,,['LA546'],
-864,Ostrogorsky,Aleksandar,1.6,19,3.5,"['MMAE320', 'MMAE526', 'MMAE426', 'MMAE322', 'MMAE525', 'MMAE323', 'MMAE522']",2.8000000000000003
+864,Ostrogorsky,Aleksandar,1.6,19,3.5,"['MMAE320', 'MMAE526', 'MMAE426', 'MMAE322', 'MMAE525', 'MMAE323', 'MMAE522']",2.8
 865,Otterbacher,Jahna,,2,4.32,"['COM541', 'COM543', 'COM381', 'COM529']",4.32
 866,Owrey,John,,2,3.81,['ITM301'],3.81
 867,Pachan,Molly,3.3,16,4.47,"['PSYC120', 'PSYC180', 'PSYC303', 'PSYC564', 'PSYC380', 'PSYC512', 'PSYC221', 'PSYC227']",4.1775
 868,Pacyna,Kathleen,,1,4.44,['SOC385'],4.44
 869,Pagilla,Krishna,,19,4.5,"['ENVE542', 'ENVE404', 'ENVE513', 'CAE593', 'ENVE561', 'ENVE528', 'ENVE551']",4.5
 870,Pagone,Novia,,1,4.83,['COM125'],4.83
-871,Paintal,Amreek,3.2,4,3.84,['CAE301'],3.3600000000000003
-872,Palmer,Tanya,4.3,3,4.67,['LIT342'],4.423333333333333
+871,Paintal,Amreek,3.2,4,3.84,['CAE301'],3.36
+872,Palmer,Tanya,4.3,3,4.67,['LIT342'],4.423333333
 873,Pan,Tongyan,,10,4.24,"['CAE307', 'CAE315', 'CAE551', 'CAE518']",4.24
-874,Panchal,Jawahar,5.0,5,4.32,"['MSF546', 'CS422']",4.456
+874,Panchal,Jawahar,5,5,4.32,"['MSF546', 'CS422']",4.456
+1401,Papachristos, Andrew,4.5,5,,,4.5
 875,Papademas,James,4.3,25,4.41,"['ITM312', 'ITM311', 'ITMD411', 'ITMD455', 'ITMD413', 'ITMD513', 'ITMD510', 'IT', 'ITMD555']",4.388
-876,Papademas,Katherine,5.0,4,4.21,"['ITMD421', 'ITM311', 'IT311', 'IT', 'ITMS528', 'IT811']",4.4075
+876,Papademas,Katherine,5,4,4.21,"['ITMD421', 'ITM311', 'IT311', 'IT', 'ITMS528', 'IT811']",4.4075
 877,Papademas,Luke,,7,4.3,"['ITMD421', 'ITMD411', 'ITMD434', 'ITMD523', 'IT']",4.3
 878,Papavasiliou,Georgia,4.9,20,4.74,"['BME418', 'BME424', 'BME490', 'BME335']",4.788
-879,Pappademetriou,Vasilios,5.0,6,,"['IT301', 'IT801']",5.0
+879,Pappademetriou,Vasilios,5,6,,"['IT301', 'IT801']",5
 880,Paradis,Armand,,2,4.34,"['FPE408', 'FST508', 'FDSN507']",4.34
 881,Paradiso,Alessandro,,7,4.42,"['ARCH113', 'ARCH114', 'ARCH201']",4.42
 882,Parente,Carlo,,6,4.44,"['ARCH305', 'ARCH306', 'ARCH107', 'ARCH202']",4.44
 883,Park,Jennifer,,4,3.76,"['ARCH305', 'ARCH306', 'ARCH419']",3.76
+1402,Park, Weejin,4.5,1,,,4.5
 884,Parrinello,Christopher,,1,3.32,['ITMD510'],3.32
-885,Parulekar,Satish,3.3,25,3.9,"['CHE535', 'CHE577', 'CHE525', 'CHE545', 'CHE100', 'CHE101', 'CHE433', 'CHE202', 'CHE530', 'CHE439']",3.7319999999999998
-886,Paschal,William,1.7,18,3.64,"['CAE464', 'CAE497', 'CAE465', 'CAE331', 'EMGT470']",3.316666666666667
+885,Parulekar,Satish,3.3,25,3.9,"['CHE535', 'CHE577', 'CHE525', 'CHE545', 'CHE100', 'CHE101', 'CHE433', 'CHE202', 'CHE530', 'CHE439']",3.732
+886,Paschal,William,1.7,18,3.64,"['CAE464', 'CAE497', 'CAE465', 'CAE331', 'EMGT470']",3.316666667
+1403,Paschal, William,,0,,,
 887,Patel,Ketan,,1,4.75,['BUS510'],4.75
-888,Patel,Rahul,3.0,6,3.92,"['ITMM574', 'IT']",3.6133333333333333
+888,Patel,Rahul,3,6,3.92,"['ITMM574', 'IT']",3.613333333
 889,Patterson,Stuart,,,,['IPRO497'],
-890,Patton,Matthew,4.5,8,3.99,"['PSYC203', 'PSYC221', 'PSYC502', 'PSYC380']",4.1175
+890,Patton,Matthew,,6,3.99,"['PSYC203', 'PSYC221', 'PSYC502', 'PSYC380']",3.99
+1404,Patton, Matt,4.5,2,,,4.5
 891,Paules,Jeffrey,,1,3.75,['IPRO397'],3.75
 892,Pauls,Richard,,1,4.38,['CHEM515'],4.38
 893,Payvar,Parviz,,1,2.32,"['CHE351', 'MMAE320', 'MMAE321']",2.32
+1405,Pedret, Anne,2.4,6,,,2.4
 894,Peet,Matthew,,8,3.25,"['MMAE443', 'MMAE543', 'MMAE441']",3.25
-895,Pelsmajer,Michael,2.8,33,4.22,"['MATH151', 'MATH230', 'MATH454', 'MATH431', 'MATH152', 'MATH453', 'MATH252']",3.3163636363636364
+895,Pelsmajer,Michael,2.8,33,4.22,"['MATH151', 'MATH230', 'MATH454', 'MATH431', 'MATH152', 'MATH453', 'MATH252']",3.316363636
 896,Peluso,Alphonso,,44,4.82,"['ARCH125', 'ARCH427', 'ARCH508', 'ARCH438', 'ARCH436', 'ARCH419', 'ARCH435', 'ARCH497']",4.82
 897,Peng,Xinjian,,1,3.47,['BIOL404'],3.47
 898,Perelman,Hayley,,1,4.38,['PSYC222'],4.38
-899,Perez-Luna,Victor,3.6,18,4.0,"['CHE580', 'CHE593', 'CHE506', 'CHE503', 'CHE525', 'CHE311', 'CHE301', 'CHE451', 'CHE351', 'CHE202']",3.9111111111111114
-900,Perlini,Laurie,4.5,25,4.45,"['HIST380', 'HUM102', 'HUM202']",4.454000000000001
-901,Pervan,Boris,5.0,19,4.75,"['MMAE441', 'MMAE541', 'MMAE555', 'MMAE411', 'MMAE543', 'MMAE550']",4.776315789473684
+899,Perez-Luna,Victor,3.6,18,4,"['CHE580', 'CHE593', 'CHE506', 'CHE503', 'CHE525', 'CHE311', 'CHE301', 'CHE451', 'CHE351', 'CHE202']",3.911111111
+900,Perlini,Laurie,4.5,25,4.45,"['HIST380', 'HUM102', 'HUM202']",4.454
+901,Pervan,Boris,5,19,4.75,"['MMAE441', 'MMAE541', 'MMAE555', 'MMAE411', 'MMAE543', 'MMAE550']",4.776315789
 902,Peters,David,,4,4.81,"['HUM106', 'COM380']",4.81
 903,Peters,Gregory,,3,4.89,['PA532'],4.89
-904,Peters,Scott,5.0,14,4.54,"['ARCH597', 'PA501', 'PA508', 'PA556', 'PA509', 'PA580', 'PA555', 'PA581', 'PA599']",4.638571428571429
-905,Peterson,Daiva,2.0,9,3.28,['ARCH423'],2.8533333333333335
+904,Peters,Scott,5,14,4.54,"['ARCH597', 'PA501', 'PA508', 'PA556', 'PA509', 'PA580', 'PA555', 'PA581', 'PA599']",4.638571429
+905,Peterson,Daiva,2,9,3.28,['ARCH423'],2.853333333
 906,Peterson,Paul,,,,['MSF597'],
-907,Petrovic,Sonja,4.5,8,4.66,"['MATH152', 'MATH332', 'MATH476', 'MATH430', 'MATH563', 'MATH431']",4.640000000000001
-908,Pettigrew,Paul,4.1,23,4.64,"['ARCH113', 'ARCH114', 'ARCH497', 'ARCH447']",4.4286956521739125
+907,Petrovic,Sonja,4.5,8,4.66,"['MATH152', 'MATH332', 'MATH476', 'MATH430', 'MATH563', 'MATH431']",4.64
+908,Pettigrew,Paul,4.1,23,4.64,"['ARCH113', 'ARCH114', 'ARCH497', 'ARCH447']",4.428695652
 909,Petty,Arthur,,2,4.81,"['BUS301', 'BUS480']",4.81
 910,Pezzello,Van,,1,4.15,['SSB510'],4.15
 911,Phelps,Renata,,8,4.78,"['PESL022', 'PESL061', 'PESL031', 'PESL021', 'PESL032', 'PESL062', 'ELP821', 'ELP822', 'ELP862']",4.78
@@ -915,6 +1051,7 @@ id,last,first,rmp_rating,confidence,IIT_rating,courses,overall
 914,Phillips,William,,3,3.96,"['CCE501', 'CCE511']",3.96
 915,Piatt,Mickie,,,,"['IPMM507', 'IPMM502', 'IPMM500']",
 916,Pieczynski,Jessica,,3,4.22,"['PSYC221', 'PSYC303']",4.22
+1406,Pinnello, Joseph,2.9,6,,,2.9
 917,Pistrui,David,,3,4.26,"['ARCH561', 'BUS361', 'BUS381', 'MC552']",4.26
 918,Pitak,Bryant,,4,3.48,"['ARCH417', 'ARCH418', 'ARCH497', 'ARCH420']",3.48
 919,Plant,Robin,,,,['CHEM539'],
@@ -922,153 +1059,175 @@ id,last,first,rmp_rating,confidence,IIT_rating,courses,overall
 921,Pohrte,Daniel,,2,4.65,"['ARCH305', 'ARCH306']",4.65
 922,Pombert,Jean,,5,4.66,"['BIOL550', 'BIOL533', 'BIOL562']",4.66
 923,Pontarelli,Robert,,,,['IPRO497'],
-924,Popescu,Mihail,2.5,3,2.8,"['CAE221', 'CAE323', 'CAE566', 'CAE590']",2.6999999999999997
+924,Popescu,Mihail,2.5,3,2.8,"['CAE221', 'CAE323', 'CAE566', 'CAE590']",2.7
 925,Popovic,Gorjana,,3,4.79,"['MSED300', 'MSED501', 'MATH420', 'MSED250', 'MSED320', 'MSED552']",4.79
 926,Pounian,Charles,,,,['PA522'],
-927,Power,Margaret,4.0,28,4.54,"['HIST305', 'HIST332', 'HIST307', 'HIST345', 'HIST380', 'IPRO497', 'HIST306']",4.385714285714285
-928,Prakash,Jai,3.5,15,4.61,"['CHE202', 'CHE565', 'CHE351', 'CHE503', 'CHE553', 'CHE541']",4.5360000000000005
+927,Power,Margaret,4,28,4.54,"['HIST305', 'HIST332', 'HIST307', 'HIST345', 'HIST380', 'IPRO497', 'HIST306']",4.385714286
+928,Prakash,Jai,3.5,15,4.61,"['CHE202', 'CHE565', 'CHE351', 'CHE503', 'CHE553', 'CHE541']",4.536
 929,Prendergast,John,,5,4.79,['INTM407'],4.79
 930,Prez,Paul,,1,4.84,['PESL032'],4.84
-931,Pugh,Ralph,4.0,14,4.62,"['HIST352', 'HIST380']",4.398571428571429
+931,Pugh,Ralph,4,14,4.62,"['HIST352', 'HIST380']",4.398571429
 932,Pulik,Linda,,3,3.77,['IPRO497'],3.77
-933,Pulliam,Gregory,4.8,32,4.81,"['COM380', 'HUM601', 'COM372', 'COM435', 'COM440', 'COM371', 'COM309', 'COM374']",4.8046875
+933,Pulliam,Gregory,,15,4.81,"['COM380', 'HUM601', 'COM372', 'COM435', 'COM440', 'COM371', 'COM309', 'COM374']",4.81
+1407,Pulliam, Greg,4.8,17,,,4.8
 934,Purnell,Carolyn,,1,4.9,['SOC285'],4.9
 935,Putnam,Joel,,5,3.79,"['ARCH434', 'ARCH436', 'ARCH207', 'ARCH208']",3.79
-936,Qian,Xiaoping,1.9,11,4.05,"['MMAE544', 'MMAE545', 'MMAE445']",3.2681818181818176
+936,Qian,Xiaoping,,7,4.05,"['MMAE544', 'MMAE545', 'MMAE445']",4.05
+1408,Qian, Xioping,1.9,4,,,1.9
+1409,Qing, Chang Zhong,5,2,,,5
 937,Quinlan,Christopher,,1,3.25,"['ARCH207', 'ARCH208']",3.25
 938,Quiroz,Juan,,6,4.37,"['CAE525', 'CAE586']",4.37
 939,Radutny,Vladimir,,6,4.74,"['ARCH202', 'ARCH201', 'ARCH418']",4.74
 940,Rafajko,Sean,,1,4.83,"['PSYC221', 'PSYC436']",4.83
+1410,Rahnama, Farzad,,0,,,
 941,Raicu,Ioan,4.8,26,4.43,"['CS550', 'CS695', 'CS495', 'CS553', 'CS554', 'CS451', 'CS595']",4.615
+1411,Raju, Nambury,4.5,2,,,4.5
 942,Ram,Sapna,4.2,8,4.69,['PSYC303'],4.26125
 943,Ramachandran,Rakesh,,1,3.29,['MMAE414'],3.29
 944,Raman,Ganesh,,10,3.43,"['MMAE430', 'MMAE511', 'MMAE452', 'MMAE436', 'MMAE414']",3.43
 945,Ramanan,Raghavan,,6,3.92,"['BUS590', 'EMS505', 'EMS518', 'EMS542']",3.92
 946,Ramani,Vijay,4.3,21,4.3,"['CHE541', 'CHE296', 'CHE593', 'IPRO497', 'CHE567', 'CHE423', 'CHE525', 'CHE566']",4.3
 947,Rampalli,Sitaram,,1,4.43,['CHEM542'],4.43
-948,Ramsden,Catherine,3.7,9,4.19,"['LIT309', 'LIT352', 'LIT328', 'LIT366', 'LIT380']",4.026666666666667
+948,Ramsden,Catherine,3.7,9,4.19,"['LIT309', 'LIT352', 'LIT328', 'LIT366', 'LIT380']",4.026666667
 949,Rao,Ramesh,,1,1.83,['ITMM537'],1.83
 950,Ratakonda,Sireesha,,5,4.3,"['BIOL117', 'BIOL526']",4.3
-951,Ratliff,Gayle,4.9,12,4.7,['PHYS123'],4.866666666666666
+951,Ratliff,Gayle,4.9,12,4.7,['PHYS123'],4.866666667
 952,Rattner,William,,,,['PA505'],
 953,Rawlings,Bruce,,9,4.66,"['MSF567', 'MSF546', 'MSF577', 'MSF599']",4.66
-954,Reingold,Edward,3.0,28,4.43,"['CS330', 'CS535', 'CS430']",3.561785714285714
-955,Reiniger,Benjamin,1.7,11,3.55,"['MATH251', 'MATH230']",1.8681818181818182
-956,Rempfer,Dietmar,3.2,26,3.73,"['IPRO497', 'MMAE310', 'MMAE436', 'MMAE514', 'MMAE312', 'MMAE450', 'MMAE350', 'MMAE200', 'MMAE313', 'MMAE518']",3.4853846153846155
+954,Reingold,Edward,3,28,4.43,"['CS330', 'CS535', 'CS430']",3.561785714
+955,Reiniger,Benjamin,1.7,11,3.55,"['MATH251', 'MATH230']",1.868181818
+956,Rempfer,Dietmar,3.2,26,3.73,"['IPRO497', 'MMAE310', 'MMAE436', 'MMAE514', 'MMAE312', 'MMAE450', 'MMAE350', 'MMAE200', 'MMAE313', 'MMAE518']",3.485384615
 957,Ren,Kui,2.8,8,4.37,"['ECE543', 'ECE546', 'ECE443']",3.9775
-958,Ren,Shangping,3.6,15,4.22,"['CS521', 'CS552', 'CS595', 'CS536', 'CS556']",4.013333333333333
+958,Ren,Shangping,3.6,15,4.22,"['CS521', 'CS552', 'CS595', 'CS536', 'CS556']",4.013333333
 959,Rice,Jeffrey,,6,4.44,"['PS361', 'PS328', 'PS323', 'PS333', 'PS495']",4.44
+1412,Rice, Jeffery,,0,,,
 960,Richardson,Angela,,5,4.81,"['PA522', 'PA505']",4.81
 961,Richardson,David,,11,4.05,"['BUS473', 'MAC503', 'MSC514', 'ECON152', 'MAX503']",4.05
 962,Riddle Curley,Jennifer,,1,3.56,['ARCH201'],3.56
 963,Rigopoulos,Theodossios,,4,4.21,"['INTM441', 'INTM540']",4.21
-964,Riley,Benjamin,4.1,13,4.14,"['ARCH331', 'ARCH543', 'ARCH544', 'ARCH497']",4.1123076923076916
+964,Riley,Benjamin,,4,4.14,"['ARCH331', 'ARCH543', 'ARCH544', 'ARCH497']",4.14
 965,Riley,Kathryn,3.8,4,4.11,"['COM425', 'COM421', 'COM529']",3.955
-966,Roback,Andrew,4.0,21,4.48,"['HUM106', 'LIT309', 'LIT380', 'LIT315', 'LIT306', 'LIT301', 'COM421', 'LIT307', 'HUM200', 'LIT339']",4.457142857142857
-967,Roberson,Dennis,4.5,7,4.79,['CS456'],4.748571428571429
+1413,Riley, Ben,4.1,9,,,4.1
+966,Roback,Andrew,4,21,4.48,"['HUM106', 'LIT309', 'LIT380', 'LIT315', 'LIT306', 'LIT301', 'COM421', 'LIT307', 'HUM200', 'LIT339']",4.457142857
+967,Roberson,Dennis,4.5,7,4.79,['CS456'],4.748571429
 968,Robertson,Donna,,7,4.49,"['ARCH454', 'ARCH113', 'ARCH418', 'ARCH417']",4.49
 969,Rockey,Christopher,,10,4.29,"['ARCH334', 'ARCH230']",4.29
+1414,Rockey, Chris,,0,,,
 970,Rodda,Warner,,1,4.26,['IPRO397'],4.26
 971,Roehl,Kelly,,,,['FDSC801'],
 972,Roesch,Peter,,2,4.01,"['ARCH417', 'ARCH418']",4.01
 973,Rogachev,Andrey,,9,4.17,"['CHEM597', 'CHEM454', 'CHEM344', 'CHEM451', 'CHEM485', 'CHEM550']",4.17
-974,Rohter,Laurence,3.0,46,4.11,"['CAE105', 'IPRO497', 'CAE539', 'CAE497', 'CAE495']",3.8928260869565223
-975,Rokop,Nik,5.0,13,4.48,"['BUS103', 'BUS104', 'BUS361', 'BUS497', 'IPRO497', 'BUS303', 'BUS404', 'BUS467']",4.5200000000000005
+974,Rohter,Laurence,,37,4.11,"['CAE105', 'IPRO497', 'CAE539', 'CAE497', 'CAE495']",4.11
+1415,Rohter, Lawrence,3,9,,,3
+975,Rokop,Nik,5,13,4.48,"['BUS103', 'BUS104', 'BUS361', 'BUS497', 'IPRO497', 'BUS303', 'BUS404', 'BUS467']",4.52
 976,Ronan,John,,7,4.25,"['ARCH419', 'ARCH497', 'ARCH417', 'ARCH481']",4.25
-977,Rosen,Joseph,5.0,2,,['CSP595'],5.0
+1416,Roppo, Mike,1.4,4,,,1.4
+977,Rosen,Joseph,5,2,,['CSP595'],5
 978,Rosenberg,Jonathan,,4,4.63,"['PS360', 'PS230', 'PS385']",4.63
 979,Roszak,Thomas,,9,4.45,"['ARCH417', 'ARCH418', 'ARCH563', 'ARCH544']",4.45
 980,Rozansky,Irene,,5,4.52,['INTM418'],4.52
 981,Rubenstein,Marvin,,4,4.28,['BIOL527'],4.28
+1417,Rubin, Howard,2.4,4,,,2.4
 982,Ruffolo,Lawrence,,2,4.46,"['SSB510', 'SSB520']",4.46
-983,Ruiz,Francisco,4.1,40,4.13,"['IPRO497', 'MMAE524', 'MMAE321', 'MMAE497', 'CHE496', 'MMAE320', 'MMAE433', 'MMAE319', 'MMAE520', 'MMAE100']",4.1217500000000005
+983,Ruiz,Francisco,4.1,40,4.13,"['IPRO497', 'MMAE524', 'MMAE321', 'MMAE497', 'CHE496', 'MMAE320', 'MMAE433', 'MMAE319', 'MMAE520', 'MMAE100']",4.12175
 984,Ruman,Gilda,,5,4.88,['PA510'],4.88
 985,Ruswick,Jannelle,4.8,5,4.8,['HUM106'],4.8
+1418,Ryan, Sue,2.3,3,,,2.3
 986,Rybak,Michael,,30,4.71,"['MSF506', 'MSF534', 'MSF544', 'BUS497', 'MSF504', 'MBA501']",4.71
 987,Sabatino,Michelangelo,,3,2.98,"['ARCH502', 'ARCH500']",2.98
-988,Sabbaghi,Navid,5.0,8,4.62,"['MBA561', 'MSC564', 'MBA507', 'MSC560', 'BUS550', 'MSC513', 'MSC516']",4.7625
-989,Saelee,Michael,4.3,87,4.68,"['CS105', 'CS351', 'CS450', 'CS495', 'CS442', 'CS115', 'CS116', 'CS100', 'CS331', 'CS401']",4.465977011494252
+988,Sabbaghi,Navid,5,8,4.62,"['MBA561', 'MSC564', 'MBA507', 'MSC560', 'BUS550', 'MSC513', 'MSC516']",4.7625
+989,Saelee,Michael,,38,4.68,"['CS105', 'CS351', 'CS450', 'CS495', 'CS442', 'CS115', 'CS116', 'CS100', 'CS331', 'CS401']",4.68
 990,Safar,Mazin,4.7,16,4.31,"['INTM409', 'INTM414', 'INTM410', 'IPRO497']",4.4075
 991,Safina,Maria,,2,4.27,"['ARCH113', 'ARCH114', 'IPRO497']",4.27
-992,Saha,Suman,2.3,11,4.02,"['CS115', 'CS430', 'CS440', 'CS331']",2.769090909090909
+992,Saha,Suman,2.3,11,4.02,"['CS115', 'CS430', 'CS440', 'CS331']",2.769090909
 993,Salem,Feryal,,9,3.61,"['HUM106', 'LIT380']",3.61
 994,Saletta,Gerald,3.1,30,4.16,"['ECE312', 'ECE311', 'ECE211', 'ECE213', 'ECE307']",3.524
 995,Salland,Elizabeth Anne,,,,['GLS180'],
 996,Saluke,Patrick,,1,4.63,"['NS201', 'NS102']",4.63
 997,Sancar,Feyza,2.5,2,2.79,['BIOL451'],2.645
-998,Saniie,Jafar,3.2,54,4.43,"['ECE441', 'ECE446', 'ECE742', 'ECE743', 'ECE744', 'ECE437', 'ECE583']",4.065555555555555
+998,Saniie,Jafar,3.2,54,4.43,"['ECE441', 'ECE446', 'ECE742', 'ECE743', 'ECE744', 'ECE437', 'ECE583']",4.065555556
 999,Santa Lucia,Andrew,,2,4.35,"['ARCH427', 'ARCH438', 'ARCH497']",4.35
-1000,Sasaki,James,2.8,57,4.02,"['CS350', 'CS536', 'CS330', 'CS105', 'CS450', 'CS116']",3.335087719298245
+1000,Sasaki,James,,25,4.02,"['CS350', 'CS536', 'CS330', 'CS105', 'CS450', 'CS116']",4.02
+1419,Sasaki, Jim,2.8,32,,,2.8
 1001,Savage,Devin,4.2,8,4.68,"['HUM202', 'HUM200']",4.38
-1002,Saxena,Mahima,3.4,24,4.46,"['PSYC380', 'PSYC301', 'PSYC204', 'PSYC588', 'PSYC370']",4.1066666666666665
-1003,Scarlata,Valerie,4.3,20,4.52,"['ITM461', 'ITM462', 'ITM465', 'ITM534', 'ITM419', 'ITM434', 'ITM455']",4.465
-1004,Schachman,Andrew,2.5,6,4.46,"['ARCH305', 'ARCH469', 'ARCH497', 'ARCH418', 'ARCH306', 'ARCH476', 'ARCH419', 'ARCH420', 'ARCH108']",3.8066666666666666
+1002,Saxena,Mahima,3.4,24,4.46,"['PSYC380', 'PSYC301', 'PSYC204', 'PSYC588', 'PSYC370']",4.106666667
+1003,Scarlata,Valerie,,15,4.52,"['ITM461', 'ITM462', 'ITM465', 'ITM534', 'ITM419', 'ITM434', 'ITM455']",4.52
+1420,Scarlata, Val,4.3,5,,,4.3
+1004,Schachman,Andrew,2.5,6,4.46,"['ARCH305', 'ARCH469', 'ARCH497', 'ARCH418', 'ARCH306', 'ARCH476', 'ARCH419', 'ARCH420', 'ARCH108']",3.806666667
 1005,Schalliol,David,4.7,20,4.67,"['PS210', 'PS353', 'PS100', 'PS273', 'PS321', 'PS221']",4.6835
 1006,Scheiter,Krisanna,,8,4.59,"['HUM104', 'PHIL301', 'PHIL380']",4.59
 1007,Schell,Richard,,3,4.28,"['FPE597', 'FPE511', 'FST511', 'FDSN511']",4.28
 1008,Schieber,Jay,3.3,16,4.35,"['CHE553', 'CHE406', 'CHE551', 'CHE575', 'CHE301']",4.021875
 1009,Schipporeit,George,,3,4.49,"['ARCH509', 'ARCH588', 'ARCH590']",4.49
-1010,Schleser,Robert,4.1,29,4.46,"['PSYC100', 'PSYC523', 'PSYC101', 'PSYC406', 'PSYC489', 'PSYC485', 'PSYC505', 'PSYC435', 'PSYC588', 'PSYC221']",4.360689655172414
-1011,Schmaus,Warren,4.0,34,4.47,"['HUM104', 'PHIL302', 'PHIL342', 'PHIL350', 'PHIL351', 'HUM204']",4.2626470588235295
+1010,Schleser,Robert,4.1,29,4.46,"['PSYC100', 'PSYC523', 'PSYC101', 'PSYC406', 'PSYC489', 'PSYC485', 'PSYC505', 'PSYC435', 'PSYC588', 'PSYC221']",4.360689655
+1011,Schmaus,Warren,4,34,4.47,"['HUM104', 'PHIL302', 'PHIL342', 'PHIL350', 'PHIL351', 'HUM204']",4.262647059
 1012,Schneider,John,,3,3.89,['CHEM506'],3.89
 1013,Schoinas,Konstantinos,,,,['BUS102'],
 1014,Schray,Martin,,1,4.4,"['ITMD455', 'ITMD453', 'IPRO100']",4.4
 1015,Schuetz,Gary,,8,4.56,"['MBA551', 'MAC501', 'MAC503', 'MAC513', 'BUS476', 'BUS371']",4.56
-1016,Schug,Kenneth,1.0,6,3.34,"['CHEM584', 'IPRO497', 'CHEM416', 'CHEM122', 'CHEM451']",2.9499999999999997
+1016,Schug,Kenneth,,5,3.34,"['CHEM584', 'IPRO497', 'CHEM416', 'CHEM122', 'CHEM451']",3.34
+1421,Schug, Ken,1,1,,,1
 1017,Schulte,Elizabeth,,5,4.83,"['PESL021', 'PESL022', 'PESL061', 'PESL032']",4.83
-1018,Scott,Anna,4.0,13,4.43,"['HUM106', 'COM377', 'HUM206', 'COM440', 'HUM200']",4.3307692307692305
+1018,Scott,Anna,4,13,4.43,"['HUM106', 'COM377', 'HUM206', 'COM440', 'HUM200']",4.330769231
 1019,Scott,Edward,,,,['COM421'],
 1020,Scott,Hugh,4.4,15,4.13,"['PHYS221', 'PHYS410', 'PHYS304', 'PHYS515', 'PHYS123']",4.22
 1021,Seger,Laura,,7,4.65,"['HUM106', 'PHIL380', 'HUM206']",4.65
-1022,Segerstrale,Ullica,3.9,41,4.5,"['SOC200', 'SOC311', 'SOC301', 'SOC303', 'SOC308', 'SOC302', 'SOC305', 'SOC208', 'SOC211', 'SOC285']",4.353658536585366
-1023,Segre,Carlo,4.0,21,4.61,"['PHYS100', 'PHYS223', 'PHYS348', 'PHYS412', 'PHYS485', 'PHYS570', 'PHYS770', 'PHYS405', 'PHYS406']",4.464761904761905
+1022,Segerstrale,Ullica,3.9,41,4.5,"['SOC200', 'SOC311', 'SOC301', 'SOC303', 'SOC308', 'SOC302', 'SOC305', 'SOC208', 'SOC211', 'SOC285']",4.353658537
+1023,Segre,Carlo,4,21,4.61,"['PHYS100', 'PHYS223', 'PHYS348', 'PHYS412', 'PHYS485', 'PHYS570', 'PHYS770', 'PHYS405', 'PHYS406']",4.464761905
 1024,Selman,Robert,,1,3.6,['MMAE473'],3.6
 1025,Sennott,Stephen,,6,4.72,['ARCH456'],4.72
 1026,Sexton-Radek,Kathleen,,,,['PSYC588'],
 1027,Shadden,Shawn,3.8,10,3.76,"['MMAE320', 'MMAE310', 'MMAE350', 'MMAE542']",3.78
 1028,Shah,Anand,,4,3.63,['CHE470'],3.63
-1029,Shah-Brandenburg,Twisha,,1,3.0,['IPRO497'],3.0
-1030,Shahidehpour,Mohammad,3.0,14,4.38,"['ECE581', 'ECE582', 'ECE553', 'ECE561', 'ECE420']",4.0842857142857145
+1029,Shah-Brandenburg,Twisha,,1,3,['IPRO497'],3
+1422,Shahidehpoor, Mohammad,3,3,,,3
+1030,Shahidehpour,Mohammad,,11,4.38,"['ECE581', 'ECE582', 'ECE553', 'ECE561', 'ECE420']",4.38
 1031,Shamsuddin,Sheikh,4.7,14,4.84,"['ITM451', 'ITM312', 'ITM311', 'ITMO451', 'ITMD412', 'ITMO417', 'ITMO433', 'ITMO517', 'ITMO533', 'IT']",4.78
+1423,Shanechi, Mohamad Hassan Modir,3.7,22,,,3.7
 1032,Shankar,Rama,,4,4.29,['INTM406'],4.29
 1033,Shapiro,Matthew,3.6,25,4.14,"['PS209', 'PS306', 'PS332', 'PS338', 'PS385', 'PS353', 'SSCI209', 'PS373']",4.0536
 1034,Sharma,Neeraj,,4,3.53,['FPE541'],3.53
-1035,Sharma,Priyanka,2.0,15,4.21,"['MBA505', 'MSC511', 'BUS382', 'ECON211', 'ECON151']",3.9153333333333333
-1036,Shaw,Leon,1.0,10,4.49,"['MMAE482', 'MMAE579', 'MMAE520', 'MMAE461', 'IPRO497', 'MMAE597', 'MS201']",4.141
+1035,Sharma,Priyanka,2,15,4.21,"['MBA505', 'MSC511', 'BUS382', 'ECON211', 'ECON151']",3.915333333
+1036,Shaw,Leon,1,10,4.49,"['MMAE482', 'MMAE579', 'MMAE520', 'MMAE461', 'IPRO497', 'MMAE597', 'MS201']",4.141
 1037,Sheehan,Lindsay,,4,4.24,"['PSYC436', 'PSYC435', 'PSYC562', 'PSYC557', 'PSYC563']",4.24
 1038,Sheldon,Douglas,,2,3.78,"['PESL062', 'PESL031', 'ELP832']",3.78
 1039,Shen,Jiehua,,25,4.69,"['CAE303', 'CAE431', 'CAE410', 'CAE525', 'CAE593', 'CAE586', 'CAE420', 'CAE582']",4.69
 1040,Shen,Zheng,,11,4.7,"['ECE538', 'ECE311', 'ECE551', 'ECE430']",4.7
-1041,Shepard,Kelly,,1,5.0,['MSED200'],5.0
+1424,Shen, John,5,4,,,5
+1041,Shepard,Kelly,,1,5,['MSED200'],5
 1042,Sher,Tamara,,3,4.53,"['PSYC533', 'PSYC588', 'PSYC509', 'PSYC512']",4.53
 1043,Sheth,Sagar,,2,4.78,['MSF535'],4.78
+1425,Shi, Jonathan,3.8,4,,,3.8
 1044,Shibli,Aiman,,2,4.56,"['MMAE545', 'MMAE202']",4.56
 1045,Shields,Herbert,,16,4.53,"['INTM443', 'IPRO497', 'INTM461', 'INTM432', 'INTM543']",4.53
 1046,Shin,Suemee,,5,3.72,"['ITMD527', 'IT', 'ITMD529']",3.72
-1047,Shive,Joseph,2.4,16,3.77,"['MATH152', 'MATH151', 'MATH251']",2.9137500000000003
+1047,Shive,Joseph,2.4,16,3.77,"['MATH152', 'MATH151', 'MATH251']",2.91375
 1048,Shoda,Sayaka,,2,4.66,"['PS299', 'PS399']",4.66
-1049,Shoger,Wilhelmina,,1,5.0,['PSYC303'],5.0
+1049,Shoger,Wilhelmina,,1,5,['PSYC303'],5
 1050,Shojaie,Homa,,1,3.69,['ARCH506'],3.69
 1051,Shunia,Limia,,15,4.35,"['ID583', 'IPRO497', 'IPRO397']",4.35
 1052,Shurtleff,Benjamin,,1,4.54,['COM101'],4.54
-1053,Shylnov,Yurii,3.3,61,4.44,"['PHYS501', 'PHYS508', 'PHYS403', 'PHYS510', 'PHYS221', 'PHYS224', 'PHYS505', 'PHYS123', 'PHYS518', 'PHYS502', 'PHYS301']",3.9540983606557374
+1053,Shylnov,Yurii,3.3,61,4.44,"['PHYS501', 'PHYS508', 'PHYS403', 'PHYS510', 'PHYS221', 'PHYS224', 'PHYS505', 'PHYS123', 'PHYS518', 'PHYS502', 'PHYS301']",3.954098361
 1054,Siem,Michael,,,,['IPMM503'],
 1055,Siemionow,Agata,,1,4.57,"['ARCH419', 'ARCH497']",4.57
 1056,Sieracki,Bernard,,6,4.6,"['PA501', 'PA597', 'MBA589', 'PA502']",4.6
 1057,Sierralta,Karla,,8,4.45,"['ARCH418', 'ARCH417', 'ARCH497', 'ARCH543', 'ARCH542', 'ARCH107', 'ARCH541']",4.45
 1058,Silva,Grant,,3,3.98,"['HUM102', 'PHIL380']",3.98
+1426,Simko, Peter,3.5,2,,,3.5
 1059,Sitton,Susan,3.4,24,3.93,"['MATH120', 'MATH152']",3.46625
 1060,Skala,Tracy,,,,['GLS180'],
 1061,Skinner,John,,3,4.56,['PSYC301'],4.56
 1062,Skorup,Zoka,,1,2.33,"['ARCH417', 'ARCH419', 'ARCH420']",2.33
-1063,Slater,William,4.1,19,4.44,"['ITM576', 'ITM301', 'ITMT535', 'ITM302', 'ITM311', 'ITMM576', 'ITMS478', 'ITMM571', 'ITMD526', 'IT']",4.368421052631579
+1063,Slater,William,,15,4.44,"['ITM576', 'ITM301', 'ITMT535', 'ITM302', 'ITM311', 'ITMM576', 'ITMS478', 'ITMM571', 'ITMD526', 'IT']",4.44
+1427,Slater, Bill,4.1,4,,,4.1
 1064,Sloane,Judith,,,,['ELP831'],
 1065,Smietana,Robert,,6,4.91,"['ARCH563', 'ARCH463']",4.91
 1066,Snapper,John,,26,4.76,"['HUM104', 'PHIL311', 'PHIL301', 'PHIL363', 'PHIL305', 'PHIL380', 'HUM200']",4.76
+1428,Snapper, Jack,4.6,23,,,4.6
 1067,Snider,Albert,,5,4.01,"['CHEM512', 'CHEM509']",4.01
 1068,Snopok,Pavel,,8,4.32,"['PHYS508', 'PHYS440', 'PHYS413', 'PHYS414']",4.32
 1069,Snyder,Aaron,,,,['PHIL380'],
-1070,Snyder,Mark,3.4,61,3.94,"['CAE110', 'CAE208', 'CAE383', 'CAE111', 'CAE209', 'IPRO497', 'CAE334', 'CAE593', 'CAE497', 'CAE495', 'CAE466', 'CAE467', 'CAE521']",3.8072131147540986
+1070,Snyder,Mark,3.4,61,3.94,"['CAE110', 'CAE208', 'CAE383', 'CAE111', 'CAE209', 'IPRO497', 'CAE334', 'CAE593', 'CAE497', 'CAE495', 'CAE466', 'CAE467', 'CAE521']",3.807213115
 1071,Sobek,Werner,,6,4.09,"['ARCH417', 'ARCH418']",4.09
 1072,Sobers,Courtney,,1,4.8,"['CHEM240', 'CHEM539', 'CHEM237', 'IPRO497']",4.8
 1073,Solheim,Michael,,1,4.5,['MAX521'],4.5
@@ -1077,33 +1236,36 @@ id,last,first,rmp_rating,confidence,IIT_rating,courses,overall
 1076,Song,Guohui,,4,3.98,"['MATH151', 'MATH152', 'MATH474']",3.98
 1077,Sorrell,Lynsey,,4,4.09,"['ARCH305', 'ARCH306', 'ARCH543', 'ARCH544']",4.09
 1078,Sosa,Erica,,4,4.98,"['PESL061', 'PESL021', 'PESL032', 'PESL062']",4.98
-1079,Spenko,Matthew,3.3,23,4.1,"['MMAE305', 'MMAE540', 'MMAE432', 'MMAE232']",3.752173913043478
-1080,Spentzouris,Linda,3.7,23,4.24,"['PHYS123', 'PHYS505', 'PHYS414', 'PHYS413', 'PHYS221', 'PHYS507']",3.9113043478260874
+1079,Spenko,Matthew,3.3,23,4.1,"['MMAE305', 'MMAE540', 'MMAE432', 'MMAE232']",3.752173913
+1080,Spentzouris,Linda,3.7,23,4.24,"['PHYS123', 'PHYS505', 'PHYS414', 'PHYS413', 'PHYS221', 'PHYS507']",3.911304348
 1081,Spink,Aaron,,8,4.38,"['HUM204', 'PHIL302', 'PHIL311']",4.38
-1082,Spink,Kathryn,2.9,70,4.12,"['BIOL109', 'BIOL410', 'BIOL445', 'BIOL210', 'BIOL225', 'BIOL327', 'BIOL503', 'BIOL117', 'BIOL542', 'BIOL107']",3.5622857142857143
+1082,Spink,Kathryn,2.9,70,4.12,"['BIOL109', 'BIOL410', 'BIOL445', 'BIOL210', 'BIOL225', 'BIOL327', 'BIOL503', 'BIOL117', 'BIOL542', 'BIOL107']",3.562285714
 1083,Spyrison,Scott,,6,4.8,"['ITMD415', 'ITMD510', 'ITMD515', 'IT']",4.8
 1084,Sriraj,P,,11,4.3,"['CAE548', 'CAE546', 'CAE545']",4.3
 1085,Srivastava,Ankit,4.5,8,4.6,"['MMAE200', 'MMAE202', 'MMAE535']",4.5625
 1086,Stabin,Michael,,,,['PHYS576'],
-1087,Stanard,Steven,4.6,41,4.73,"['PSYC221', 'PSYC301', 'PSYC489', 'PSYC238', 'PSYC588', 'PSYC720', 'IPRO497', 'PSYC722', 'PSYC222', 'PSYC380', 'PSYC100']",4.679268292682927
-1088,Stark,Benjamin,4.7,40,4.8,"['BIOL214', 'BIOL542', 'BIOL515', 'BIOL576', 'BIOL495', 'BIOL501', 'BIOL533', 'BIOL451']",4.75
-1089,Stasi,Despina,2.0,1,,"['MATH152', 'MATH410', 'MATH563']",2.0
-1090,Steffenson,Rebecca,3.8,9,4.57,"['PS220', 'PS100', 'PS313', 'PS486', 'LCHS100', 'SSCI220', 'IPRO497', 'SSCI486']",4.398888888888889
+1087,Stanard,Steven,,25,4.73,"['PSYC221', 'PSYC301', 'PSYC489', 'PSYC238', 'PSYC588', 'PSYC720', 'IPRO497', 'PSYC722', 'PSYC222', 'PSYC380', 'PSYC100']",4.73
+1429,Stanard, Stephen,4.6,16,,,4.6
+1088,Stark,Benjamin,,20,4.8,"['BIOL214', 'BIOL542', 'BIOL515', 'BIOL576', 'BIOL495', 'BIOL501', 'BIOL533', 'BIOL451']",4.8
+1430,Stark, Ben,4.7,20,,,4.7
+1089,Stasi,Despina,2,1,,"['MATH152', 'MATH410', 'MATH563']",2
+1090,Steffenson,Rebecca,3.8,9,4.57,"['PS220', 'PS100', 'PS313', 'PS486', 'LCHS100', 'SSCI220', 'IPRO497', 'SSCI486']",4.398888889
 1091,Stein,Jordan,,4,3.48,"['PSYC203', 'PSYC502', 'PSYC301']",3.48
 1092,Steinberg,Marilyn,,2,4.19,"['PSYC221', 'PSYC303']",4.19
-1093,Stephens,Brent,3.0,11,4.66,"['CAE463', 'ENVE576', 'CAE331']",4.509090909090909
+1093,Stephens,Brent,3,11,4.66,"['CAE463', 'ENVE576', 'CAE331']",4.509090909
 1094,Stern,Samantha,,,,"['PSYC221', 'PSYC411']",
 1095,Stickney,Laurie,,2,4.46,"['PSYC221', 'PSYC303']",4.46
 1096,Stirling,Susan,,1,4.47,['IPRO100'],4.47
 1097,Stobbe,Gregory,,1,4.55,['INTM425'],4.55
-1098,Stolley,Karl,3.0,19,4.67,"['COM521', 'COM542', 'COM532', 'COM535', 'COM530', 'COM580', 'COM380', 'COM531', 'COM381', 'COM541', 'COM327', 'COM201', 'COM425', 'COM529', 'IT', 'ITMD362', 'COM331']",4.406315789473684
+1098,Stolley,Karl,3,19,4.67,"['COM521', 'COM542', 'COM532', 'COM535', 'COM530', 'COM580', 'COM380', 'COM531', 'COM381', 'COM541', 'COM327', 'COM201', 'COM425', 'COM529', 'IT', 'ITMD362', 'COM331']",4.406315789
 1099,Stoner,John,,11,3.6,"['IPRO497', 'BUS341', 'BUS402']",3.6
 1100,Straus,Kenneth,,1,2.63,['ITM312'],2.63
 1101,Strumendo,Matteo,,1,4.28,['CHE439'],4.28
 1102,Stuart,Edward,,17,4.81,"['ECON152', 'ECON151', 'ECON211', 'BUS452']",4.81
+1431,Stueben, Edwin,4.5,4,,,4.5
 1103,Stutzki,Christian,,7,4.14,"['ARCH486', 'ARCH485', 'ARCH509']",4.14
 1104,Sullivan,Zack,,4,4.21,"['PHYS553', 'PHYS545', 'PHYS546', 'PHYS123', 'IPRO497', 'PHYS404']",4.21
-1105,Sun,Jiong,4.1,29,4.52,"['BUS321', 'MSF503', 'BUS221', 'BUS550', 'BUS497', 'MSC642']",4.317241379310344
+1105,Sun,Jiong,4.1,29,4.52,"['BUS321', 'MSF503', 'BUS221', 'BUS550', 'BUS497', 'MSC642']",4.317241379
 1106,Sun,Xian-He,,3,4.38,"['CS546', 'CS570']",4.38
 1107,Supangkat,Hendrarto,,2,4.16,"['BUS221', 'BUS305']",4.16
 1108,Surdenik,Christopher,,1,4.32,['BUS104'],4.32
@@ -1112,288 +1274,182 @@ id,last,first,rmp_rating,confidence,IIT_rating,courses,overall
 1111,Suzuki,Kenji,,4,4.44,"['ECE566', 'ECE565']",4.44
 1112,Swenson,Lasalle,,1,4.55,['CHEM125'],4.55
 1113,Szobocsan,John,,7,4.8,['MSF535'],4.8
-1114,Takeuchi,Arthur,4.0,4,,['ARCH417'],4.0
+1114,Takeuchi,Arthur,4,4,,['ARCH417'],4
 1115,Talesnik,Daniel,,,,"['ARCH500', 'ARCH602', 'ARCH321']",
 1116,Tanner,Martha,2.9,16,3.88,"['CHEM100', 'CHEM124', 'CHEM125', 'CHEM416', 'CHEM122', 'CHEM415']",3.45125
-1117,Tapia,Elizabeth,,1,4.0,['HUM106'],4.0
+1117,Tapia,Elizabeth,,1,4,['HUM106'],4
 1118,Tari,Canan,,1,3.36,['BIOL404'],3.36
 1119,Tatara,Eric,,1,4.5,['CHE560'],4.5
 1120,TBA,Faculty,,2,3.31,"['IPMM506', 'ARCH418']",3.31
 1121,Teer,Marc,,4,3.51,['ARCH497'],3.51
 1122,Telman,Ashley,,12,4.84,"['COM111', 'COM101']",4.84
-1123,Temples,Alisha,,1,4.0,['AS202'],4.0
+1123,Temples,Alisha,,1,4,['AS202'],4
 1124,Ternovits,Scott,,,,['IPRO397'],
 1125,Terry,Jeffrey,,12,3.76,"['PHYS240', 'CHEM509', 'PHYS348', 'PHYS537', 'PHYS538', 'PHYS200', 'PHYS440', 'PHYS221', 'IPRO497']",3.76
-1126,Terschak,John,3.0,4,4.83,"['CHEM321', 'CHEM237', 'CHEM451', 'CHEM410']",4.3725000000000005
+1126,Terschak,John,3,4,4.83,"['CHEM321', 'CHEM237', 'CHEM451', 'CHEM410']",4.3725
 1127,Terzakis,Jill,,1,4.1,"['PS354', 'PS214']",4.1
-1128,Teymour,Fouad,4.1,23,4.41,"['CHE423', 'CHE538', 'CHE433', 'CHE100', 'CHE101', 'CHE525', 'CHE435', 'IPRO497']",4.315652173913043
+1432,Teufel, Thomas,4.4,5,,,4.4
+1128,Teymour,Fouad,4.1,23,4.41,"['CHE423', 'CHE538', 'CHE433', 'CHE100', 'CHE101', 'CHE525', 'CHE435', 'IPRO497']",4.315652174
 1129,Thadhani,Monika,,1,4.75,['ARCH497'],4.75
 1130,Thakkar,Bharat,,1,3.56,['MMAE305'],3.56
 1131,Thilges,Sarah,,3,4.19,"['PSYC303', 'PSYC380', 'PSYC512', 'PSYC523']",4.19
 1132,Thomopoulos,Nick,,1,4.57,"['MSC530', 'MSC538']",4.57
-1133,Thompson,Katherine,3.0,8,4.78,"['COM125', 'COM126', 'COM225', 'LIT380', 'HUM200']",4.5575
-1134,Tichauer,Kenneth,5.0,8,4.69,"['BME330', 'BME437', 'BME422']",4.728750000000001
-1135,Tier,Charles,4.0,43,4.47,"['MATH152', 'MATH252', 'MATH486', 'MATH151', 'MATH251', 'MATH333', 'MATH523', 'MATH332']",4.273255813953488
-1136,Tijunelis,D,4.3,7,4.39,"['INTM433', 'IPRO497', 'INTM460', 'INTM497']",4.364285714285714
+1133,Thompson,Katherine,,7,4.78,"['COM125', 'COM126', 'COM225', 'LIT380', 'HUM200']",4.78
+1433,Thompson, Kate,3,1,,,3
+1134,Tichauer,Kenneth,5,8,4.69,"['BME330', 'BME437', 'BME422']",4.72875
+1135,Tier,Charles,4,43,4.47,"['MATH152', 'MATH252', 'MATH486', 'MATH151', 'MATH251', 'MATH333', 'MATH523', 'MATH332']",4.273255814
+1136,Tijunelis,D,,5,4.39,"['INTM433', 'IPRO497', 'INTM460', 'INTM497']",4.39
 1137,Tijunelis,D,,5,4.39,"['INTM433', 'IPRO497', 'INTM460', 'INTM497']",4.39
+1434,Tijunelis, Donatas,4.3,2,,,4.3
 1138,Tillman,Gerve,,,,"['AS101', 'AS302']",
 1139,Timofeeva,Elena,,,,['CHEM416'],
-1140,Tin,Sammy,4.5,26,4.62,"['MMAE370', 'MMAE485', 'MMAE593', 'MMAE566', 'MMAE372', 'MMAE472', 'MMAE373']",4.6061538461538465
+1140,Tin,Sammy,4.5,26,4.62,"['MMAE370', 'MMAE485', 'MMAE593', 'MMAE566', 'MMAE372', 'MMAE472', 'MMAE373']",4.606153846
 1141,Tinucci,Andrew,,9,4.79,"['ARCH305', 'ARCH306', 'ARCH497', 'ARCH417', 'ARCH418']",4.79
-1142,Tomal,Daniel,4.5,24,4.4,"['IPRO497', 'INTM301', 'INTM319', 'INT301']",4.408333333333334
+1142,Tomal,Daniel,,22,4.4,"['IPRO497', 'INTM301', 'INTM319', 'INT301']",4.4
+1435,Tomal, Dan,4.5,2,,,4.5
 1143,Torun,Yagmur,,15,3.85,"['PHYS224', 'PHYS300', 'PHYS221', 'PHYS223', 'PHYS413', 'PHYS240', 'PHYS414']",3.85
 1144,Tourk,Khairy,,5,4.34,"['ECON570', 'MBA505', 'MBA543', 'MBA544', 'MBA502', 'ECON211']",4.34
 1145,Tower,Addison,,1,4.7,"['AS201', 'AS402']",4.7
 1146,Trantowski,Kenneth,,,,['MC534'],
 1147,Tresser,Thomas,,2,3.54,['PSYC380'],3.54
-1148,Troyk,Philip,1.9,12,3.62,"['IPRO497', 'BME443', 'BME405']",3.046666666666667
-1149,Trygstad,Raymond,4.0,31,4.3,"['ITM454', 'ITM478', 'ITM460', 'ITM100', 'ITM470', 'ITM456', 'ITMS478', 'ITMD460', 'ITMO456', 'ITMM485', 'ITMO556', 'ITMS578', 'IT']",4.232258064516128
+1148,Troyk,Philip,,8,3.62,"['IPRO497', 'BME443', 'BME405']",3.62
+1436,Troyk, Phil,1.9,4,,,1.9
+1149,Trygstad,Raymond,,24,4.3,"['ITM454', 'ITM478', 'ITM460', 'ITM100', 'ITM470', 'ITM456', 'ITMS478', 'ITMD460', 'ITMO456', 'ITMM485', 'ITMO556', 'ITMS578', 'IT']",4.3
+1437,Trygstad, Ray,4,7,,,4
 1150,Turitto,Vincent,,2,3.95,"['BME490', 'BME500', 'BME581', 'BME501', 'BME100']",3.95
-1151,Turley,Christopher,5.0,2,4.67,['ARCH305'],4.835
+1151,Turley,Christopher,5,2,4.67,['ARCH305'],4.835
 1152,Tuttle,Steven,,,,['SOC200'],
-1153,Tuz,Karina,3.0,6,4.11,"['BIOL109', 'BIOL527', 'BIOL440']",3.555
-1154,Twombly,John,3.5,52,4.17,"['BUS211', 'ECON423', 'INTM408', 'BUS212', 'BUS351', 'BUS497', 'MBA501']",3.9123076923076923
+1153,Tuz,Karina,3,6,4.11,"['BIOL109', 'BIOL527', 'BIOL440']",3.555
+1154,Twombly,John,3.5,52,4.17,"['BUS211', 'ECON423', 'INTM408', 'BUS212', 'BUS351', 'BUS497', 'MBA501']",3.912307692
+1438,Ucci, Donald,2.5,12,,,2.5
 1155,Uhlir,Edward,,1,4.57,['ARCH454'],4.57
 1156,Uhlmann,Eric,,1,4.41,['PSYC502'],4.41
-1157,Unni,Aditya,4.0,13,4.07,"['CHEM235', 'CHEM239', 'CHEM237', 'CHEM455', 'CHEM530', 'CHEM240', 'CHEM485', 'CHEM434']",4.0430769230769235
-1158,Vaccaro,Kevin,3.3,17,4.44,"['ITM440', 'ITM441', 'ITMS448', 'ITMO441', 'ITMS443', 'ITMS543', 'IT']",4.238823529411765
+1157,Unni,Aditya,4,13,4.07,"['CHEM235', 'CHEM239', 'CHEM237', 'CHEM455', 'CHEM530', 'CHEM240', 'CHEM485', 'CHEM434']",4.043076923
+1158,Vaccaro,Kevin,3.3,17,4.44,"['ITM440', 'ITM441', 'ITMS448', 'ITMO441', 'ITMS443', 'ITMS543', 'IT']",4.238823529
 1159,Vallejo,Rodney,,,,['PSYC250'],
 1160,Van Benthuysen,John,,1,4.8,['PS200'],4.8
-1161,VanDame,Robert,,1,4.0,"['ITM495', 'ITMM464']",4.0
 1162,Van Overberghe,Courtney,,,,['PSYC301'],
 1163,Van Someren,Matthew,,,,['PA510'],
 1164,Van Vliet,Benjamin,,18,4.37,"['MSF503', 'MSF574', 'MSF575', 'MSF576', 'BUS497']",4.37
-1165,VanDame,Robert,,1,4.0,"['ITM495', 'ITMM464']",4.0
-1166,Venerus,David,3.6,22,4.13,"['CHE406', 'CHE551', 'CHE351', 'CHE301']",3.889090909090909
+1161,VanDame,Robert,,1,4,"['ITM495', 'ITMM464']",4
+1165,VanDame,Robert,,1,4,"['ITM495', 'ITMM464']",4
+1439,Vanvliet, Ben,5,3,,,5
+1440,Velenis, Dimitrios,4.8,3,,,4.8
+1166,Venerus,David,3.6,22,4.13,"['CHE406', 'CHE551', 'CHE351', 'CHE301']",3.889090909
 1167,Vernale,Michael,,2,4.48,['PSYC222'],4.48
 1168,Vernau,Carrie,,4,4.41,"['BUS455', 'BUS301', 'BUS100']",4.41
 1169,Veselinovic,Dusan,2.6,8,4.27,"['ECE436', 'ECE437']",3.22625
 1170,Vesselinovitch,Andrew,,2,4.28,"['ARCH497', 'CRP520']",4.28
 1171,Vinuesa Motilva,Ricardo,,1,4.92,['MMAE322'],4.92
 1172,Vogler,Jesse,,3,4.27,"['ARCH543', 'LA501', 'LA542']",4.27
-1173,Vural,Murat,3.5,31,3.76,"['CAE503', 'MMAE100', 'MMAE482', 'IPRO497', 'MMAE202', 'MMAE416', 'MMAE419', 'MMAE530', 'MMAE319', 'MMAE200']",3.692903225806451
+1173,Vural,Murat,3.5,31,3.76,"['CAE503', 'MMAE100', 'MMAE482', 'IPRO497', 'MMAE202', 'MMAE416', 'MMAE419', 'MMAE530', 'MMAE319', 'MMAE200']",3.692903226
 1174,Wad,Atul,,,,['IPRO497'],
-1175,Wagman,Liad,4.5,23,4.83,"['ECON151', 'ECON211', 'BUS382', 'MBA505', 'MSC511', 'ECON152', 'MBA523']",4.772608695652174
+1175,Wagman,Liad,4.5,23,4.83,"['ECON151', 'ECON211', 'BUS382', 'MBA505', 'MSC511', 'ECON152', 'MBA523']",4.772608696
 1176,Wallace,Sean,,4,3.99,['CS450'],3.99
+1441,Wallace, Barbara,2.9,8,,,2.9
 1177,Walsh,Seanna,,,,['ARCH207'],
 1178,Walz,Elizabeth,,,,"['COM126', 'LIT380']",
 1179,Wan,Jason,,8,4.19,"['FPE531', 'FST531', 'FDSN531']",4.19
 1180,Wan,Peng-Jun,,11,3.98,"['CS547', 'CS595', 'CS430', 'CS330']",3.98
+1442,Wan, Peng Jun,,0,,,
+1443,Wan, Pengjun,2.2,7,,,2.2
 1181,Wang,Haizhi,,11,4.63,"['MSF502', 'MSF566', 'MSC621', 'MSC515', 'MSF595', 'MSC512', 'MSF534']",4.63
-1182,Wang,Jia,4.0,26,4.44,"['ECE587', 'ECE429', 'ECE449', 'ECE218', 'ECE586']",4.389230769230769
-1183,Wang,Rong,1.9,27,4.36,"['CHEM343', 'CHEM597', 'CHEM550', 'CHEM584', 'CHEM538', 'CHEM100', 'CHEM497']",2.7199999999999998
+1182,Wang,Jia,4,26,4.44,"['ECE587', 'ECE429', 'ECE449', 'ECE218', 'ECE586']",4.389230769
+1183,Wang,Rong,1.9,27,4.36,"['CHEM343', 'CHEM597', 'CHEM550', 'CHEM584', 'CHEM538', 'CHEM100', 'CHEM497']",2.72
 1184,Wang,Wenyan,,1,3.81,['MMAE545'],3.81
 1185,Wang,Yang,,2,4.22,"['BIOL404', 'BIOL519']",4.22
 1186,Ward,Amanda,,1,3.86,['SOC208'],3.86
-1187,Wark,Candace,4.7,23,3.99,"['MMAE310', 'MMAE452', 'MMAE311', 'CHE301', 'IPRO497', 'MMAE313', 'MMAE315', 'MMAE312']",4.206086956521739
+1187,Wark,Candace,,16,3.99,"['MMAE310', 'MMAE452', 'MMAE311', 'CHE301', 'IPRO497', 'MMAE313', 'MMAE315', 'MMAE312']",3.99
+1444,Wark, Candice,4.7,7,,,4.7
 1188,Wasan,Darsh,,1,4.6,['CHE582'],4.6
 1189,Washington,Terrell,,1,4.82,"['MILS147', 'MILS148']",4.82
 1190,Waterloo,Daniel,,,,['INTM477'],
 1191,Waters,Michael,,5,4.64,"['AAH119', 'AAH380', 'AAH120']",4.64
-1192,Watson,Jeremy,5.0,5,4.36,"['PSYC301', 'PSYC436', 'PSYC380']",4.488
+1192,Watson,Jeremy,5,5,4.36,"['PSYC301', 'PSYC436', 'PSYC380']",4.488
+1445,Watson, John,4.8,4,,,4.8
 1193,Webb,Rosemarie,,4,3.86,"['ARCH201', 'CRP201', 'ARCH544']",3.86
 1194,Weber,Christopher,,,,['AS102'],
-1195,Weening,Fred,3.7,55,4.31,"['MATH152', 'MATH151', 'MATH251', 'MATH130']",4.032727272727272
-1196,Weil,Vivian,4.0,2,4.0,['PHIL370'],4.0
+1195,Weening,Fred,,30,4.31,"['MATH152', 'MATH151', 'MATH251', 'MATH130']",4.31
+1446,Weening, Frederick,3.7,25,,,3.7
+1196,Weil,Vivian,4,2,4,['PHIL370'],4
 1197,Weinstein,Cynthia,,1,3.87,['PSYC303'],3.87
 1198,Weir,Arthur,,6,3.56,"['ARCH465', 'ARCH565', 'ARCH424']",3.56
-1199,Mueller,Suzanne,,11,4.24,"['BUS473', 'MBA581', 'BUS371', 'BUS100', 'MAC502']",4.24
-1200,Welsh,Lee,3.3,13,4.28,['CAE471'],4.053846153846154
-1201,Wereszczynski,Jeffery,4.5,4,4.2,"['PHYS410', 'PHYS221', 'PHYS304']",4.275
+1447,Weiss, Suzanne,4.6,12,,,4.6
+1200,Welsh,Lee,3.3,13,4.28,['CAE471'],4.053846154
+1201,Wereszczynski,Jeffery,,3,4.2,"['PHYS410', 'PHYS221', 'PHYS304']",4.2
+1448,Wereszczynski, Jeff,4.5,1,,,4.5
 1202,Wernick,Miles,,6,4.46,"['ECE481', 'ECE566']",4.46
 1203,Wetzel,Catherine,,15,4.2,"['ARCH506', 'ARCH541', 'ARCH542', 'ARCH507', 'ARCH543', 'ARCH418', 'ARCH417', 'ARCH497', 'ARCH440']",4.2
 1204,White,Alexander,,1,3.57,['NS302'],3.57
 1205,White,Christopher,4.6,16,4.44,"['MSED544', 'PHYS200', 'PHYS223', 'PHYS221']",4.53
 1206,Whitney,Stephanie,,,,['MSED501'],
 1207,Widlak,Izabela,,1,4.04,['PSYC301'],4.04
-1208,Wiedman,Thomas,,1,4.0,['ECE554'],4.0
+1208,Wiedman,Thomas,,1,4,['ECE554'],4
 1209,Wigen,Jeffrey,,1,4.33,"['ARCH107', 'ARCH108']",4.33
 1210,Williams,Amanda,,12,4.17,"['ARCH113', 'ARCH114', 'ARCH305', 'ARCH306', 'ARCH497']",4.17
 1211,Williams,Bradford,,,,['PSYC301'],
 1212,Williams,David,,15,4.42,"['MMAE516', 'MMAE312', 'MMAE315', 'MMAE452', 'MMAE410', 'MMAE415', 'MMAE414']",4.42
 1213,Williams,Elizabeth,,6,3.98,"['ARCH306', 'ARCH201', 'ARCH202']",3.98
-1214,Williamson,Geoffrey,4.8,32,4.57,"['ECE308', 'ECE567', 'ECE438', 'ECE535', 'ECE569', 'ECE531', 'ECE505']",4.649062499999999
+1214,Williamson,Geoffrey,4.8,32,4.57,"['ECE308', 'ECE567', 'ECE438', 'ECE535', 'ECE569', 'ECE531', 'ECE505']",4.6490625
 1215,Wills,Douglas,,4,3.67,"['IPRO497', 'IPRO397']",3.67
 1216,Wimer,Ross,,6,4.39,"['ARCH545', 'ARCH418', 'ARCH417', 'ARCH593']",4.39
-1217,Winans,Vida,2.4,73,3.5,"['CS115', 'CS116', 'CS201', 'CS104', 'CS497', 'CS495']",2.686301369863014
+1217,Winans,Vida,2.4,73,3.5,"['CS115', 'CS116', 'CS201', 'CS104', 'CS497', 'CS495']",2.68630137
 1218,Winkin,David,,1,4.63,['IPRO497'],4.63
 1219,Wojcik,Russell,,7,4.55,"['MSF584', 'MSF585']",4.55
 1220,Wolf,Theodore,,1,4.67,['LA543'],4.67
 1221,Womack,Jay,,3,4.42,"['LA567', 'LA497', 'LA568']",4.42
-1222,Wong,Thomas,3.3,38,3.87,"['ECE311', 'ECE509', 'IPRO497', 'ECE312', 'ECE421', 'ECE576', 'ECE575', 'ECE307', 'ECE571', 'ECE578']",3.6750000000000003
+1222,Wong,Thomas,3.3,38,3.87,"['ECE311', 'ECE509', 'IPRO497', 'ECE312', 'ECE421', 'ECE576', 'ECE575', 'ECE307', 'ECE571', 'ECE578']",3.675
 1223,Wood,Antony,,5,4.21,"['ARCH497', 'ARCH418', 'ARCH593', 'ARCH419']",4.21
 1224,Woodhouse,David,,10,3.99,"['ARCH417', 'ARCH418']",3.99
 1225,Wooller,Kirk,,1,2.77,['ARCH501'],2.77
 1226,Wu,Benxin,4.9,24,4.21,"['MMAE546', 'MMAE201', 'MMAE306', 'MMAE202', 'MMAE585', 'MMAE200', 'MMAE323', 'MMAE100', 'MMAE232']",4.41125
 1227,Wu,Tao,,13,3.93,"['MBA509', 'MSF505', 'MSF545', 'BUS458', 'MSF525']",3.93
-1228,Xiang,Jialing,3.2,21,4.57,"['BIOL445', 'BIOL545', 'BIOL544', 'BIOL533', 'BIOL522', 'BIOL446', 'BIOL520']",4.243809523809524
+1228,Xiang,Jialing,3.2,21,4.57,"['BIOL445', 'BIOL545', 'BIOL544', 'BIOL533', 'BIOL522', 'BIOL446', 'BIOL520']",4.243809524
 1229,Xie,Xiaoxia,,5,4.17,"['MATH252', 'MATH488']",4.17
-1230,Xu,Yang,3.2,11,3.88,"['ECE527', 'ECE425', 'ECE525', 'ECE597', 'ECE312']",3.694545454545455
-1231,Yagoobi,Jamal,5.0,5,4.56,"['MMAE433', 'MMAE525']",4.648
-1232,Yang,Yongyi,4.3,12,4.6,['ECE505'],4.449999999999999
+1449,Xie, Xiaoxia (Jessica),4.6,9,,,4.6
+1230,Xu,Yang,3.2,11,3.88,"['ECE527', 'ECE425', 'ECE525', 'ECE597', 'ECE312']",3.694545455
+1231,Yagoobi,Jamal,5,5,4.56,"['MMAE433', 'MMAE525']",4.648
+1232,Yang,Yongyi,4.3,12,4.6,['ECE505'],4.45
 1233,Yap,Bonnie,,1,4.58,['PSYC222'],4.58
 1234,Yasmis-Speroni,Firuzan,,4,3.55,"['CAE572', 'CAE471']",3.55
-1235,Yee,Wai Gen,3.0,8,3.86,"['CS100', 'IPRO497', 'CS525']",3.645
-1236,Yetik,Imam,3.8,11,4.18,"['ECE436', 'ECE569', 'ECE507', 'ECE567']",4.11090909090909
+1235,Yee,Wai Gen,3,8,3.86,"['CS100', 'IPRO497', 'CS525']",3.645
+1236,Yetik,Imam,3.8,11,4.18,"['ECE436', 'ECE569', 'ECE507', 'ECE567']",4.110909091
 1237,Yetken,Carol,,1,2.22,['LA516'],2.22
 1238,Yimer,Asmamaw,2.4,9,3.21,['MATH251'],2.67
 1239,Young,Crystal,,1,4.6,['PSYC221'],4.6
 1240,Young,Michael,,17,4.37,"['PSYC540', 'PSYC545', 'PSYC380', 'PSYC507', 'PSYC204', 'PSYC533', 'PSYC536', 'IPRO497']",4.37
+1450,YU, Cheng,1,2,,,1
 1241,Yurko-Nelson,Amy,,3,3.77,['ARCH523'],3.77
 1242,Zaher,Lisa,,,,['AAH380'],
 1243,Zalc,Jeffrey,,,,['CHE496'],
+1451,Zamorski, Stephanie,4,1,,,4
 1244,Zarse,Thaddeus,,2,4.84,"['ARCH305', 'ARCH306']",4.84
 1245,Zasadzinski,John,4.8,28,4.53,"['PHYS427', 'PHYS221', 'PHYS100', 'PHYS123']",4.665
-1246,Zatirka,Brendon,5.0,5,4.12,['HUM200'],4.648000000000001
+1246,Zatirka,Brendon,5,5,4.12,['HUM200'],4.648
 1247,Zawojewski,Judith,,,,"['MSED552', 'MSED501', 'MSED400', 'MATH420']",
-1248,Zazi,George,4.0,79,4.45,"['MATH152', 'MATH251', 'MATH252', 'BME422', 'MATH151', 'MATH148']",4.182278481012658
+1248,Zazi,George,4,79,4.45,"['MATH152', 'MATH251', 'MATH252', 'BME422', 'MATH151', 'MATH148']",4.182278481
 1249,Zdunek,Kenneth,,1,4.13,['ECE504'],4.13
+1452,Zdunek, Alan,3.3,4,,,3.3
+1453,Zdunek, Ken,,0,,,
 1250,Zeman,Gary,,2,4.86,"['PHYS576', 'PHYS577']",4.86
 1251,Zeng,Lulu,,2,3.88,"['MSF534', 'MSF554']",3.88
-1252,Zhang,Chunbo,1.8,9,3.51,"['BIOL526', 'BIOL430']",2.3699999999999997
+1252,Zhang,Chunbo,1.8,9,3.51,"['BIOL526', 'BIOL430']",2.37
 1253,Zhang,Kuilin,,1,2.8,['CAE543'],2.8
-1254,Zhang,Wei,3.5,11,4.43,"['BIOL562', 'FPE593', 'MSF502', 'FPE504', 'FST504', 'FDSN504']",4.345454545454545
-1255,Zhang,Yu-Zhu,1.5,6,3.82,"['BIOL446', 'BIOL519']",2.6599999999999997
+1254,Zhang,Wei,3.5,11,4.43,"['BIOL562', 'FPE593', 'MSF502', 'FPE504', 'FST504', 'FDSN504']",4.345454545
+1255,Zhang,Yu-Zhu,1.5,6,3.82,"['BIOL446', 'BIOL519']",2.66
+1454,Zhang, Jun,1.3,2,,,1.3
 1256,Zhang-Sun,Hong,,2,4.76,['CS595'],4.76
 1257,Zhao,Jialin,,1,4.8,['BUS102'],4.8
 1258,Zheng,Yong,,1,4.33,"['ITMD510', 'ITMD523', 'ITMD525', 'IT']",4.33
 1259,Zhong,Qingchang,,2,4.87,"['ECE550', 'ECE533']",4.87
-1260,Zhou,Chi,4.3,22,4.47,"['ECE513', 'ECE504', 'ECE438', 'ECE406']",4.454545454545454
-1261,Zhou,John,4.1,9,3.95,"['BIOL114', 'BIOL431', 'BIOL430', 'BIOL109', 'BME405']",4.016666666666667
+1260,Zhou,Chi,4.3,22,4.47,"['ECE513', 'ECE504', 'ECE438', 'ECE406']",4.454545455
+1261,Zhou,John,4.1,9,3.95,"['BIOL114', 'BIOL431', 'BIOL430', 'BIOL109', 'BME405']",4.016666667
 1262,Zhou,Zheng,,1,3.78,['BUS321'],3.78
 1263,Zhu,Junjie,,,,['ENVE404'],
 1264,Ziegler,Eric,,1,4.75,['ARCH230'],4.75
-1265,Zion,Benjamin,4.0,26,4.09,"['CHEM122', 'CHEM344', 'CHEM125', 'CHEM343']",4.045
+1265,Zion,Benjamin,4,26,4.09,"['CHEM122', 'CHEM344', 'CHEM125', 'CHEM343']",4.045
 1266,Zitlow,Ronald,,1,4.5,['PA522'],4.5
 1267,Zook,Julie,,,,['PSYC588'],
 1268,Zoruba,Sergio,,1,4.31,['CAE431'],4.31
 1269,Zummersch,Martin,,1,3.82,['PA580'],3.82
 1270,Zysk,Adam,,,,['BME439'],
-1271,Abarji, Snejana,3.3,3,,,3.3
-1272,Attelle, Rohan,4.0,35,,,4.0
-1273,Axelrod, Leslie,4.2,14,,,4.2
-1274,Ayodele, Timothy,5.0,1,,,5.0
-1275,Banerjee, Somdev,2.0,2,,,2.0
-1276,Barbarosoglu, Bahadir,5.0,1,,,5.0
-1277,Batchos, Lisa,4.5,2,,,4.5
-1278,Blitz, David,5.0,3,,,5.0
-1279,Bogdan, Korel,3.9,8,,,3.9
-1280,Bongolan-Walsh, Vena,1.3,12,,,1.3
-1281,Boukydis, Zack,2.5,1,,,2.5
-1282,Brennan, Thomas,5.0,1,,,5.0
-1283,Broadhead, Marlis,3.0,2,,,3.0
-1284,Brown, M. Gordon,2.0,1,,,2.0
-1285,Carden, Joseph,1.0,1,,,1.0
-1286,Carlson, C. Robert,3.7,9,,,3.7
-1287,Cassel, Kevin,4.8,8,,,4.8
-1288,Chapman, Dean,4.7,5,,,4.7
-1289,Choi, Ken,2.7,20,,,2.7
-1290,Chong, Joy,3.0,16,,,3.0
-1291,Chung, Rebecca,4.2,9,,,4.2
-1292,Clair, Joe,1.0,2,,,1.0
-1293,Cummings, Ben,2.0,1,,,2.0
-1294,Daamait, Goyyakka,,0,,,
-1295,Davis, Michael,,0,,,
-1296,Deforest, Paul,2.0,1,,,2.0
-1297,Deis, Christopher,2.7,3,,,2.7
-1298,Desantiago, Eduardo,3.0,2,,,3.0
-1299,Elmer, Margaret,,0,,,
-1300,Faggette, Paul,2.6,9,,,2.6
-1301,Feinberg, Susan,3.0,1,,,3.0
-1302,Ferguson, Dan,2.7,5,,,2.7
-1303,Finney, William,1.4,13,,,1.4
-1304,Fitzgerald, Qiang,5.0,1,,,5.0
-1305,Flatte, Charlotte,4.1,7,,,4.1
-1306,Fleener, David,4.6,4,,,4.6
-1307,Fliss, Marta,4.5,4,,,4.5
-1308,Flohr, Julie,2.0,4,,,2.0
-1309,Fogel, Daniel,4.0,1,,,4.0
-1310,Fogel, Brandon,4.5,6,,,4.5
-1311,Frank, Maurice,2.1,6,,,2.1
-1312,Frieder, Ophir,4.0,1,,,4.0
-1313,Gehrs, G,4.5,5,,,4.5
-1314,Gentry, Thomas,2.5,2,,,2.5
-1315,Ginsburg, Issac,2.6,14,,,2.6
-1316,Gofstein, Susan,,0,,,
-1317,Greenhouse, Ted,,0,,,
-1318,Haines, Paul,4.5,2,,,4.5
-1319,Haines, Phil,,0,,,
-1320,Hall, Connie,1.9,6,,,1.9
-1321,Hamill, Nancy,4.0,1,,,4.0
-1322,Hanlet, P,2.3,22,,,2.3
-1323,Harrington, Kevin,3.5,8,,,3.5
-1324,Hatziavramidis, Dimitri,1.0,1,,,1.0
-1325,Hazzard, Erin,4.5,3,,,4.5
-1326,Hogan, Thor,4.8,4,,,4.8
-1327,Hood, Dennis,2.4,12,,,2.4
-1328,Hunter, Robert,4.3,9,,,4.3
-1329,Hurst, Cedric,,0,,,
-1330,Huyck, Margaret,2.7,9,,,2.7
-1331,Iverson, Margot,3.8,3,,,3.8
-1332,Jachimiec, Nathan,3.4,11,,,3.4
-1333,Jack, Cappozzo,4.8,3,,,4.8
-1334,Jin, Kevin,5.0,3,,,5.0
-1335,Johnson, Porter,2.8,7,,,2.8
-1336,Kandemir, Emre,,0,,,
-1337,Kandemir, Emre,5.0,1,,,5.0
-1338,Kang-Mieler, Jennifer,2.2,5,,,2.2
-1339,Keeley, Larry,,0,,,
-1340,Kintigh, Richard,4.8,3,,,4.8
-1341,Kuprys, Rima,3.7,3,,,3.7
-1342,Ladeson, Robert,3.3,3,,,3.3
-1343,Lahey, Gary,,0,,,
-1344,Le Bihan, Soazig,5.0,1,,,5.0
-1345,Leight, Katherine,2.0,1,,,2.0
-1346,Leung, Francis,2.6,15,,,2.6
-1347,Lezotte, Dan,4.3,2,,,4.3
-1348,Locicero, Joe,4.2,11,,,4.2
-1349,Longworth, James,2.1,9,,,2.1
-1350,Lyons, Elizabeth,4.5,2,,,4.5
-1351,Mackiewicz, Jo,5.0,2,,,5.0
-1352,Manov, Alexander,2.0,3,,,2.0
-1353,Mehdi, Mohamed,4.9,8,,,4.9
-1354,Merdan, Huseyin,4.6,10,,,4.6
-1355,Mies van der Rohe, Ludwig,3.3,7,,,3.3
-1356,Mills, Jeffrey,3.7,10,,,3.7
-1357,Miranda, Jesus,4.5,6,,,4.5
-1358,Misa, Tom,4.5,5,,,4.5
-1359,Misa, Thomas,4.0,1,,,4.0
-1360,Moran, Daniel J.,2.0,1,,,2.0
-1361,Nagib, Hasan,3.2,5,,,3.2
-1362,Nesch, Ivan,2.5,1,,,2.5
-1363,Nicholson, Benjamin,3.8,6,,,3.8
-1364,Nickolai, Kevin,5.0,1,,,5.0
-1365,Nippert, Anna,4.9,5,,,4.9
-1366,Northington, Stephanie,5.0,1,,,5.0
-1367,Oczkowski, Michael,1.0,1,,,1.0
-1368,Ong, Kiah,5.0,3,,,5.0
-1369,Opara, Emmanuel,3.0,2,,,3.0
-1370,Papachristos, Andrew,4.5,5,,,4.5
-1371,Park, Weejin,4.5,1,,,4.5
-1372,Paschal, William,,0,,,
-1373,Pedret, Anne,2.4,6,,,2.4
-1374,Pinnello, Joseph,2.9,6,,,2.9
-1375,Qing, Chang Zhong,5.0,2,,,5.0
-1376,Rahnama, Farzad,,0,,,
-1377,Raju, Nambury,4.5,2,,,4.5
-1378,Roppo, Mike,1.4,4,,,1.4
-1379,Rubin, Howard,2.4,4,,,2.4
-1380,Ryan, Sue,2.3,3,,,2.3
-1381,Shen, John,5.0,4,,,5.0
-1382,Shi, Jonathan,3.8,4,,,3.8
-1383,Simko, Peter,3.5,2,,,3.5
-1384,Snapper, Jack,4.6,23,,,4.6
-1385,Stueben, Edwin,4.5,4,,,4.5
-1386,Teufel, Thomas,4.4,5,,,4.4
-1387,Ucci, Donald,2.5,12,,,2.5
-1388,Vanvliet, Ben,5.0,3,,,5.0
-1389,Velenis, Dimitrios,4.8,3,,,4.8
-1390,Wallace, Barbara,2.9,8,,,2.9
-1391,Wan, Pengjun,2.2,7,,,2.2
-1392,Watson, John,4.8,4,,,4.8
-1393,Weiss, Suzanne,4.6,12,,,4.6
-1394,Xie, Xiaoxia (Jessica),4.6,9,,,4.6
-1395,YU, Cheng,1.0,2,,,1.0
-1396,Zamorski, Stephanie,4.0,1,,,4.0
-1397,Zdunek, Alan,3.3,4,,,3.3
-1398,Zhang, Jun,1.3,2,,,1.3
